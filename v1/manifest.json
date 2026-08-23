@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "engineVersion": "tb-bfc-server/2.4",
-  "runId": "8c6b6041-ff2a-4a93-9e59-385bde73075e",
-  "startedAt": "2026-08-23T02:02:22Z",
-  "completedAt": "2026-08-23T02:04:43Z",
+  "runId": "a1e8b3da-7343-4c7a-8d6a-0906df095001",
+  "startedAt": "2026-08-23T07:05:31Z",
+  "completedAt": "2026-08-23T07:07:40Z",
   "status": "succeeded",
-  "generatedAt": "2026-08-23T02:04:43Z",
-  "sha256": "6b728d57719d378ce26c6498440bfd2ebcb7a4e203a17924b2f06fd4ce6660a2",
+  "generatedAt": "2026-08-23T07:07:40Z",
+  "sha256": "8a8a0ac271a35a784729c50a62cd1574487d4bfc8b63bab06e86eda804586f50",
   "seriesCount": 180,
   "observationCount": 17682,
   "budgetDocumentCount": 59,
@@ -19,7 +19,7 @@
       "connector": "bdf_failures_count",
       "outcome": "succeeded",
       "itemCount": 790,
-      "sourceCheckedAt": "2026-08-23T02:02:35Z"
+      "sourceCheckedAt": "2026-08-23T07:05:41Z"
     },
     {
       "sourceId": "bdf-webstat-failures",
@@ -27,7 +27,7 @@
       "connector": "bdf_failures_index",
       "outcome": "succeeded",
       "itemCount": 790,
-      "sourceCheckedAt": "2026-08-23T02:02:35Z"
+      "sourceCheckedAt": "2026-08-23T07:05:41Z"
     },
     {
       "sourceId": "ofgl-regions-consolidated",
@@ -35,7 +35,7 @@
       "connector": "ofgl_region_accounts",
       "outcome": "succeeded",
       "itemCount": 8,
-      "sourceCheckedAt": "2026-08-23T02:02:36Z"
+      "sourceCheckedAt": "2026-08-23T07:05:42Z"
     },
     {
       "sourceId": "ofgl-regions-consolidated",
@@ -43,7 +43,7 @@
       "connector": "ofgl_region_accounts",
       "outcome": "succeeded",
       "itemCount": 8,
-      "sourceCheckedAt": "2026-08-23T02:02:37Z"
+      "sourceCheckedAt": "2026-08-23T07:05:43Z"
     },
     {
       "sourceId": "ofgl-regions-consolidated",
@@ -51,7 +51,7 @@
       "connector": "ofgl_region_accounts",
       "outcome": "succeeded",
       "itemCount": 8,
-      "sourceCheckedAt": "2026-08-23T02:02:38Z"
+      "sourceCheckedAt": "2026-08-23T07:05:43Z"
     },
     {
       "sourceId": "ofgl-regions-consolidated",
@@ -59,7 +59,7 @@
       "connector": "ofgl_region_accounts",
       "outcome": "succeeded",
       "itemCount": 8,
-      "sourceCheckedAt": "2026-08-23T02:02:38Z"
+      "sourceCheckedAt": "2026-08-23T07:05:44Z"
     },
     {
       "sourceId": "ofgl-regions-consolidated",
@@ -67,7 +67,7 @@
       "connector": "ofgl_region_accounts",
       "outcome": "succeeded",
       "itemCount": 8,
-      "sourceCheckedAt": "2026-08-23T02:02:39Z"
+      "sourceCheckedAt": "2026-08-23T07:05:45Z"
     },
     {
       "sourceId": "ofgl-regions-consolidated",
@@ -75,7 +75,7 @@
       "connector": "ofgl_region_accounts",
       "outcome": "succeeded",
       "itemCount": 8,
-      "sourceCheckedAt": "2026-08-23T02:02:40Z"
+      "sourceCheckedAt": "2026-08-23T07:05:46Z"
     },
     {
       "sourceId": "ofgl-regions-consolidated",
@@ -83,7 +83,7 @@
       "connector": "ofgl_region_accounts",
       "outcome": "succeeded",
       "itemCount": 8,
-      "sourceCheckedAt": "2026-08-23T02:02:41Z"
+      "sourceCheckedAt": "2026-08-23T07:05:46Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -91,7 +91,7 @@
       "connector": "ofgl_region_benchmark",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:42Z"
+      "sourceCheckedAt": "2026-08-23T07:05:48Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -99,7 +99,7 @@
       "connector": "ofgl_region_benchmark",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:44Z"
+      "sourceCheckedAt": "2026-08-23T07:05:50Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -107,7 +107,7 @@
       "connector": "ofgl_region_benchmark",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:46Z"
+      "sourceCheckedAt": "2026-08-23T07:05:52Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -115,7 +115,7 @@
       "connector": "ofgl_region_benchmark",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:48Z"
+      "sourceCheckedAt": "2026-08-23T07:05:54Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -123,7 +123,7 @@
       "connector": "ofgl_region_benchmark",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:49Z"
+      "sourceCheckedAt": "2026-08-23T07:05:55Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -131,7 +131,7 @@
       "connector": "ofgl_region_benchmark",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:51Z"
+      "sourceCheckedAt": "2026-08-23T07:05:57Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -139,7 +139,7 @@
       "connector": "ofgl_region_benchmark",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:52Z"
+      "sourceCheckedAt": "2026-08-23T07:05:58Z"
     },
     {
       "sourceId": "insee-prices-011814133",
@@ -147,7 +147,7 @@
       "connector": "insee_sdmx",
       "outcome": "succeeded",
       "itemCount": 31,
-      "sourceCheckedAt": "2026-08-23T02:02:53Z"
+      "sourceCheckedAt": "2026-08-23T07:05:58Z"
     },
     {
       "sourceId": "insee-prices-011813717",
@@ -155,7 +155,7 @@
       "connector": "insee_sdmx",
       "outcome": "succeeded",
       "itemCount": 31,
-      "sourceCheckedAt": "2026-08-23T02:02:53Z"
+      "sourceCheckedAt": "2026-08-23T07:05:59Z"
     },
     {
       "sourceId": "insee-prices-011813864",
@@ -163,7 +163,7 @@
       "connector": "insee_sdmx",
       "outcome": "succeeded",
       "itemCount": 31,
-      "sourceCheckedAt": "2026-08-23T02:02:54Z"
+      "sourceCheckedAt": "2026-08-23T07:05:59Z"
     },
     {
       "sourceId": "insee-prices-011815623",
@@ -171,7 +171,7 @@
       "connector": "insee_sdmx",
       "outcome": "succeeded",
       "itemCount": 31,
-      "sourceCheckedAt": "2026-08-23T02:02:54Z"
+      "sourceCheckedAt": "2026-08-23T07:06:00Z"
     },
     {
       "sourceId": "insee-prices-011813906",
@@ -179,7 +179,7 @@
       "connector": "insee_sdmx",
       "outcome": "succeeded",
       "itemCount": 31,
-      "sourceCheckedAt": "2026-08-23T02:02:55Z"
+      "sourceCheckedAt": "2026-08-23T07:06:01Z"
     },
     {
       "sourceId": "insee-localised-unemployment",
@@ -187,7 +187,7 @@
       "connector": "insee_unemployment_html",
       "outcome": "succeeded",
       "itemCount": 66,
-      "sourceCheckedAt": "2026-08-23T02:02:55Z"
+      "sourceCheckedAt": "2026-08-23T07:06:01Z"
     },
     {
       "sourceId": "insee-regional-salaried-employment",
@@ -195,7 +195,7 @@
       "connector": "insee_regional_employment_html",
       "outcome": "succeeded",
       "itemCount": 30,
-      "sourceCheckedAt": "2026-08-23T02:02:57Z"
+      "sourceCheckedAt": "2026-08-23T07:06:03Z"
     },
     {
       "sourceId": "insee-jobseekers-france-travail",
@@ -203,7 +203,7 @@
       "connector": "insee_jobseekers_html",
       "outcome": "succeeded",
       "itemCount": 6,
-      "sourceCheckedAt": "2026-08-23T02:02:58Z"
+      "sourceCheckedAt": "2026-08-23T07:06:04Z"
     },
     {
       "sourceId": "insee-jobseekers-france-travail",
@@ -211,7 +211,7 @@
       "connector": "insee_jobseekers_html",
       "outcome": "succeeded",
       "itemCount": 54,
-      "sourceCheckedAt": "2026-08-23T02:02:58Z"
+      "sourceCheckedAt": "2026-08-23T07:06:04Z"
     },
     {
       "sourceId": "insee-france-travail-job-offers",
@@ -219,7 +219,7 @@
       "connector": "insee_jobseekers_html",
       "outcome": "succeeded",
       "itemCount": 30,
-      "sourceCheckedAt": "2026-08-23T02:02:58Z"
+      "sourceCheckedAt": "2026-08-23T07:06:04Z"
     },
     {
       "sourceId": "insee-france-travail-job-offers",
@@ -227,7 +227,7 @@
       "connector": "insee_jobseekers_html",
       "outcome": "succeeded",
       "itemCount": 54,
-      "sourceCheckedAt": "2026-08-23T02:02:58Z"
+      "sourceCheckedAt": "2026-08-23T07:06:04Z"
     },
     {
       "sourceId": "insee-cnaf-msa-social-benefits",
@@ -235,7 +235,7 @@
       "connector": "insee_social_benefits_html",
       "outcome": "succeeded",
       "itemCount": 30,
-      "sourceCheckedAt": "2026-08-23T02:02:58Z"
+      "sourceCheckedAt": "2026-08-23T07:06:04Z"
     },
     {
       "sourceId": "insee-cnaf-msa-social-benefits",
@@ -243,7 +243,7 @@
       "connector": "insee_social_benefits_html",
       "outcome": "succeeded",
       "itemCount": 152,
-      "sourceCheckedAt": "2026-08-23T02:02:58Z"
+      "sourceCheckedAt": "2026-08-23T07:06:04Z"
     },
     {
       "sourceId": "insee-cnaf-msa-social-benefits",
@@ -251,7 +251,7 @@
       "connector": "insee_social_benefits_html",
       "outcome": "succeeded",
       "itemCount": 30,
-      "sourceCheckedAt": "2026-08-23T02:02:58Z"
+      "sourceCheckedAt": "2026-08-23T07:06:04Z"
     },
     {
       "sourceId": "insee-cnaf-msa-social-benefits",
@@ -259,7 +259,7 @@
       "connector": "insee_social_benefits_html",
       "outcome": "succeeded",
       "itemCount": 152,
-      "sourceCheckedAt": "2026-08-23T02:02:58Z"
+      "sourceCheckedAt": "2026-08-23T07:06:04Z"
     },
     {
       "sourceId": "insee-poverty",
@@ -267,7 +267,7 @@
       "connector": "insee_poverty_xlsx",
       "outcome": "succeeded",
       "itemCount": 5,
-      "sourceCheckedAt": "2026-08-23T02:02:59Z"
+      "sourceCheckedAt": "2026-08-23T07:06:05Z"
     },
     {
       "sourceId": "insee-smic-000822484",
@@ -275,7 +275,7 @@
       "connector": "insee_sdmx",
       "outcome": "succeeded",
       "itemCount": 92,
-      "sourceCheckedAt": "2026-08-23T02:03:00Z"
+      "sourceCheckedAt": "2026-08-23T07:06:06Z"
     },
     {
       "sourceId": "insee-smic-000879877",
@@ -283,7 +283,7 @@
       "connector": "insee_sdmx",
       "outcome": "succeeded",
       "itemCount": 92,
-      "sourceCheckedAt": "2026-08-23T02:03:00Z"
+      "sourceCheckedAt": "2026-08-23T07:06:06Z"
     },
     {
       "sourceId": "insee-smic-000879878",
@@ -291,7 +291,7 @@
       "connector": "insee_sdmx",
       "outcome": "succeeded",
       "itemCount": 92,
-      "sourceCheckedAt": "2026-08-23T02:03:01Z"
+      "sourceCheckedAt": "2026-08-23T07:06:07Z"
     },
     {
       "sourceId": "service-public-minimum-traitement",
@@ -299,7 +299,7 @@
       "connector": "public_service_minimum",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:03Z"
+      "sourceCheckedAt": "2026-08-23T07:06:09Z"
     },
     {
       "sourceId": "service-public-minimum-traitement",
@@ -307,7 +307,7 @@
       "connector": "public_service_minimum",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:04Z"
+      "sourceCheckedAt": "2026-08-23T07:06:11Z"
     },
     {
       "sourceId": "insee-private-pay-regions",
@@ -315,7 +315,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 2,
-      "sourceCheckedAt": "2026-08-23T02:03:04Z"
+      "sourceCheckedAt": "2026-08-23T07:06:11Z"
     },
     {
       "sourceId": "insee-private-pay-distribution",
@@ -323,7 +323,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:05Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-private-pay-distribution",
@@ -331,7 +331,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:05Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-private-pay-distribution",
@@ -339,7 +339,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:05Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-private-pay-distribution",
@@ -347,7 +347,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:05Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-private-pay-distribution",
@@ -355,7 +355,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 29,
-      "sourceCheckedAt": "2026-08-23T02:03:05Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-private-pay-distribution",
@@ -363,7 +363,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 29,
-      "sourceCheckedAt": "2026-08-23T02:03:05Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-private-pay-distribution",
@@ -371,7 +371,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 29,
-      "sourceCheckedAt": "2026-08-23T02:03:05Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-private-pay-distribution",
@@ -379,7 +379,7 @@
       "connector": "insee_private_pay",
       "outcome": "succeeded",
       "itemCount": 29,
-      "sourceCheckedAt": "2026-08-23T02:03:05Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-private-average-pay-real",
@@ -387,7 +387,7 @@
       "connector": "insee_private_average_real",
       "outcome": "succeeded",
       "itemCount": 12,
-      "sourceCheckedAt": "2026-08-23T02:03:06Z"
+      "sourceCheckedAt": "2026-08-23T07:06:12Z"
     },
     {
       "sourceId": "insee-fpt-pay-distribution",
@@ -395,7 +395,7 @@
       "connector": "insee_fpt_pay",
       "outcome": "succeeded",
       "itemCount": 15,
-      "sourceCheckedAt": "2026-08-23T02:03:06Z"
+      "sourceCheckedAt": "2026-08-23T07:06:13Z"
     },
     {
       "sourceId": "insee-fpt-pay-distribution",
@@ -403,7 +403,7 @@
       "connector": "insee_fpt_pay",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:06Z"
+      "sourceCheckedAt": "2026-08-23T07:06:13Z"
     },
     {
       "sourceId": "insee-fpt-pay-distribution",
@@ -411,7 +411,7 @@
       "connector": "insee_fpt_pay",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:06Z"
+      "sourceCheckedAt": "2026-08-23T07:06:13Z"
     },
     {
       "sourceId": "insee-fpt-pay-distribution",
@@ -419,7 +419,7 @@
       "connector": "insee_fpt_pay",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:06Z"
+      "sourceCheckedAt": "2026-08-23T07:06:13Z"
     },
     {
       "sourceId": "insee-fpt-pay-distribution",
@@ -427,7 +427,7 @@
       "connector": "insee_fpt_pay",
       "outcome": "succeeded",
       "itemCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:03:06Z"
+      "sourceCheckedAt": "2026-08-23T07:06:13Z"
     },
     {
       "sourceId": "insee-regional-gdp",
@@ -435,7 +435,7 @@
       "connector": "insee_regional_gdp_xlsx",
       "outcome": "succeeded",
       "itemCount": 614,
-      "sourceCheckedAt": "2026-08-23T02:03:07Z"
+      "sourceCheckedAt": "2026-08-23T07:06:14Z"
     },
     {
       "sourceId": "insee-regional-gdp",
@@ -443,7 +443,7 @@
       "connector": "insee_regional_gdp_xlsx",
       "outcome": "succeeded",
       "itemCount": 614,
-      "sourceCheckedAt": "2026-08-23T02:03:07Z"
+      "sourceCheckedAt": "2026-08-23T07:06:14Z"
     },
     {
       "sourceId": "insee-regional-gdp",
@@ -451,7 +451,7 @@
       "connector": "insee_regional_gdp_xlsx",
       "outcome": "succeeded",
       "itemCount": 595,
-      "sourceCheckedAt": "2026-08-23T02:03:07Z"
+      "sourceCheckedAt": "2026-08-23T07:06:14Z"
     },
     {
       "sourceId": "insee-regional-gdp",
@@ -459,7 +459,7 @@
       "connector": "insee_regional_gdp_xlsx",
       "outcome": "succeeded",
       "itemCount": 600,
-      "sourceCheckedAt": "2026-08-23T02:03:07Z"
+      "sourceCheckedAt": "2026-08-23T07:06:14Z"
     },
     {
       "sourceId": "insee-regional-gdp",
@@ -467,7 +467,7 @@
       "connector": "insee_regional_gdp_xlsx",
       "outcome": "succeeded",
       "itemCount": 601,
-      "sourceCheckedAt": "2026-08-23T02:03:07Z"
+      "sourceCheckedAt": "2026-08-23T07:06:14Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -475,7 +475,7 @@
       "connector": "derived_regional_benchmark_ratio",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:51Z"
+      "sourceCheckedAt": "2026-08-23T07:05:57Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -483,7 +483,7 @@
       "connector": "derived_regional_benchmark_ratio",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:46Z"
+      "sourceCheckedAt": "2026-08-23T07:05:52Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -491,7 +491,7 @@
       "connector": "derived_regional_benchmark_ratio",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:52Z"
+      "sourceCheckedAt": "2026-08-23T07:05:58Z"
     },
     {
       "sourceId": "ofgl-regions-benchmark-2012-2025",
@@ -499,7 +499,7 @@
       "connector": "derived_regional_benchmark_ratio",
       "outcome": "succeeded",
       "itemCount": 182,
-      "sourceCheckedAt": "2026-08-23T02:02:42Z"
+      "sourceCheckedAt": "2026-08-23T07:05:48Z"
     },
     {
       "sourceId": "region-bfc-rsu",
@@ -508,7 +508,7 @@
       "outcome": "succeeded",
       "itemCount": 35,
       "seriesCount": 15,
-      "sourceCheckedAt": "2026-08-23T02:03:09Z"
+      "sourceCheckedAt": "2026-08-23T07:06:15Z"
     },
     {
       "sourceId": "dreets-bfc-labor-fragility",
@@ -517,7 +517,7 @@
       "outcome": "succeeded",
       "itemCount": 24,
       "seriesCount": 22,
-      "sourceCheckedAt": "2026-08-23T02:03:16Z"
+      "sourceCheckedAt": "2026-08-23T07:06:23Z"
     },
     {
       "sourceId": "region-bfc-employer-transparency",
@@ -526,7 +526,7 @@
       "outcome": "succeeded",
       "itemCount": 26,
       "seriesCount": 4,
-      "sourceCheckedAt": "2026-08-23T02:03:17Z"
+      "sourceCheckedAt": "2026-08-23T07:06:23Z"
     },
     {
       "sourceId": "dgfip-ircom-2020-2024",
@@ -535,7 +535,7 @@
       "outcome": "succeeded",
       "itemCount": 550,
       "seriesCount": 11,
-      "sourceCheckedAt": "2026-08-23T02:03:30Z"
+      "sourceCheckedAt": "2026-08-23T07:06:36Z"
     },
     {
       "sourceId": "dares-poem-apprenticeship",
@@ -544,7 +544,7 @@
       "outcome": "succeeded",
       "itemCount": 2000,
       "seriesCount": 4,
-      "sourceCheckedAt": "2026-08-23T02:03:30Z"
+      "sourceCheckedAt": "2026-08-23T07:06:36Z"
     },
     {
       "sourceId": "depp-school-teachers",
@@ -553,7 +553,7 @@
       "outcome": "succeeded",
       "itemCount": 40,
       "seriesCount": 3,
-      "sourceCheckedAt": "2026-08-23T02:03:32Z"
+      "sourceCheckedAt": "2026-08-23T07:06:39Z"
     },
     {
       "sourceId": "insee-territory-comparator",
@@ -562,7 +562,7 @@
       "outcome": "succeeded",
       "itemCount": 250,
       "seriesCount": 25,
-      "sourceCheckedAt": "2026-08-23T02:03:50Z"
+      "sourceCheckedAt": "2026-08-23T07:06:53Z"
     },
     {
       "sourceId": "insee-population-age-comparison",
@@ -571,7 +571,7 @@
       "outcome": "succeeded",
       "itemCount": 216,
       "seriesCount": 8,
-      "sourceCheckedAt": "2026-08-23T02:03:51Z"
+      "sourceCheckedAt": "2026-08-23T07:06:54Z"
     },
     {
       "sourceId": "insee-social-structure-comparison",
@@ -580,7 +580,7 @@
       "outcome": "succeeded",
       "itemCount": 312,
       "seriesCount": 12,
-      "sourceCheckedAt": "2026-08-23T02:03:52Z"
+      "sourceCheckedAt": "2026-08-23T07:06:55Z"
     },
     {
       "sourceId": "mesr-higher-education-enrolment",
@@ -589,7 +589,7 @@
       "outcome": "succeeded",
       "itemCount": 1296,
       "seriesCount": 2,
-      "sourceCheckedAt": "2026-08-23T02:03:57Z"
+      "sourceCheckedAt": "2026-08-23T07:07:00Z"
     },
     {
       "sourceId": "ameli-liberal-health-professionals",
@@ -598,7 +598,7 @@
       "outcome": "succeeded",
       "itemCount": 4860,
       "seriesCount": 12,
-      "sourceCheckedAt": "2026-08-23T02:04:09Z"
+      "sourceCheckedAt": "2026-08-23T07:07:11Z"
     },
     {
       "sourceId": "ameli-access-to-care-ald",
@@ -607,7 +607,7 @@
       "outcome": "succeeded",
       "itemCount": 216,
       "seriesCount": 1,
-      "sourceCheckedAt": "2026-08-23T02:04:11Z"
+      "sourceCheckedAt": "2026-08-23T07:07:13Z"
     },
     {
       "sourceId": "official-publication-calendars",
@@ -615,7 +615,7 @@
       "connector": "official_and_expected_publication_calendar",
       "outcome": "succeeded",
       "itemCount": 46,
-      "sourceCheckedAt": "2026-08-23T02:04:14Z"
+      "sourceCheckedAt": "2026-08-23T07:07:19Z"
     },
     {
       "sourceId": "region-bfc-budget-documents",
@@ -623,7 +623,7 @@
       "connector": "region_budget_documents",
       "outcome": "succeeded",
       "itemCount": 27,
-      "sourceCheckedAt": "2026-08-23T02:04:24Z"
+      "sourceCheckedAt": "2026-08-23T07:07:28Z"
     },
     {
       "sourceId": "ceser-bfc-budget-opinions",
@@ -631,7 +631,7 @@
       "connector": "ceser_budget_opinions",
       "outcome": "succeeded",
       "itemCount": 32,
-      "sourceCheckedAt": "2026-08-23T02:04:34Z"
+      "sourceCheckedAt": "2026-08-23T07:07:31Z"
     },
     {
       "sourceId": "region-bfc-budget-votes",
@@ -641,7 +641,7 @@
       "itemCount": 7,
       "attemptedCount": 7,
       "failedCount": 0,
-      "sourceCheckedAt": "2026-08-23T02:04:34Z"
+      "sourceCheckedAt": "2026-08-23T07:07:31Z"
     }
   ]
 }
