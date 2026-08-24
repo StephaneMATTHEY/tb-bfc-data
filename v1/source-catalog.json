@@ -86,6 +86,21 @@
       "title": "Liste des services ouverts"
     },
     {
+      "description": "<p>Liste géolocalisée des établissements publics et privés appartenant à une cité scolaire en France, comprenant des établissements du premier et du second degré.</p>",
+      "formats": [],
+      "frequency": null,
+      "id": "education:fr-en-cites_scolaires",
+      "isNew": true,
+      "lastModified": "2026-08-24T04:00:05.548000+00:00",
+      "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-cites_scolaires/",
+      "portalID": "education",
+      "publisher": "DEPP - Ministère de l’Éducation nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Liste des cités scolaires"
+    },
+    {
       "description": "Une « **Action de dispositif** » (AD) au sens Onisep est une action éducative mise en œuvre dans un établissement scolaire pour un public déterminé, qu’il s’agisse d’une action d’« inclusion » favorisant l’égalité des chances ou d’une action d’« adaptation » proposée sur une classe ou une section, et permettant d’aménager une formation à des orientations particulières (par exemple : CHA (classe à horaires aménagés) pour la musique, sections linguistiques ou sportives…). Ce jeu de données décrit les **actions de dispositif** accessibles dans la **région Bourgogne-Franche-Comté** sous un **format XML Lhéo,** **version 2.3.** Le format ou langage XML Lhéo normé et documenté sur un site dédié ([http://lheo.gouv.fr](http://lheo.gouv.fr/)) facilite les échanges et les flux de données entre les organisations traitant les questions de description de formation et d’orientation. **Périmètre de ce jeu :** **typologie non-exhaustive des AD** mises en œuvre : - dispositifs en collège/lycée : unités pédagogiques pour élèves allophones arrivants, classes pour enfants de familles itinérantes, dispositif relais, - dispositifs d’inclusion/adaptation : Segpa (sections d'enseignement général et professionnel adapté), Ulis (unités localisées pour l'inclusion scolaire), - CHA (classes à horaires aménagés), - classes de 3e prépa-métiers, - sections/pôles sportifs, - sections linguistiques… **A savoir :** La très grande majorité des offres de formations référencées par l’Onisep suivent le calendrier",
       "formats": [
         "ZIP"
@@ -247,21 +262,6 @@
       "title": "Comptes des SDIS 2012-2025"
     },
     {
-      "description": "<p> </p><p><b>Avertissement : ce jeu de données n’est plus actualisé.</b></p><p>L’indice de position sociale des écoles est actuellement calculé sur la seule base des élèves de CM2, dont on connaît les catégories socio-professionnelles des représentants légaux lorsqu’ils sont en sixième. En outre, les IPS sont fournis uniquement pour les écoles ayant eu au moins 25 élèves de CM2 sur les cinq dernières années. De ce fait les écoles maternelles sont exclues du champ puisqu’elles n’ont pas d’élèves de CM2. <br>Afin de pouvoir compléter le champ de diffusion et contribuer à une amélioration de ces indicateurs, des travaux méthodologiques sont actuellement en cours à la DEPP. S’ils sont concluants, une diffusion des indicateurs pourrait être envisagée pour la prochaine année scolaire.</p>L’indice de position sociale (IPS) permet d'appréhender le statut social des élèves à partir des professions et catégories sociales (PCS) de leurs parents. À chaque PCS ou couple de PCS est associée une valeur numérique de l’IPS. Cette valeur numérique correspond à un résumé quantitatif d’un ensemble d’attributs socio-économiques et culturels liés à la réussite scolaire. Plus l'indice de position sociale (IPS) est élevé, plus les élèves sont en moyenne d'origine sociale favorisée. Plus il est faible, plus les élèves sont d'origine défavorisée socialement. <p class=\"MsoNormal\" style=\"text-align:justify\">Concrètement, les valeurs de référence de l'indice pour chaque PCS, ou couple de PCS sont déterm",
-      "formats": [],
-      "frequency": "Annuelle",
-      "id": "education:fr-en-ips-ecoles-ap2022",
-      "isNew": false,
-      "lastModified": "2026-08-07T07:34:04.835000+00:00",
-      "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-ips-ecoles-ap2022/",
-      "portalID": "education",
-      "publisher": "DEPP - Ministère de l’Éducation nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Indices de position sociale des écoles (à partir de 2022)"
-    },
-    {
       "description": "<h3><span style=\"font-size: 1.125rem;\">Présentation du jeu de données :</span><br></h3> <p class=\"MsoNormal\">Montants et critères des dotations de l’État aux communes de 2018 à 2026.</p><p class=\"MsoNormal\">Sur 2020-2026, les données correspondent à toutes celles fournies par la DGCL. Pour les années 2018 et 2019, le nombre de variables disponibles en consultation sur notre jeu de données a été réduit, en gardant les montants et les principaux critères. Vous pouvez retrouver les bases complètes sur ces deux années en pièce jointe du jeu de données. </p><p class=\"MsoNormal\">Pour 2025 et 2026, les montants de prélèvements et de reversements du dispositif de lissage conjoncturel des recettes fiscales des collectivités territoriales (DILICO) sont ajoutés à la base. </p><p class=\"MsoNormal\"><span style='font-size:11.0pt;line-height:107%; font-family:\"Calibri\",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family: Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:\"Times New Roman\";mso-bidi-theme-font:minor-bidi; mso-ansi-language:FR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'>A ce stade, les critères de répartition et le montant des fonds de péréquation ne sont pas encore disponibles pour l'année 2026. </span></p><p class=\"MsoNormal\">Précision méthodologique pour les communes nouvelles jusqu'en 2023 inclus : les montants des parts enfants, parts voirie, parts Pfi et parts Pfi/hectare étaient calculés dans chaque ",
       "formats": [],
       "frequency": null,
@@ -398,6 +398,21 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Département de la Nièvre - Trafic routier"
+    },
+    {
+      "description": "<p></p><p>Séries trimestrielles sur les particuliers employeurs issues des dispositifs Cesu, Pajemploi et DNS (publiées<span> dans la collection </span><a href=\"https://www.urssaf.org/accueil/statistiques/nos-etudes-et-analyses/particuliers-employeurs.html\" style='background-color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-weight: 400;' target=\"_blank\"><span style=\"font-weight: bolder;\">Stat Ur</span></a><span>)</span><span>.</span><span> </span><span style=\"font-family: Arial, sans-serif;\">►</span><u style=\"font-weight: bolder;\"><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u><span style=\"font-weight: bolder;\"> : fin de trimestre+ ~110 jours.</span></p><p><img class=\"\" src=\"https://open.urssaf.fr/assets/theme_image/Symbole_SR.png\" style=\"width: 46.4px; height: 42.4876px;\"/><b>Les séries du nombre de particuliers employeurs et celles du volume horaire et de la masse salariale déclarés par les particuliers employeurs sont reconnues d'intérêt général par l'Autorité de la statistique publique (<a href=\"https://www.autorite-statistique-publique.fr/event/avis-sur-le-caractere-de-statistiques-publiques-a-visee-dinformation-generale-de-series-statistiques-produites-par-lurssaf-caisse-nationale/\" target=\"_blank\">Avis du 22/12/2021</a>).</b></p><span><span><u></u></span></span><p><u>Source</u> : Urssaf, CnCesu, Cen",
+      "formats": [],
+      "frequency": "Trimestrielle",
+      "id": "open-urssaf:particuliers-employeurs-par-categorie-demploi-et-par-region",
+      "isNew": false,
+      "lastModified": "2026-07-30T05:30:03+00:00",
+      "pageURL": "https://open.urssaf.fr/explore/dataset/particuliers-employeurs-par-categorie-demploi-et-par-region/",
+      "portalID": "open-urssaf",
+      "publisher": "Urssaf Caisse nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Particuliers employeurs, par catégorie d'emploi et par région"
     },
     {
       "description": "<h3>Remarques méthodologiques : </h3> <p class=\"MsoNormal\">Ce jeu de données fournit la population de l'ensemble des communes ayant existé sur la période 2012-2025.<br></p> <p class=\"MsoNormal\">Il a été généré par l'OFGL à partir de données INSEE, en vue de permettre le calcul d'agrégats financiers par habitant. Pour des traitements des données de populations à d'autres fins, il convient de se référer aux données publiées par l'INSEE et aux usages méthodologiques préconisés par l'INSEE (<a href=\"https://www.insee.fr/fr/information/2008354\" target=\"_blank\" title=\"Accédez au site de l'INSEE\">recensement de la population</a>).</p> <p class=\"MsoNormal\">Nota : les communes de Mayotte sont également disponibles dans ce jeu de données, bien que Mayotte fasse l'objet de modalités de recensement spécifiques. <br></p> <hr>",
@@ -1245,21 +1260,6 @@
       "title": "Réussite au baccalauréat par département"
     },
     {
-      "description": "<p>Ce jeu de données présente les résultats au Diplôme National du Brevet, en les détaillant par âge, série et sexe. <br><br>Le DNB sanctionne la formation secondaire au terme des classes de troisième. Il atteste de la maîtrise des compétences du socle commun des connaissances et des compétences, depuis la session de 2011. Pour les candidats scolaires, l'obtention du DNB est liée à la fois à la maîtrise du socle commun et aux résultats obtenus aux épreuves de l'examen terminal. Les candidats individuels sont évalués par un examen écrit. <br><br>Depuis 2013, le DNB comporte deux séries : la série générale et la série professionnelle. Jusqu'en 2012, il comportait trois séries : la série collège, la série technologique et la série professionnelle.<br>Ce jeu de données regroupe l'ensemble des candidats au DNB des sessions de juin et de septembre. <br><br>La date d'observation est définie au 30 juin de chaque année même si la date des épreuves varie d'une année à l'autre.<br><br>Dernière observation : Session 2025 du DNB<br><br>Pour en savoir plus :</p><p><a href=\"https://www.education.gouv.fr/depp/resultats-definitifs-de-la-session-2025-du-diplome-national-du-brevet-dnb-469397\" target=\"_blank\">N’guia G., 2026, « Résultats définitifs de la session 2025 du diplôme national du brevet (DNB)», <i>Note d'Information</i>, n° 26-04, DEPP.</a></p><p><a href=\"https://www.education.gouv.fr/resultats-definitifs-de-la-session-2024-du-diplome-national-du-brevet-dnb-416584\" target=\"_blank\">N’gu",
-      "formats": [],
-      "frequency": "Annuelle",
-      "id": "education:fr-en-resultats-detailles-au-dnb",
-      "isNew": false,
-      "lastModified": "2026-06-23T10:09:38.097000+00:00",
-      "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-resultats-detailles-au-dnb/",
-      "portalID": "education",
-      "publisher": "DEPP - Ministère de l’Éducation nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Résultats détaillés au DNB"
-    },
-    {
       "description": "<p>Ce jeu de données contient les scores moyens et les écarts types, ainsi que les répartitions dans les groupes des élèves de seconde professionnelle aux tests de positionnement de français et de mathématiques. Les statistiques sont issues des données consolidées. Les données sont présentées par académie et au niveau national.<br><br>Cette évaluation se déroule en septembre chaque année pour tous les élèves de seconde professionnelle des établissements publics et privés sous contrat. La date d'évaluation est indiquée comme étant le 15 septembre de chaque année, elle varie de quelques jours d'un établissement à l'autre et d'une année à l'autre.</p><p>Depuis 2020, les académies de Caen et de Rouen constituent l’académie de Normandie. Les données sont présentées selon ce découpage afin d’en faciliter la lecture.<br><br>Pour en savoir plus :</p><p><a href=\"https://www.education.gouv.fr/test-de-positionnement-de-seconde-2024-des-resultats-en-baisse-en-francais-depuis-2021-en-hausse-en-450228\" target=\"_blank\">Vincent Bernigole, Luc Cheung Kivan Yeun, Marina Hick, Vicky Kass-Canonge, Nathalie Marin,Patrice Virieux, 2025, \"Test de positionnement de seconde 2024 : des résultats en baisse en français depuis 2021, en hausse en mathématiques en seconde générale et technologique et stables en seconde professionnelle\", </a><i><a href=\"https://www.education.gouv.fr/test-de-positionnement-de-seconde-2024-des-resultats-en-baisse-en-francais-depuis-2021-en-hausse-en-450228\" target=\"_blank\">No",
       "formats": [],
       "frequency": "annual",
@@ -1273,21 +1273,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "territorial_potential",
       "title": "Résultats consolidés aux évaluations nationales de début de seconde professionnelle par académie"
-    },
-    {
-      "description": "<p>Ce jeu de données contient les scores moyens et les écarts types, ainsi que les répartitions dans les groupes des élèves de seconde générale et technologique aux tests de positonnement de français et de mathématiques. Les statistiques sont issues des données consolidées. Les données sont présentées par région académique et au niveau national.<br><br>Cette évaluation se déroule en septembre chaque année pour tous les élèves de seconde générale et technologique des établissements publics et privés sous contrat. La date d'évaluation est indiquée comme étant le 15 septembre de chaque année, elle varie de quelques jours d'un établissement à l'autre et d'une année à l'autre.</p><p>Depuis 2020, les académies de Caen et de Rouen constituent l’académie de Normandie. Les données sont présentées selon ce découpage afin d’en faciliter la lecture.<br><br>Pour en savoir plus :</p><p><a href=\"https://www.education.gouv.fr/test-de-positionnement-de-seconde-2024-des-resultats-en-baisse-en-francais-depuis-2021-en-hausse-en-450228\" target=\"_blank\">Vincent Bernigole, Luc Cheung Kivan Yeun, Marina Hick, Vicky Kass-Canonge, Nathalie Marin,Patrice Virieux, 2025, \"Test de positionnement de seconde 2024 : des résultats en baisse en français depuis 2021, en hausse en mathématiques en seconde générale et technologique et stables en seconde professionnelle\", </a><i><a href=\"https://www.education.gouv.fr/test-de-positionnement-de-seconde-2024-des-resultats-en-baisse-en-francais-depuis-2021-en-hausse-e",
-      "formats": [],
-      "frequency": "annual",
-      "id": "education:fr-en-evaluations_nationales_2degt_region",
-      "isNew": false,
-      "lastModified": "2026-06-23T09:55:54.585000+00:00",
-      "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-evaluations_nationales_2degt_region/",
-      "portalID": "education",
-      "publisher": "DEPP - Ministère de l’Éducation nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Résultats consolidés aux évaluations nationales de début de seconde générale et technologique par région académique"
     },
     {
       "description": "<p>Ce jeu de données contient les scores moyens et les écarts types, ainsi que les répartitions dans les groupes des élèves de seconde générale et technologique aux tests de positonnement de français et de mathématiques. Les statistiques sont issues des données consolidées. Les données sont présentées par département et au niveau national.<br><br>Cette évaluation se déroule en septembre chaque année pour tous les élèves de seconde générale et technologique des établissements publics et privés sous contrat. La date d'évaluation est indiquée comme étant le 15 septembre de chaque année, elle varie de quelques jours d'un établissement à l'autre et d'une année à l'autre.</p><p>Depuis 2020, les académies de Caen et de Rouen constituent l’académie de Normandie. Les données sont présentées selon ce découpage afin d’en faciliter la lecture.<br><br>Pour en savoir plus :</p><p><a href=\"https://www.education.gouv.fr/test-de-positionnement-de-seconde-2024-des-resultats-en-baisse-en-francais-depuis-2021-en-hausse-en-450228\" target=\"_blank\">Vincent Bernigole, Luc Cheung Kivan Yeun, Marina Hick, Vicky Kass-Canonge, Nathalie Marin,Patrice Virieux, 2025, \"Test de positionnement de seconde 2024 : des résultats en baisse en français depuis 2021, en hausse en mathématiques en seconde générale et technologique et stables en seconde professionnelle\", </a><i><a href=\"https://www.education.gouv.fr/test-de-positionnement-de-seconde-2024-des-resultats-en-baisse-en-francais-depuis-2021-en-hausse-en-4502",
@@ -1369,6 +1354,21 @@
       "title": "Effectifs salariés et masse salariale trimestriels du secteur privé, par zone d'emploi"
     },
     {
+      "description": "<p></p><p>Séries trimestrielles des effectifs salariés et de la masse salariale du secteur privé au niveau département, par grand secteur d'activité.<span style=\"font-size: 0.833rem;\"> </span><span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">►</span><u style=\"font-weight: bolder;\"><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u><span> : fin de trim. + ~80 jours.</span></p><p><img class=\"\" src=\"https://open.urssaf.fr/assets/theme_image/Symbole_SL.png\" style=\"width: 46.4px; height: 42.4876px;\"/><span style=\"font-weight: bolder;\"></span><span style=\"font-weight: bolder;\">Les séries trimestrielles des effectifs salariés et de le masse salariale au niveau département, déclinées selon la nomenclature des activités en 17 postes, sont labellisées par l'Autorité de la statistique publique </span><b>(</b><a href=\"https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041807624\" target=\"_blank\"><b>avis du 14/04/2020 - JORF n°0095 du 18/04/2020</b></a><b>)</b><span style=\"font-weight: bolder;\">.</span></p><u></u><p><u>Champ</u> : secteur privé, régime général, hors agriculture, hors Mayotte.<br></p><p><u>Profondeur</u> : depuis 1998.</p><p><u>Source</u><span style=\"font-size: 12.495px;\"> : Urssaf</span> ; Dares (effectifs intérimaires)</p><u>Précisions méthodologique</u>s :<p></p><p><span>- </span><a href=\"https://www.urssaf.org/accueil/statistiques/notre-methodologie/les-effectifs-salarie",
+      "formats": [],
+      "frequency": "Trimestrielle",
+      "id": "open-urssaf:effectifs-salaries-et-masse-salariale-du-secteur-prive-par-departement-x-grand-s",
+      "isNew": false,
+      "lastModified": "2026-06-19T06:45:13+00:00",
+      "pageURL": "https://open.urssaf.fr/explore/dataset/effectifs-salaries-et-masse-salariale-du-secteur-prive-par-departement-x-grand-s/",
+      "portalID": "open-urssaf",
+      "publisher": "Urssaf Caisse nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Effectifs salariés et masse salariale trimestriels du secteur privé, par département x grand secteur"
+    },
+    {
       "description": "<p></p><p>Séries trimestrielles des effectifs salariés et de la masse salariale du secteur privé, au niveau régions et par secteur d'activité au niveau agrégé en 28 postes de la NAF. <span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">►</span><b style=\"font-family: inherit; font-size: 0.833rem;\"><u><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u> : fin de trim. + ~80 jours.</b></p><p><img class=\"\" src=\"https://open.urssaf.fr/assets/theme_image/Symbole_SL.png\" style=\"width: 46.4px; height: 42.4876px;\"/><span style=\"font-weight: bolder;\">Les séries trimestrielles des effectifs salariés et de le masse salariale au niveau région, déclinées selon la nomenclature des activités en 17 postes, sont labellisées par l'Autorité de la statistique publique </span><b>(</b><a href=\"https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041807624\" target=\"_blank\"><b>avis du 14/04/2020 - JORF n°0095 du 18/04/2020</b></a><b>)</b><span style=\"font-weight: bolder;\">.</span></p><span></span><p></p><p><u>Champ</u> : secteur privé, régime général, hors agriculture, hors Mayotte.<br></p><p><u>Profondeur</u> : depuis 1998.</p><p><u>Source</u> : Urssaf ; Dares (effectifs intérimaires)</p><u>Précision méthodologique</u> :<p></p><p>- <span>La classification des secteurs d'activité en 28 postes repose sur un regroupement des secteurs au sein de la NAF agrégée en 38 postes.</span></p><p><span>- </span><a href=",
       "formats": [],
       "frequency": "Trimestrielle",
@@ -1388,7 +1388,7 @@
       "formats": [],
       "frequency": "Ponctuel",
       "id": "higher-education:fr-esr-cico-organismes-publics-agrees-ci-collaboration-de-recherche",
-      "isNew": false,
+      "isNew": true,
       "lastModified": "2026-06-18T16:22:17+00:00",
       "pageURL": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-cico-organismes-publics-agrees-ci-collaboration-de-recherche/",
       "portalID": "higher-education",
@@ -1485,6 +1485,21 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Ilots regroupés pour l'information statistique (IRIS) du Doubs"
+    },
+    {
+      "description": "<p>Le jeu de données présente le nombre de candidats présents et admis ainsi que le taux de réussite au CAP par département, spécialité, statut et genre.<br><br>Le Certificat d’aptitude professionnelle (CAP) (CAPA pour agricole) est un diplôme national qui atteste d’un premier niveau de qualification professionnelle. Il a pour objectif une entrée directe dans la vie professionnelle, mais rend possible également la poursuite d’études. Il permet en particulier l’accès direct en classe de première professionnelle dans une spécialité de baccalauréat professionnel relevant du même secteur.<br><br>La date d'observation est définie au 30 juin de chaque année même si la date des épreuves varie d'une année à l'autre.<br><br>Dernière observation : Session 2025 du CAP.<br><br>Chaque jeu de données regroupe l’ensemble des candidats au CAP, quelle que soit leur origine scolaire (candidats individuels compris) et le ministère de rattachement des établissements fréquentés (éducation nationale ou agriculture).<br><br>L’ensemble des spécialités sont représentées (production ou de services) et le résultat à l’examen (par épreuve) de chaque candidat figure dans le fichier. Une ligne correspond au nombre de filles/garçons, selon leur statut et leur spécialité présents/admis pour un département.</p><p>Attention<br>Afin de respecter le secret statistique, les lignes avec moins de 20 admis ont été laissées vides, il n'est pas possible de retrouver le nombre exact d'admis au CAP avec ce jeu de donné",
+      "formats": [],
+      "frequency": "annual",
+      "id": "education:fr-en-cap_specialite_sexe_statut_departement",
+      "isNew": true,
+      "lastModified": "2026-06-09T08:22:03.208000+00:00",
+      "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-cap_specialite_sexe_statut_departement/",
+      "portalID": "education",
+      "publisher": "DEPP - Ministère de l’Éducation nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Résultats par spécialité, sexe, statut et département au CAP"
     },
     {
       "description": "<p>Ce jeu de données présente les indicateurs d'encadrement H/E et E/S <b>à la rentrée scolaire</b>, par établissement et niveau de formation ainsi que les totaux par département et par académie.<br><br><b>Indicateur H/E : nombre moyen d’heures d’enseignement hebdomadaires financées par le ministère de l’éducation nationale pour un élève (nombre d’heures par élève)</b><br>Cet indicateur correspond au rapport du nombre d’heures hebdomadaires d’enseignement financées par le ministère de l’éducation nationale au nombre d’élèves sous statut scolaire pour un établissement et un niveau de formation donné.<br>Il dépend notamment des quotités horaires fixées par les programmes des disciplines et enseignements. Un indicateur H/E égal à 1,5 signifie que pour 100 élèves, 150 heures d’enseignement par semaine sont financées par le ministère.<br><b>H</b> correspond au nombre d’heures d’enseignement hebdomadaire financées par le ministère pour un établissement et un niveau de formation donné.<br><b>E</b> est la somme des élèves de cet établissement pour ce niveau de formation<br><br>Les écarts observés du H/E doivent être mis en regard du nombre et de la taille des établissements scolaires (plus un établissement est petit et donc plus un département compte de petits établissements, plus le H/E est élevé) et de la répartition des niveaux d’enseignement (plus les formations professionnelles sont présentes, plus le H/E est élevé).<br><br>Par ailleurs les effectifs pris en compte dans le H/E s",
@@ -1621,21 +1636,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Périmètre des centres instructeurs des actes d'urbanisme dans la Nièvre (58)"
-    },
-    {
-      "description": "<p>Ce jeu de données contient les taux de maîtrise par département des élèves de CM1 aux évaluations nationales Repères de français et de mathématiques. Les statistiques sont issues des données consolidées. Ce jeu de données présente les résultats par département et au niveau national.<br><br>Cette évaluation concerne tous les élèves qui entrent en CM1 dans toutes les écoles de France, publiques et privées sous contrat. Elle se déroule en début d'année scolaire, dans le courant du mois de septembre. La date d'évaluation est indiquée comme étant le 15 septembre de chaque année, elle varie de quelques jours d'un établissement à l'autre et d'une année à l'autre.</p><p>Pour en savoir plus :</p><p><a href=\"https://www.education.gouv.fr/evaluations-2025-reperes-cm1-451790\" target=\"_blank\">Magnino L. et al., 2025, \"Évaluations 2025 - Repères CM1- Résultats nationaux\", </a><i><a href=\"https://www.education.gouv.fr/evaluations-2025-reperes-cm1-451790\" target=\"_blank\">Document de travail</a></i><a href=\"https://www.education.gouv.fr/evaluations-2025-reperes-cm1-451790\" target=\"_blank\"> - série études, n° 2025-E10, DEPP.</a></p><a href=\"https://www.education.gouv.fr/evaluations-reperes-2024-de-debut-de-cm1-des-resultats-stables-en-francais-et-en-legere-hausse-en-450066\" target=\"_blank\">Lauriane Magnino, Gaël Raffy, 2025, \"Évaluations Repères 2024 de début de CM1 : des résultats stables en français et en légère hausse en mathématiques\", Note d'Information, n° 25-18, DEPP</a>",
-      "formats": [],
-      "frequency": "annual",
-      "id": "education:fr-en-evaluations_nationales_cm1_departement",
-      "isNew": false,
-      "lastModified": "2026-06-02T13:27:37.153000+00:00",
-      "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-evaluations_nationales_cm1_departement/",
-      "portalID": "education",
-      "publisher": "DEPP - Ministère de l’Éducation nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Les évaluations nationales Repères CM1 par département"
     },
     {
       "description": "Version : **AGRIBALYSE® v3.2** AGRIBALYSE® est une base de données de référence des indicateurs d'impacts environnementaux des produits agricoles produits en France et des produits alimentaires consommés en France. <p> Ces données ont vocation à contribuer à la transition environnementale des systèmes agricoles et alimentaires. Elles sont fondées sur la [méthode de l’Analyse du Cycle de Vie (ACV)](https://doc.agribalyse.fr/documentation/les-donnees/methodologie-acv), qui fournit des indicateurs d’impacts environnementaux des produits, incluant toutes les étapes (du champ à l’assiette) et les différents enjeux (climat, eau, air, sol…). Elles sont construites à partir d'un certains nombres d'hypothèses et selon un cadre méthodologique précis. </p><p> Ces données scientifiques nécessitent d'être adaptées en fonction de leur contexte et des utilisateurs. **Il est nécessaire de [prendre connaissance du \"Guide d'utilisateur\"](https://doc.agribalyse.fr/documentation/utiliser-agribalyse/precautions-et-conditions-dusage) pour éviter les contre-sens ou des usages inadaptés**. </p><p> Plus largement une large [documentation](https://doc.agribalyse.fr/documentation) est disponible et garantie la transparence des travaux. Ces travaux innovants sont évolutifs et des améliorations et mises à jour auront lieu les prochaines années. Toutes les informations et contacts : www.agribalyse.fr *** Plusieurs jeux de données sont disponibles sur le [dataverse AGRIBALYSE](https://entrepot.recherche.da",
@@ -2501,6 +2501,24 @@
       "title": "Réserves Naturelles Nationales (RNN) en Bourgogne-Franche-Comté"
     },
     {
+      "description": "Dans le cadre des SDAGE, la délimitation des zones stratégiques ou nappes stratégiques au sein des masses d'eau souterraines, à préserver pour la satisfaction des besoins actuels et futurs en eau potable en Bourgogne-Franche-Comté. Il faut distinguer 2 échelles d’études distinctes : • la masse d’eau souterraine (MESO) stratégique ; • ses éventuelles zones de sauvegarde pour le futur (ZSF). La délimitation des ressources stratégiques et de leurs zones de sauvegarde a pour objectif de garantir la capacité à répondre aux besoins futurs en mobilisant des outils adaptés sur ces zones pour limiter les pressions en fonction de leur(s) vulnérabilité(s). Les zones de sauvegarde sont des zones délimitées sur le bassin d’alimentation des ressources stratégiques, pour pouvoir protéger ces ressources. Les zones de sauvegarde ont pour objectif de maintenir une qualité de l’eau compatible avec une production d’eau potable ainsi qu’un équilibre quantitatif entre les prélèvements et la recharge naturelle, en mettant en œuvre sur ces secteurs des actions spécifiques et en encadrant certaines activités. En fonction des situations et des enjeux, les zones de sauvegarde peuvent être : • des terrains en surface nécessaires à la recharge en eau actuelle et future de la masse d’eau (comme des aires d’alimentation de captage…), • des terrains en surface permettant l’exploitation (prélèvements) actuelle et future de cette masse d’eau pour l’AEP (périmètres de protection…), • des portions de masse d’ea",
+      "formats": [
+        "ODS",
+        "SHP"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:69f6ba3e75697315fe2c49ac",
+      "isNew": true,
+      "lastModified": "2026-05-03T03:00:14.072000+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/ressources-strategiques-pour-lalimentation-en-eau-potable-aep",
+      "portalID": "data-gouv-fr",
+      "publisher": "DREAL Bourgogne-Franche-Comté",
+      "resourceCount": 2,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Zone de sauvegarde (ZS) et ressources stratégiques associées (RS) en Bourgogne-Franche-Comté"
+    },
+    {
       "description": "La compétence Gemapi recouvre 4 champs d’action obligatoires : l’aménagement des bassins versants (hors problématique liées aux eaux pluviales urbaines); l’entretien et l’aménagement des cours d’eau; la défense contre les inondations, surtout par une action d’entretien des cours d’eau; la protection et la restauration écologique des écosystèmes aquatiques. Ce dernier point est primordial pour maintenir la bonne qualité des écosystèmes. Il comprend également des opérations de restauration de la continuité écologique et la gestion des zones humides principalesLa compétence Gemapi a été transférée au Parc le 01/01/2016 sur un territoire couvrant 116 communes et appartenant à 9 communautés de communes. Ce territoire couvre une surface de 1 930 km² et est parcouru par plus de 1 600 km de cours d’eau.",
       "formats": [
         "CSV",
@@ -3087,6 +3105,24 @@
       "title": "Paysages remarquables de Bourgogne-Franche-Comté"
     },
     {
+      "description": "Jeux de données reprenant l'ensemble des 6 Territoires à Risque important d'Inondation (TRI) réalisés en région Bourgogne-Franche-Comté.Données TRI produites par les services de l'Etat (DDTs ou DREAL) à partir de données locales collectées par des bureaux d'études mandatés.",
+      "formats": [
+        "ODS",
+        "SHP"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:69f417d657a19a11f6eff6f8",
+      "isNew": true,
+      "lastModified": "2026-05-01T03:02:46.459000+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/perimetres-des-territoires-a-risque-important-dinondation-tri-en-region-bourgogne-franche-comte-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DREAL Bourgogne-Franche-Comté",
+      "resourceCount": 2,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Périmètres des Territoires à Risque important d'Inondation (TRI) en région Bourgogne-Franche-Comté"
+    },
+    {
       "description": "Données relatives aux territoires TEPcv (Territoire à Energie Positive pour la croissance verte) lauréats Ces données sont à jour d'août 2017 et couvrent la région Bourgogne Franche-Comté.",
       "formats": [
         "SHP"
@@ -3558,42 +3594,6 @@
       "title": "Traçages des eaux souterraines en Bourgogne-Franche-Comté : circulation identifiée"
     },
     {
-      "description": "La base de données géographique comprend l'ensemble des traçages des eaux souterraines effectués en Bourgogne-Franche-Comté depuis 1829, dans le but d'identifier les circulations des eaux souterraines en zone karstique. Elle recense plus de 2600 opérations de traçages effectuées par différents organismes (bureaux d’études, laboratoires universitaires,etc.). Ces données peuvent être utilisées pour : \\- rechercher un traçage sur une commune, \\- visualiser des circulations d’eaux souterraines sur un secteur géographique. Les données visualisées sont réparties en 8 couches, dont chacune est détaillée dans le « en savoir plus » la concernant. À propos de la couche des points d’injections en cours (« tracages_avis ») : elle comprend tous les points où une injection est en cours ou prévue.",
-      "formats": [
-        "ODS",
-        "ZIP"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:69f4178f57a19a11f6eff6c1",
-      "isNew": true,
-      "lastModified": "2026-05-01T03:01:35.752000+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/tracages-des-eaux-souterraines-en-bourgogne-franche-comte-essais-en-cours-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DREAL Bourgogne-Franche-Comté",
-      "resourceCount": 2,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Traçages des eaux souterraines en Bourgogne-Franche-Comté : point d'injection - injection en cours"
-    },
-    {
-      "description": "La base de données géographique comprend l'ensemble des traçages des eaux souterraines effectués en Bourgogne-Franche-Comté depuis 1829, dans le but d'identifier les circulations des eaux souterraines en zone karstique. Elle recense plus de 2600 opérations de traçages effectuées par différents organismes (bureaux d’études, laboratoires universitaires,etc.). Ces données peuvent être utilisées pour : * rechercher un traçage sur une commune, * visualiser des circulations d’eaux souterraines sur un secteur géographique. Les données visualisées sont réparties en 8 couches, dont chacune est détaillée dans le « en savoir plus » la concernant. À propos de la couche des points où une trace est observée (« tracages_traces ») : elle comprend tous les points surveillés suite à une injection, où la restitution d’un produit de traçage a été observée à trop faible dilution (à l’état de trace) pour que son origine puisse être attribuée de façon certaine à l’injection étudiée. La colonne « sortie oui/non » est renseignée : Trace.",
-      "formats": [
-        "ODS",
-        "ZIP"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:69f4178e57a19a11f6eff6c0",
-      "isNew": true,
-      "lastModified": "2026-05-01T03:01:34.700000+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/tracages-des-eaux-souterraines-en-bourgogne-franche-comte-point-de-surveillance-trace-observee-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DREAL Bourgogne-Franche-Comté",
-      "resourceCount": 2,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Traçages des eaux souterraines en Bourgogne-Franche-Comté : point de surveillance - trace observée"
-    },
-    {
       "description": "La base de données géographique comprend l'ensemble des traçages des eaux souterraines effectués en Bourgogne-Franche-Comté depuis 1829, dans le but d'identifier les circulations des eaux souterraines en zone karstique. Elle recense plus de 2600 opérations de traçages effectuées par différents organismes (bureaux d’études, laboratoires universitaires,etc.). Ces données peuvent être utilisées pour : \\- rechercher un traçage sur une commune, \\- visualiser des circulations d’eaux souterraines sur un secteur géographique. Les données visualisées sont réparties en 8 couches, dont chacune est détaillée dans le « en savoir plus » la concernant. À propos de la couche des circulations non identifiées (« tracages_trait_inj_surv ») : chaque ligne relie un point d’injection à un point de surveillance où aucune restitution n’est observée. La colonne « sortie oui/non » est renseignée : Non.",
       "formats": [
         "ODS",
@@ -4058,10 +4058,10 @@
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377d69cc1af51cc2c25393",
+      "id": "data-gouv:67377d69cc1af51cc2c25391",
       "isNew": false,
       "lastModified": "2026-02-10T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/schema-de-coherence-territoriale-dans-le-departement-de-la-nievre-58-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/schema-de-coherence-territoriale-dans-le-departement-de-la-nievre-58",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Nièvre",
       "resourceCount": 6,
@@ -4077,10 +4077,10 @@
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377d69cc1af51cc2c25391",
+      "id": "data-gouv:67377d69cc1af51cc2c25393",
       "isNew": false,
       "lastModified": "2026-02-10T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/schema-de-coherence-territoriale-dans-le-departement-de-la-nievre-58",
+      "pageURL": "https://www.data.gouv.fr/datasets/schema-de-coherence-territoriale-dans-le-departement-de-la-nievre-58-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Nièvre",
       "resourceCount": 6,
@@ -4138,21 +4138,6 @@
       "title": "Label Egalité Filles-Garçons"
     },
     {
-      "description": "<p>Dans le cadre du plan de relance, la mesure \"hybridation de l’enseignement en lycée\", s’inscrivant dans le cadre des accords régionaux de relance annexés aux CPER 2021-2027 et bénéficiant de fonds européens, concourt à l’équipement des lycées en matériels, en services et ressources numériques pour l’hybridation des enseignements, et l’accompagnement de leur prise en main. </p><p>Ce jeu de données présente la liste des collectivités bénéficiaires et le montant de la subvention versée avec le nombre de classes bénéficiaires pour le dispositif Hybridation de l’enseignement en lycée. </p>Plus d'information sur <a href=\"https://www.education.gouv.fr/plan-de-relance-continuite-pedagogique-hybridation-de-l-enseignement-en-lycee-343138\" target=\"_blank\">https://www.education.gouv.fr/plan-de-relance-continuite-pedagogique-hybridation-de-l-enseignement-en-lycee-343138</a>",
-      "formats": [],
-      "frequency": null,
-      "id": "education:fr-en-hybridation_lycees_par_lycee",
-      "isNew": false,
-      "lastModified": "2026-01-29T19:46:21.324000+00:00",
-      "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-hybridation_lycees_par_lycee/",
-      "portalID": "education",
-      "publisher": "DEPP - Ministère de l’Éducation nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Hybridation de l’enseignement en lycée - par lycée"
-    },
-    {
       "description": "<p>Dans le cadre du plan de relance, l’AAP SNEE, co-financé par les communes et bénéficiant de fonds européens dans le cadre du Plan national de relance et de résilience (PNRR), vise à équiper les écoles du 1er degré (cycles 2 et 3) d’un socle d’équipement et des services et ressources numériques de base. </p><p>Ce jeu de données présente la liste des collectivités bénéficiaires et la liste des écoles (par commune et collectivités) avec le nombre de classes bénéficiaires pour l’AAP SNEE. </p><p>Plus de détails sur <a href=\"https://www.education.gouv.fr/plan-de-relance-continuite-pedagogique-appel-projets-pour-un-socle-numerique-dans-les-ecoles-308341\" target=\"_blank\">https://www.education.gouv.fr/plan-de-relance-continuite-pedagogique-appel-projets-pour-un-socle-numerique-dans-les-ecoles-308341</a><br></p>",
       "formats": [],
       "frequency": null,
@@ -4166,21 +4151,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "territorial_potential",
       "title": "Appel à projet Socle Numérique dans les Ecoles Elémentaires - par école"
-    },
-    {
-      "description": "Dans le cadre de la valorisation du savoir-faire éducatif français en formation professionnelle, le développement de l'exportation des formations technologiques et professionnelles est stratégique pour le rayonnement international de la France, sur les plans scientifique, industriel et économique. <span data-olk-copy-source=\"MessageBody\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Les Campus de formation professionnelle franco-étrangers (CPFx)</span> (ex Centres d'excellence de formation technique à l'étranger (CEFTE)) constituent, à cet effet, un élément d'influence de la France dans le secteur de l'éducation et de la formation.<br>Pour plus d'informations : https://www.france-education-international.fr/article/les-centres-dexcellence-en-formation-technique-letranger <br>",
-      "formats": [],
-      "frequency": "Ponctuelle",
-      "id": "education:fr-en-cefte",
-      "isNew": false,
-      "lastModified": "2026-01-29T18:30:00.565000+00:00",
-      "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-cefte/",
-      "portalID": "education",
-      "publisher": "DEPP - Ministère de l’Éducation nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Campus professionnel franco-étranger (CPFx) (ex Centres d'excellence de formation technique à l'étranger (CEFTE))"
     },
     {
       "description": "Le générateur d'une servitude d'utilité publique est une entité géographique dont la nature ou la fonction induit, sous l'effet d'une réglementation, des contraintes sur les modalités d'occupation du sol des terrains environnants. Dans le cas des plans de prévention des risques naturels, le générateur correspond aux zonages réglementaires figurant sur les plans de préventions des risques approuvés. En Haute-Saône, ces PM1 concernent uniquement des Plans de préventions des risques inondations. Couche publiée sur le Géoportail de l'Urbanisme, conforme au standard CNIG SUP PM1 2016. Dernière mise à jour : décembre 2025 Date de publication sur le GPU : décembre 2025 Source : services métiers de la DDT (SER/Risques pour les PM1)",
@@ -4304,21 +4274,6 @@
       "title": "Nombre de travailleurs indépendants, par département x secteur"
     },
     {
-      "description": "<p>Nombre annuel de travailleurs indépendants au 31/12 entre 2004 et 2024 par département, par type de travailleur et par groupe professionnel.</p><p><u>Source</u> : Urssaf</p><p><u>Précisions méthodologiques</u> :</p><ul><li>Ces données comptabilisent des comptes de cotisants et non des individus. Elles n’intègrent pas les exploitants agricoles, lesquels sont suivis par la Caisse centrale de la Mutualité sociale agricole (CCMSA). Par ailleurs, elles concernent l’ensemble des travailleurs indépendants relevant de la protection sociale des indépendants, ce qui exclut les indépendants qui ne sont pas des travailleurs non-salariés au sens de la protection sociale : dirigeants de certaines sociétés (SA, SAS/SASU), mandataires sociaux ou gérants minoritaires de SARL, et qui sont considérés comme assimilés salariés (rattachés au régime général par l’article L311-3 du CSS).<br></li><li>Pour l’exercice professionnel de son activité économique, le travailleur indépendant (TI) peut opter pour le statut dit « classique » ou celui d’auto-entrepreneur (AE). Ce choix conditionne le mode de déclaration et de calcul de cotisations. A l’intérieur des deux statuts, plusieurs catégories sont identifiées, au sens de la sécurité sociale : les artisans, les commerçants, les professions libérales.</li><li>Est considéré comme <b>administrativement actif</b> un TI ayant été immatriculé avant ou pendant l'année étudiée, qu’il ait déclaré ou pas un revenu ou un chiffre d’affaires positif, et encore ins",
-      "formats": [],
-      "frequency": "Annuelle",
-      "id": "open-urssaf:travailleurs-independants-par-departement",
-      "isNew": false,
-      "lastModified": "2025-10-28T07:45:08+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/travailleurs-independants-par-departement/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Nombre de travailleurs indépendants, par département"
-    },
-    {
       "description": "<p>Séries trimestrielles des déclarations préalables à l'embauche (DPAE) au niveau régional, par secteur d'activité au niveau agrégé en 38 postes de la NAF. <span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">►</span><u style=\"font-weight: bolder; font-family: inherit; font-size: 0.833rem;\"><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u><span style=\"font-weight: bolder; font-family: inherit; font-size: 0.833rem;\"> : fin de trim. + ~80 jours et + ~110 jours.</span></p> <p><b style=\"color: rgb(233, 81, 96);\">______________________</b></p><p><b style=\"color: rgb(233, 81, 96); font-family: inherit; font-size: 0.875rem;\">AVERTISSEMENT - 19/11/2025 : SUSPENSION DE LA MISE A JOUR DES JEUX DE DONNEES SUR LES DECLARATIONS D'EMBAUCHE</b></p><p style=\"color:rgb(233,81,96);\">De récentes analyses montrent que des modifications intervenues fin mars 2025 sur le formulaire dématérialisé de la déclaration préalable à l’embauche (DPAE) ont conduit depuis à des erreurs déclaratives sur le type de contrat renseigné par les entreprises déclarantes. Ces erreurs, dont l’ampleur reste à évaluer, sont de nature à altérer les séries par type de contrat (CDI/CDD) ainsi que le champ des déclarations d’embauche de plus d’un mois habituellement suivi dans ce Baromètre.<br>Ainsi, en l’attente d’investigations complémentaires et de mesures correctives permettant de garantir la fiabilité des données, la pu",
       "formats": [],
       "frequency": "Deux fois par trimestre",
@@ -4347,21 +4302,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "territorial_potential",
       "title": "Déclarations préalables à l'embauche, par département x grand secteur"
-    },
-    {
-      "description": "<p></p><p>Série mensuelle des déclarations préalables à l'embauche (DPAE) de plus d'un mois au niveau régional. <span>►</span><b><u><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u> : fin de mois + ~50 jours.</b></p><p style=\"font-family: sans-serif;\"><span style=\"font-weight: bolder; color: rgb(233, 81, 96);\">______________________</span></p><p style=\"font-family: sans-serif;\"><span style=\"font-weight: bolder; color: rgb(233, 81, 96); font-family: inherit; font-size: 0.875rem;\">AVERTISSEMENT - 19/11/2025 : SUSPENSION DE LA MISE A JOUR DES JEUX DE DONNEES SUR LES DECLARATIONS D'EMBAUCHE</span></p><p style=\"font-family: sans-serif; color: rgb(233, 81, 96);\">De récentes analyses montrent que des modifications intervenues fin mars 2025 sur le formulaire dématérialisé de la déclaration préalable à l’embauche (DPAE) ont conduit depuis à des erreurs déclaratives sur le type de contrat renseigné par les entreprises déclarantes. Ces erreurs, dont l’ampleur reste à évaluer, sont de nature à altérer les séries par type de contrat (CDI/CDD) ainsi que le champ des déclarations d’embauche de plus d’un mois habituellement suivi dans ce Baromètre.<br>Ainsi, en l’attente d’investigations complémentaires et de mesures correctives permettant de garantir la fiabilité des données, la publication des séries de déclarations d’embauches est suspendue. En outre, il convient de considérer avec beaucoup de prude",
-      "formats": [],
-      "frequency": "Mensuelle",
-      "id": "open-urssaf:dpae-mensuelles-par-region",
-      "isNew": false,
-      "lastModified": "2025-10-22T05:30:14+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/dpae-mensuelles-par-region/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Déclarations préalables à l'embauche mensuelles de plus d'un mois, par région"
     },
     {
       "description": "Ce jeu de données répond aux spécifications du schéma \"Part des véhicules à faibles émissions dans le renouvellement d'un parc\" disponible sur le site [schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-vehicules-faibles-emissions-renouvellement-parc)",
@@ -4426,21 +4366,6 @@
       "title": "Nombre d'établissements employeurs, effectifs salariés et masse salariale du secteur privé, par département x secteur NA17i et par an (depuis 1998)"
     },
     {
-      "description": "<p>Nombre d'établissements employeurs, effectifs salariés moyens annuels et masse salariale annuelle du secteur privé hors intérimaires, par EPCI. <span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">►</span><b style=\"font-family: inherit; font-size: 0.833rem;\"><u><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u> : fin de trim. + ~250 jours.</b></p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;'><span style=\"font-family: inherit;\"><u>Champ</u> : établissements employeurs du secteur privé, régime général, hors agriculture, hors Mayotte, hors intérimaires<br></span></p><u style=\"font-family: inherit;\">Source</u> : Urssaf<p></p><p><u style=\"font-family: inherit;\">Profondeur</u>: Depuis 1998</p><p><span><span class=\"ui-provider gs b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><b><u>Avertissement (15/09/2023)</u></b> :<span style=\"font-weight: bolder;\"></span> A compter de cette publication, les apprentis sont inclus dans le dénombrement des effectifs salariés. Ils étaient auparavant exclus.</span></span></p><p><u>Méthodologie</u></p><p>- Le nombre d’établissements est égal à la moyenne des dénombrements trimestriels de ces entités. Ceux-ci recensent les entités ayant déclaré une masse salariale au cours du trimestre.<br></p><p>- L'effectif salarié moyen annuel est égal à la moyen",
-      "formats": [],
-      "frequency": "Annuelle",
-      "id": "open-urssaf:nombre-etab-effectifs-salaries-et-masse-salariale-secteur-prive-epci",
-      "isNew": false,
-      "lastModified": "2025-09-17T22:01:20+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/nombre-etab-effectifs-salaries-et-masse-salariale-secteur-prive-epci/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Nombre d'établissements employeurs, effectifs salariés et masse salariale du secteur privé hors intérimaires, par EPCI et par an (depuis 1998)"
-    },
-    {
       "description": "<p>Nombre d'établissements employeurs, effectifs salariés moyens annuels et masse salariale annuelle, au niveau régional, par secteur d'activité au niveau agrégé en 27 postes de la NAF avec distinction des intérimaires. <span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">►</span><b style=\"font-family: inherit; font-size: 0.833rem;\"><u><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u> : fin de trim. + ~250 jours.</b></p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;'><span style=\"font-family: inherit;\"><u>Champ</u> : établissements employeurs du secteur privé, régime général, hors agriculture, hors Mayotte <br></span></p><u style=\"font-family: inherit;\">Source</u> : Urssaf<p></p><p></p><p><u style=\"font-family: inherit;\">Profondeur</u>: Depuis 1998</p><p><span><span class=\"ui-provider gs b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><b><u>Avertissement (15/09/2023)</u></b> :<span style=\"font-weight: bolder;\"></span> A compter de cette publication, les apprentis sont inclus dans le dénombrement des effectifs salariés. Ils étaient auparavant exclus.</span></span></p><p><u>Méthodologie</u></p><p><span style='font-size:7.5pt;font-family:\"Times\",serif; mso-fareast-font-family:Times;mso-bidi-font-family:\"Times New Roman\"; letter-spacing:-.2pt;mso-ansi-language:FR;mso-fareast-langua",
       "formats": [],
       "frequency": "Annuelle",
@@ -4484,6 +4409,21 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "territorial_potential",
       "title": "Salariés des particuliers employeurs en 2024"
+    },
+    {
+      "description": "<p class=\"MsoNormal\"><span style='font-size:10.0pt;font-family:\"Arial\",sans-serif; mso-fareast-language:EN-US'>Les Maisons Sport-Santé (MSS) ont vocation à faciliter et promouvoir l'accès à l'activité physique et sportive à des fins de santé et à l'activité physique adaptée en assurant des activités d'accueil, d'information et d'orientation du public concernant la pratique de ces activités, ainsi que des activités de mise en réseau et de formation des professionnels de santé, du secteur social, du sport et de l'activité physique adaptée. <o:p></o:p></span></p><p> </p><p class=\"MsoNormal\"><i><span style='font-size:9.0pt;font-family:\"Arial\",sans-serif; mso-fareast-language:EN-US'>Source : Décret du 8 mars 2023 relatif à l'habilitation des maisons sport-santé<o:p></o:p></span></i></p>",
+      "formats": [],
+      "frequency": null,
+      "id": "sports-gouv:maisons-sport-sante-mss-092025",
+      "isNew": false,
+      "lastModified": "2025-09-11T09:16:31+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/maisons-sport-sante-mss-092025/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Maisons Sport-Santé (MSS) - 092025"
     },
     {
       "description": "Contours des EPCI du Jura à la date du 01/01/2020. Couche réalisée par Atelier SIG le 27/01/2020 Changement au 01/01/2020 : Fusion CC Pays des Lacs, CC Région d'Orgelet, CC Petite Montagne, CC Jura Sud pour former une nouvelle CC \"Terre d'Emeraude Communauté - Le Sud-Jura révélé\" (arrêté de création nouvelle CC du 14/11/2019) Changements au 01/07/2019 : - Les 3 communes de Saffloz, Marigny et Le Frasnois quittent la CC Pays des Lacs pour intégrer la CC Champagnole Nozeroy Jura au 01 juillet 2019 Changements au 01/01/2019 : - la commune de Baume-les-Messieurs qui faisait partie Bresse Haute Seille en 2018 intègre ECLA au 01/01/2019 - la commune de Villard-sur-Bienne qui fusionne au 01/01/2019 avec Les Piards et Nanchez pour former la commune nouvelle de Nanchez est intégrée au 01/01/2019 à CC La Grandvallière (en 2018, la commune de Villard-sur-Bienne faisait partie de CC Haut-Jura Saint-Claude). Les établissements publics de coopération intercommunale (EPCI) sont des regroupements de communes ayant pour objet l'élaboration de « projets communs de développement au sein de périmètres de solidarité ». Ils sont soumis à des règles communes, homogènes et comparables à celles de collectivités locales. Les informations présentées ici concernent les EPCI à fiscalité propre : Communauté Urbaine (CU) ; Communauté d'Agglomération (CA) ; Communauté de Communes (CC) ; Syndicat d'Agglomération Nouvelle (SAN) ; Métropole (ME). Pour le département du Jura, seuls sont présents des CA et des C",
@@ -4811,6 +4751,156 @@
       "title": "Points de mesures des crue de la Saône en Côte-d'Or"
     },
     {
+      "description": "<p style=\"font-family: sans-serif;\">Ce jeu de données permet d'obtenir la pyramide des âges des licences annuelles par commune (toutes fédérations) pour 2023.</p><p style=\"font-family: sans-serif;\">Les données de 3 fédérations sensibles ne sont pas disponibles au niveau communal et apparaissent en non réparti (NR) dans le champ commune mais agrégé au niveau départemental: Fédération des clubs de la défense [406], Fédération Française Maccabi [409], Fédération Sportive de la Police Nationale [411].</p><p style=\"font-family: sans-serif;\">Les adresses de résidence des détenteurs de licences annuelles sont géocodées pour déterminer leur identification commune-QPV. </p><p style=\"font-family: sans-serif;\">Une procédure de réidentification post-géocodage est appliquée afin de séparer les licences non identifiées géographiquement de celles hors champ du géocodage (Mayotte, COM, Monaco, Etranger). Puis, un hotdeck hiérarchisé en fonction de l'âge permet de corriger la non identification géographique post-géocodage lorsque la non réponse reste acceptable pour une fédération donnée.<br><br>Le géocodage des observations n'incluant pas Mayotte, <b>les données communales ne sont pas disponibles pour Mayotte.</b><br><br>La variable <i>geoc </i>permet d'identifier les observations dans le champ du géocodage (1: France hors Mayotte), les observations hors champ du géocodage (2: Mayotte, COM, Monaco, Etranger), et les observations non identifiées géographiquement (NR: Non réparti).<br></p><p s",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:lics_cc_pyra",
+      "isNew": false,
+      "lastModified": "2025-02-19T08:23:04+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/lics_cc_pyra/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Pyramide des âges des licences annuelles par commune-âge-sexe (2023)"
+    },
+    {
+      "description": "",
+      "formats": [],
+      "frequency": null,
+      "id": "sports-gouv:ref-geo-dataes",
+      "isNew": false,
+      "lastModified": "2025-02-13T09:23:32+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/ref-geo-dataes/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "ref-geo-dataes"
+    },
+    {
+      "description": "<p>Données détaillées au 1er janvier 2025 de la population 2016-2025 au niveau département-sexe-tranche d'âge (source INSEE).</p><p>Les données de licences annuelles du millésime 2024 sont confrontées aux données de population relatives à l'année 2024 de cette base.</p><p>Les données pour les années 2023-2025 sont des estimations.</p><p><a href=\"https://www.insee.fr/fr/statistiques/8331297\">Estimation de la population au 1ᵉʳ janvier 2025 | Insee</a><br></p><p><br></p>",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:pop_dep_age_sexe",
+      "isNew": false,
+      "lastModified": "2025-01-27T09:48:36+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/pop_dep_age_sexe/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Population par département-âge-sexe (2016-2025, estimations en janvier 2025)"
+    },
+    {
+      "description": "<p style=\"font-family: sans-serif;\">Ce jeu de données présente les licences annuelles 2024 par fédération-département-sexe.</p><p style=\"font-family: sans-serif;\">Un identifiant <span style=\"font-weight: bolder;\">France </span>(France=1) permet de se limiter aux départements français (France+DROM).</p><p style=\"font-family: sans-serif;\">Ce jeux de données fournit le taux de féminisation des licences annuelles pour chaque fédération-département (<span style=\"font-weight: bolder;\">pct_F</span>).</p>",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:lics_dep_sexe",
+      "isNew": false,
+      "lastModified": "2025-01-16T10:43:39+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/lics_dep_sexe/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Licences annuelles par département-sexe (2024)"
+    },
+    {
+      "description": "<p style=\"font-family: sans-serif;\">Statistiques de la distribution des âges dont l'âge médian des détenteurs de licence annuelles 2024 par fédération.</p><p style=\"font-family: sans-serif;\">Les statistiques ont été calculées à 4 niveaux (<span style=\"font-weight: bolder;\">niveau</span>) pour chaque fédération:</p><ul><li>Total</li><li>France</li><li>Région</li><li>Département</li></ul><p style=\"font-family: sans-serif;\">Les fédérations inclues sont les fédérations délivrant des licences annuelles en 2024 soit 117 fédérations.</p><p>Les indicateurs sont fournis avec plusieurs comparaisons (regroupement de fédérations pour le millésime 2024):</p><ul><li>code_fede_2024=0: Toutes fédérations</li><li>code_fede_2024=1: Fédérations olympiques</li><li>code_fede_2024=2: Fédérations délégataires non-olympiques</li><li>code_fede_2024=4: Fédérations affinitaires</li><li>code_fede_2024=5: Fédérations para-sportives</li><li>code_fede_2024=6: Fédérations scolaires</li></ul><p style=\"font-family: sans-serif;\">Le millésime 2024 porte sur la saison 2023/2024 ou 2024 selon les fédérations.</p>",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:lics_distr_age",
+      "isNew": false,
+      "lastModified": "2025-01-16T10:12:31+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/lics_distr_age/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Distribution de l'âge des détenteurs de licences annuelles (2024)"
+    },
+    {
+      "description": "<p style=\"font-family: sans-serif;\">Ces données présentent le nombre de licences annuelles et le nombre de clubs ou EPA 2023 par regroupement département-typologie rural/urbain.</p><p style=\"font-family: sans-serif;\">Ce jeux de donnée permet:</p><ul><li>De calculer la <span style=\"font-weight: bolder;\">part de communes avec au moins 1 licence</span> (ou 1 club/EPA) pour chaque fédération à différents niveaux d'agrégation (département/région/national)</li><li>D'obtenir la <span style=\"font-weight: bolder;\">répartition de la population en fonction du zonage rural-urbain</span> à différents niveaux d'agrégation (département/région/national)</li><li>D'obtenir la <span style=\"font-weight: bolder;\">répartition des licences annuelles ou des clubs/EPA en fonction du zonage rural-urbain</span> pour chaque fédération à différents niveaux d'agrégation (département/région/national)</li></ul><p style=\"font-family: sans-serif;\">Un Etablissement Professionnel Agréé (EPA) se distingue des clubs sportifs par leur appartenance au secteur privé ou commercial.</p><p style=\"font-family: sans-serif;\">Un établissement sportif (club ou EPA) est actif si il est rattaché à au moins une licence annuelle.</p><p style=\"font-family: sans-serif;\">Les adresses de clubs géocodées correspondent aux adresses de pratique (si disponibles) ou de siège (autrement) transmises par les fédérations, les adresses de licences géocodées aux adresses de résidence des détenteurs de licences annuelles.</p><p style=\"font-fam",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:lics_clubs_dep_ruralurbain",
+      "isNew": false,
+      "lastModified": "2025-01-15T09:34:06+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/lics_clubs_dep_ruralurbain/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Licences annuelles et établissements sportifs (2022) par département et zonage rural/urbain (2023)"
+    },
+    {
+      "description": "<p>Ces données présentent les établissements sportifs (clubs ou EPA) actifs (min 1 licence annuelle) ou non par fédération-commune en 2023.</p><p>Un Etablissement Professionnel Agréé (EPA) se distingue des clubs sportifs par son appartenance au secteur privé ou commercial.</p><p>Les adresses de clubs géocodées correspondent aux adresses de sièges transmises par les fédérations. </p><p><span style=\"font-size: 0.875rem;\">Une procédure de réidentification post-géocodage est appliquée afin de séparer les clubs ou EPA non identifiées géographiquement de celles hors champ du géocodage (Mayotte, COM, Monaco, Etranger). Puis une procédure de type hotdeck a été appliquée pour corriger la non identification géographique post-géocodage.</span></p><p>La typologie rural/urbain combine la grille communale de densité de l'INSEE avec la taille des aires d'attraction de la ville pour distinguer le rural périurbain du rural non périurbain.<br>Les communes en rural périurbain sont celles appartenant à une aire d'attraction de la ville d'au moins 50 000 habs.</p><p>La typologie des ZRR (zones en revitalisation rurales) distingue les communes partiellement en ZRR des communes totalement en ZRR. Par convention, les clubs ou EPA sont considérées en ZRR dès lors qu'elles sont localisées dans des communes en ZRR (partiellement ou en totalité).<br></p><p>Les données sont fournies en géographie communale 2024, celle en vigueur au moment du géocodage des données.</p><p>Les données de 3 fédérations sensi",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:clubs_cc",
+      "isNew": false,
+      "lastModified": "2025-01-15T09:22:26+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/clubs_cc/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Etablissements sportifs par commune (2023)"
+    },
+    {
+      "description": "<p style=\"font-family: sans-serif;\">Ce jeu de données permet de calculer le nombre de licences annuelles (2023) pour 1000 habitants par commune.</p><p style=\"font-family: sans-serif;\"><span style=\"font-size: 0.875rem;\">Les données calculées excluent les licences annuelles de 3 fédérations sensibles: Fédération des clubs de la défense [406], Fédération Française Maccabi [409], Fédération Sportive de la Police Nationale [411].</span></p><p style=\"font-family: sans-serif;\">Le géocodage des adresses de licenciés étant effectué pour la France hors Mayotte, les données agrégées de licences annuelles se limitent au champ France hors Mayotte, et excluent donc les autres licences annuelles (Mayotte, COM, Monaco, étranger, non réparties géographiquement).</p><div>Les données géocodées du recensement des licences étant en géographie 2024, les données de <a href=\"https://www.insee.fr/fr/statistiques/3698339\" target=\"_blank\">population municipale sont celles de 2022</a> (en géographie 2024). <span style=\"font-size: 0.875rem;\">Les données 2023 portent sur la saison 2022/2023 ou 2023 selon les fédérations.</span></div><div><br></div><div>Les variables <i>Lics_i</i> donnent le nombre de licences annuelles 2023 (France hors Mayotte) pour la fédération i (code fédération du millésime de référence, soit le code fédération 2024).</div><div><br></div><div><p style=\"font-family: sans-serif;\">Les données des licences annuelles ont été agrégées toutes fédérations:</p><ul><li><i>Lics_hors_scol</i>: L",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:lics_cc_wide",
+      "isNew": false,
+      "lastModified": "2025-01-15T09:09:58+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/lics_cc_wide/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Licences annuelles par commune (2023, format large)"
+    },
+    {
+      "description": "<p style=\"font-family: sans-serif;\">Ces données présentent le nombre de licences annuelles 2023 par commune-fédération ainsi que le rang de chaque fédération en nombre de licences annuelles au sein de la commune.<br><br>Les données présentées excluent les données de 3 fédérations sensibles: Fédération des clubs de la défense [406], Fédération Française Maccabi [409], Fédération Sportive de la Police Nationale [411].<br><br>Ces données sont issues du géocodage des adresses de résidence de licenciés afin de s'assurer de l'identification communale des adresses.</p><p style=\"font-family: sans-serif;\">La géographie communale 2024 correspond à celle en vigueur au moment du géocodage des données. </p><p style=\"font-family: sans-serif;\">La typologie rural/urbain combine la grille communale de densité de l'INSEE avec la taille des aires d'attraction de la ville pour distinguer le rural périurbain du rural non périurbain.<br>Les communes en rural périurbain sont celles appartenant à une aire d'attraction de la ville d'au moins 50 000 habs.</p><p style=\"font-family: sans-serif;\">La typologie des ZRR (zones en revitalisation rurales) distingue les communes partiellement en ZRR des communes totalement en ZRR. Par convention, les licences annuelles sont considérées en ZRR dès lors qu'elles sont localisées dans des communes en ZRR (partiellement ou en totalité).<br><br>Les données sont sur le champ France hors Mayotte car le géocodage n'est pas possible pour Mayotte. Les données hors champ ",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:lics_cc",
+      "isNew": false,
+      "lastModified": "2025-01-14T18:07:38+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/lics_cc/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Licences annuelles par commune (2023)"
+    },
+    {
+      "description": "<p>Ce jeu de données fournit la part de la population ayant respectivement moins de 20 ans, ainsi que 65 ans et plus, à plusieurs niveaux d'agrégation (variable niveau):</p><ul><li>Commune (géographie 2024)</li><li>Département</li><li>Région</li><li>France</li></ul><p>Les données pour la population moins de 20 ans et plus de 65 ans par âge au niveau communal sont fournies à partir de la <a href=\"https://www.insee.fr/fr/statistiques/8202264#consulter\" target=\"_blank\">population communale détaillée en âge révolu</a> (soit l'âge au début de la collecte du recensement de population soit le 3ème jeudi de janvier) alors que l'INSEE fournit les <a href=\"https://www.insee.fr/fr/statistiques/8331297\" target=\"_blank\">ajustements au niveau département/région/national pour obtenir l'âge au 1er janvier</a>.<br>Ainsi, de légers écarts peuvent être observés entre niveau commune (population en âge révolu) et département/région (population au 1er janvier).</p><p>Néanmoins, cela ne remet pas en cause la comparabilité des indicateurs part des moins de 20 ans et 65 ans et plus entre les différents niveaux géographiques.</p><p><a href=\"https://www.insee.fr/fr/statistiques/fichier/2383177/fiche-age.pdf\" target=\"_blank\">Source: Recensement de la population, âges, générations et pyramides des âges (INSEE).</a></p><p>En 2024, 2 communes ont défusionné en 5 communes:</p><ul><li>Les Hauts-Talican (60054) en 2 communes: Les Hauts-Talican (60694) et Beaumont-les-Nonains (60054)</li><li>Essarts en Bocage ",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:pop_cc_age",
+      "isNew": false,
+      "lastModified": "2025-01-14T17:23:45+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/pop_cc_age/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Population de moins de 20 ans et plus de 65 ans (2021)"
+    },
+    {
       "description": "Données essentielles des conventions de subvention de la région publié selon le modèle de données relatif aux subventions attribuées par une collectivité et répondant au ​Décret n° 2017-779 du 5 mai 2017 relatif à l'accès sous forme électronique aux données essentielles des conventions de subvention​ et à l'​Arrêté du 17 novembre 2017 relatif aux conditions de mises à disposition des données essentielles des conventions de subvention​",
       "formats": [
         "CSV"
@@ -4826,6 +4916,51 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Données essentielles des conventions de subvention de la Région Bourgogne-Franche-Comté"
+    },
+    {
+      "description": "<p style=\"font-family: sans-serif;\">Licences annuelles pour 1000 habs 2024 réparties par fédération-sexe-tranche d'âge au 1er janvier-département à partir des estimations de <a href=\"https://www.insee.fr/fr/statistiques/8331297\" target=\"_blank\">population de l'INSEE au 1er janvier 2024</a> (estimations de janvier 2025).</p><p style=\"font-family: sans-serif;\"><span style=\"font-family: inherit; font-size: 0.875rem;\">Dans le présent jeu de données toutes les licences annuelles sont identifiées par sexe et par département/région.</span><br></p><p style=\"font-family: sans-serif;\">Les licences annuelles sont considérées non réparties par âge en dehors de l'intervalle 1-99 ans (avant hotdeck). Il n'y a donc pas de licences annuelles dans la base pour les moins de 1 an ou les plus de 99 ans.</p><p style=\"font-family: sans-serif;\"><span style=\"font-family: inherit; font-size: 0.875rem;\">Dans le millésime 2024, les données de 3 fédérations présentent des licences annuelles non réparties par âge (NR):</span><br></p><p style=\"font-family: sans-serif;\"><span style=\"font-family: inherit; font-size: 0.875rem;\">1 fédération avec non répartition totale: </span> <span style=\"font-family: inherit; font-size: 0.875rem;\">Jeu de Paume [227]</span><br></p><p style=\"font-family: sans-serif;\">2 fédérations avec non répartition partielle (non application du hotdeck, cf fiche méthodo):, Course Landaise [216], UCPA Loisirs [424].</p><p style=\"font-family: sans-serif;\"><span style=\"font-family: inherit; ",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:lics_dep_age_sexe",
+      "isNew": false,
+      "lastModified": "2025-01-10T16:30:14+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/lics_dep_age_sexe/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Licences annuelles (2024) par département-âge-sexe"
+    },
+    {
+      "description": "<p style=\"font-family: sans-serif;\">Ces données présentent les établissements sportifs (clubs ou EPA) par fédération-département pour les millésimes 2022-2024 du recensement des licences et clubs.</p><p style=\"font-family: sans-serif;\">Un Etablissement Professionnel Agréé (EPA) se distingue des clubs sportifs par leur appartenance au secteur privé ou commercial.</p><p style=\"font-family: sans-serif;\">Un établissements sportif (club ou EPA) est considéré comme actif lorsqu'il est relié à au moins 1 licence annuelle. <span style=\"font-size: 0.875rem;\">Sont présentés le nombre de clubs ou EPA actifs, ainsi que le nombre de clubs ou EPA total (actifs ou non).</span></p><p style=\"font-family: sans-serif;\">Le nombre de clubs ou EPA total inclut:</p><ul><li>Le nombre de club ou EPA actifs (min 1 licence annuelle)</li><li>Le nombre de clubs ou EPA inactifs ou en sommeil (affiliés à la fédération mais avec 0 licences annuelles)</li><li>Le nombre de clubs ou EPA non répartis: Cas où les données de la fédération ne permettent pas d'identifier un statut actif ou non aux clubs ou EPA</li></ul><p style=\"font-family: sans-serif;\">Les données des fédérations suivantes n'ont pas permis d'identifier le statut actif ou non des clubs ou EPA pour ces fédérations délivrant des licences annuelles:</p><ul><li>2024: FF de Course Camarguaise [215], FF de Ballon au Poing [208], UCPA Vacances [425]</li><li>2023: FF de Course Camarguaise [215], UCPA Vacances [425]</li><li>2022: FF de Pétanque [242], FF d",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:clubs_dep",
+      "isNew": false,
+      "lastModified": "2025-01-10T16:18:19+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/clubs_dep/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Etablissements sportifs (2022-2024) par département"
+    },
+    {
+      "description": "<p style=\"font-family: sans-serif;\">Données sur les licences annuelles par fédération-département 2024 croisées avec les données de population au 1er janvier 2024 (estimations de 2025) au niveau département pour calculer les données de licences annuelles pour 1000 habs.<br><br>L'indice de spécificité fournit à titre indicatif permet de normaliser ce nombre par rapport au niveau national.<br><br>Les territoire hors champs sont inclus et sont repérables avec les codes régions suivants [newreg]:</p><p style=\"font-family: sans-serif;\">-980: Monaco</p><p style=\"font-family: sans-serif;\">-COM: COM</p><p style=\"font-family: sans-serif;\">-ETR: Etranger</p><p style=\"font-family: sans-serif;\">-NR: Non Répartition (Non identification géographique). </p>",
+      "formats": [],
+      "frequency": "ANNUAL",
+      "id": "sports-gouv:lics_dep",
+      "isNew": false,
+      "lastModified": "2025-01-10T16:05:26+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/lics_dep/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Licences annuelles (2024) par département"
     },
     {
       "description": "<p></p><p>Données sur les particuliers employeurs en 2023 issues des dispositifs Cesu, Pajemploi et DNS.</p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;'><img class=\"\" src=\"https://open.urssaf.fr/assets/theme_image/Symbole_SR.png\" style=\"width: 46.4px; height: 42.4876px;\"/><b></b><b>Les séries du nombre de particuliers employeurs et celles du volume horaire et de la masse salariale déclarés par les particuliers employeurs sont reconnues d'intérêt général par l'Autorité de la statistique publique (<a href=\"https://www.autorite-statistique-publique.fr/event/avis-sur-le-caractere-de-statistiques-publiques-a-visee-dinformation-generale-de-series-statistiques-produites-par-lurssaf-caisse-nationale/\" target=\"_blank\">Avis du 22/12/2021</a>).</b></p><span><span><u></u></span></span><u></u><u>Source</u> : Acoss-Urssaf, CnCesu, Centre Pajemploi<p></p><p><span><span><u>Précisions méthodologiques</u> :</span></span><span><span><span><span></span></span></span></span></p><p></p><p>- Les données sont ventilées par catégorie d'emploi (type d'emploi x dispositif déclaratif) :<br>. CESU_HGED (Hors garde d'enfant - CESU)<br>. DNS_HGED (Hors garde d'enfant - DNS)<br>. PAJE_GED (Garde d'enfant à domicile - PAJE)<br>. PAJE_AM (Assistantes maternelles - PAJE)</p><p>- Elles sont par ailleurs déclinées par département.</p><span style=\"font-weight: bolder;\"></span><span style=\"font-weight: bolder;\">DATAVIZ</span> : <a href=\"https://open.u",
@@ -5772,25 +5907,6 @@
       "title": "Atlas mouvements de terrains du département de la Côte-d'or"
     },
     {
-      "description": "Cette couche est un export de l'outil GéoIF. C'est une couche de travail réalisée dans le cadre de l'établissement des inventaires de frayères au sens de l’article L.432-3 du Code de l’environnement. L'outil GéoIF permet de délimiter des parties de cours d'eau qui seront proposées à la concertation puis à la consultation réglementaire en vue de l'établissement et de l'approbation de l'inventaire départemental pris par arrêté préfectoral. Deux types de parties de cours d’eau peuvent être délimités. Les parties de cours d’eau « classique » délimitées à partir du réseau hydrographique BD Carthage®. Les parties de cours d’eau « hors réseau » hydrographique BD Carthage®. Les attributs \"affluents\" et \"sous affluent\" ajoutent un niveau de détail permettant de pallier à la non exhaustivité du référentiel hydrographique utilisé. \"Affluent\" signifie la prise en compte des affluents de premiers niveaux attenant à la partie de cours d'eau délimitée. \"sous affluent\" signifie la prise en compte des bassins versants attenant à la partie de cours d'eau délimitée.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:67377d67cc1af51cc2c2538a",
-      "isNew": true,
-      "lastModified": "2024-11-15T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/parties-de-cours-deau-delimitees-pour-letablissement-de-linventaire-frayeres-du-departement-de-la-nievre-58",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Nièvre",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Parties de cours d'eau délimitées pour l'établissement de l'inventaire frayères du département de la Nièvre (58)"
-    },
-    {
       "description": "Cette base de données Excel permet de présenter exhaustivement l'accessibilité des Musées de France en région Bourgogne Franche-Comté en 2024. Pour ce faire, des critères d'accessibilité PMR permettent de classer en trois catégories les musées : accessible, accessible partiellement ou inaccessible. Pour illustrer ces données, une carte Qgis a été jointe. Ces données représentent une base de travail importante sur laquelle repose une recherche de mémoire de première année de master. L'ensemble de ces données forment une première étape pour participer à l'avancée de la recherche sur l'accessibilité de l'archéologie auprès du public en situation de polyhandicap.",
       "formats": [
         "CSV",
@@ -6285,7 +6401,7 @@
       ],
       "frequency": "punctual",
       "id": "data-gouv:67377dd6cc1af51cc2c253d7",
-      "isNew": false,
+      "isNew": true,
       "lastModified": "2023-06-06T00:00:00+00:00",
       "pageURL": "https://www.data.gouv.fr/datasets/liste-des-plans-de-prevention-des-risques-naturels-pprn-dans-le-departement-de-la-nievre-58-1",
       "portalID": "data-gouv-fr",
@@ -6382,10 +6498,10 @@
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377dd7cc1af51cc2c253dc",
+      "id": "data-gouv:67377d8acc1af51cc2c253a0",
       "isNew": false,
       "lastModified": "2023-03-21T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/massif-au-titre-de-la-loi-dite-loi-montagne-dans-la-nievre-58-et-departements-voisins-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/massif-au-titre-de-la-loi-dite-loi-montagne-dans-la-nievre-58-et-departements-voisins",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Nièvre",
       "resourceCount": 6,
@@ -6582,21 +6698,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Élus de l'EPFL des Collectivités de Côte-d'Or (Établissement Public Foncier Local)"
-    },
-    {
-      "description": "<p>Données par département et système déclaratif de l’indemnisation exceptionnelle de l'activité partielle des salariés des particuliers employeurs.</p><p>Dans le cadre de la crise sanitaire Covid-19, les pouvoirs publics ont mis en place, pour les mois de mars à août 2020 (septembre en Guyane et à Mayotte), une mesure d’indemnisation exceptionnelle pour soutenir les salariés des particuliers employeurs. Les salariés ont pu bénéficier pour les heures prévues et non réalisées d'une indemnisation correspondant à au moins 80% du salaire net des heures non effectuées, les employeurs étant remboursés par l'Urssaf à hauteur de 80% de ce salaire net.</p><p>Le dispositif a été reconduit en novembre 2020 pour certains salariés à domicile, avec une indemnisation versée au salarié toujours supérieure ou égale à 80% du salaire net des heures non effectuées et un remboursement à l'employeur égal à 65% de ce salaire. Il a ensuite été réactivé en avril 2021 et a pris fin le 31 octobre 2021.<br></p><p>Les données fournissent :<br>- le nombre d'employeurs ayant versé une indemnisation,<br>- le nombre de salariés indemnisés,<br>- le nombre d'heures indemnisées,<br>- le salaire net (\"théorique\") associé aux heures indemnisées,<br>- le montant de l'indemnisation versée aux salariés estimé sur la base d'une indemnité égale à 80% du salaire net des heures indemnisées (hors éventuel complément de l'employeur),<br>- le montant remboursé par l'Urssaf aux employeurs.<br></p><p><span style=\"font-family",
-      "formats": [],
-      "frequency": "Ponctuelle",
-      "id": "open-urssaf:mesures-exceptionnelles-covid-19-indemnisation-activite-partielle-emploi-domicil",
-      "isNew": false,
-      "lastModified": "2022-08-30T10:00:00+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/mesures-exceptionnelles-covid-19-indemnisation-activite-partielle-emploi-domicil/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Mesures exceptionnelles Covid-19 : indemnisation de l'activité partielle des salariés des particuliers employeurs"
     },
     {
       "description": "Ce recueil sera mis régulièrement à jour et téléchargeable sur le site de la Région Bourgogne-Franche-Comté et de l’AER BFC. Vous trouverez dans ce guide les principales mesures destinées à vous soutenir pendant la crise sanitaire que traverse notre territoire. L’Etat et la Région Bourgogne-Franche-Comté, aux côtés des partenaires institutionnels et économiques sont mobilisés pour vous accompagner au mieux face aux difficultés que vous rencontrez.Face à cette crise d’ampleur sans précédent, la Région débloque plus de 63 millions d’euros sur l’ensemble de ses compétences. L’Etat a fait le choix de protéger massivement le tissu productif français en faisant passer le montant total du plan de soutien à notre économie en trésorerie et en dépenses publiques à 110 milliards d’euros. Retrouvez l'ensemble des autres publications sur : https://www.bourgognefranchecomte.fr/publications",
@@ -7462,21 +7563,6 @@
       "title": "Classement sonore des infrastructures ferroviaires du Jura"
     },
     {
-      "description": "Données sur les particuliers employeurs en 2019 issues des dispositifs Cesu, Pajemploi et DNS.<p></p><p>Année 2019.</p><p><u>Source</u> : Acoss-Urssaf, CnCesu, Centre Pajemploi</p><p>Les données sont ventilées par catégorie d'emploi (type d'emploi x dispositif déclaratif) :<br>- CESU_HGED (Hors garde d'enfant - CESU)<br>- DNS_HGED (Hors garde d'enfant - DNS)<br>- PAJE_GED (Garde d'enfant à domicile - PAJE)<br>- PAJE_AM (Assistantes maternelles - PAJE)</p><p>Elles sont par ailleurs déclinées par département.</p><p><span style=\"font-weight: bolder;\">DATAVIZ</span> : <a href=\"https://open.urssaf.fr/pages/particuliers-employeurs-et-leurs-employes/\">les chiffres en image</a></p><p></p>",
-      "formats": [],
-      "frequency": "Annuelle",
-      "id": "open-urssaf:particuliers-employeurs-en-2019",
-      "isNew": false,
-      "lastModified": "2020-12-29T23:01:30+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/particuliers-employeurs-en-2019/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Particuliers employeurs en 2019"
-    },
-    {
       "description": "Véloroutes voies vertes inscrites au schéma régional de développement du tourisme et des loisirs (SRDTL)",
       "formats": [
         "SHP"
@@ -7526,21 +7612,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Centres de Formation d'Apprentis (CFA) en Bourgogne-Franche-Comté"
-    },
-    {
-      "description": "<p>Données par département et grand secteur d'activité relatives aux reports de cotisations des travailleurs indépendants dans le cadre des mesures Urssaf exceptionnelles liées à la crise du Covid-19 <span>(échéances du 20 mars et des 5 et 20 des mois d'avril, mai, juin, juillet et août</span><span style=\"font-family: inherit;\">)</span><span style=\"font-family: inherit;\">. </span></p><p>Afin de tenir compte de l’impact de l’épidémie de coronavirus sur l’activité économique, le réseau des Urssaf a déclenché des mesures exceptionnelles pour accompagner les entreprises présentant de sérieuses difficultés de trésorerie. Pour les travailleurs indépendants, les échéances comprises entre le 20 mars et le 20 août n'ont pas été prélevées. Les montants de cotisations afférents ont été reportés pour un lissage sur de les échéances ultérieures.</p><p>Les reports des travailleurs indépendants sont calculés sur la base des revenus prévisionnels eux-mêmes basés sur les revenus 2018, puis 2019 dès que ceux-ci sont connus. Les échéanciers établis pour la reprise du recouvrement des cotisations en septembre 2020 intègrent quant à eux un abattement de 50% afin de tenir de la baisse d'activité liée à la crise du Covid-19. Cet abattement n'est ici pas pris en compte.</p>Les données sont déclinées par catégorie de travailleur indépendant, par département et par grands secteurs d'activité.<p></p><p><u>Source</u> : Acoss-Urssaf, situation au 31/08/2020</p><p></p><p><span style=\"font-weight: bolder;\"",
-      "formats": [],
-      "frequency": "Ponctuelle",
-      "id": "open-urssaf:mesures-exceptionnelles-covid-19-reports-ti-par-departement-x-grand-secteur",
-      "isNew": false,
-      "lastModified": "2020-11-09T08:05:34+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/mesures-exceptionnelles-covid-19-reports-ti-par-departement-x-grand-secteur/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Mesures exceptionnelles Covid-19 : reports de cotisations Urssaf (TI), par département x grand secteur"
     },
     {
       "description": "Gamme tarifaire en vigueur des réseaux de transports répertoriés sur le site Mobigo en Bourgogne-Franche-Comté",
@@ -7925,7 +7996,7 @@
       ],
       "frequency": "unknown",
       "id": "data-gouv:67377e20cc1af51cc2c25415",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2020-08-12T00:00:00+00:00",
       "pageURL": "https://www.data.gouv.fr/datasets/perimetre-du-plan-de-prevention-des-risques-naturels-dinondation-ppri-du-val-de-decize-nievre-58",
       "portalID": "data-gouv-fr",
@@ -7944,7 +8015,7 @@
       ],
       "frequency": "unknown",
       "id": "data-gouv:67377d6acc1af51cc2c25397",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2020-08-12T00:00:00+00:00",
       "pageURL": "https://www.data.gouv.fr/datasets/enjeu-surfacique-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-decize-nievre-58",
       "portalID": "data-gouv-fr",
@@ -7961,17 +8032,36 @@
         "WFS",
         "WMS"
       ],
-      "frequency": "punctual",
-      "id": "data-gouv:67377d68cc1af51cc2c25390",
-      "isNew": true,
-      "lastModified": "2020-08-11T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/enjeu-lineaire-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-nevers-nievre-58",
+      "frequency": "unknown",
+      "id": "data-gouv:67377db5cc1af51cc2c253c3",
+      "isNew": false,
+      "lastModified": "2020-08-12T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/enjeu-ponctuel-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-decize-nievre-58",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Nièvre",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Enjeu linéaire du plan de prévention des risques naturels d'inondation du Val de Nevers - Nièvre (58)"
+      "title": "Enjeu ponctuel du plan de prévention des risques naturels d'inondation du Val de Decize - Nièvre (58)"
+    },
+    {
+      "description": "De manière générale, les enjeux sont les personnes, biens, activités, éléments de patrimoine culturel ou environnemental, menacés par un aléa et susceptibles d'être affectés ou endommagés par celui-ci. La sensibilité d'un enjeu à un aléa est nommée « vulnérabilité ». Cette classe d'objet regroupe tous les enjeux qui ont été pris en compte dans l'étude du PPR. Un enjeu est un objet daté dont la prise en compte est fonction de l'objet du PPR et de sa vulnérabilité aux aléas étudiés. Un enjeu de PPR peut donc être pris en compte (ou pas) selon le ou les types d'aléa traités. Ces éléments constituent le socle de connaissance de l'occupation du sol nécessaire à l'élaboration du PPR, dans la zone d'étude ou à proximité de celle-ci, à la date de l'analyse des enjeux. Les données d'enjeux représentent une photographie (figée et non exhaustive) des biens et des personnes exposés aux aléas au moment de l'élaboration du plan de prévention des risques. Ces données ne sont pas mises à jour après l'approbation du PPR. En pratique elles ne sont plus utilisées : les enjeux sont recalculés en tant que de besoin avec des sources de données à jour.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:67377d8fcc1af51cc2c253af",
+      "isNew": true,
+      "lastModified": "2020-08-12T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/enjeu-lineaire-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-decize-nievre-58",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Nièvre",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Enjeu linéaire du plan de prévention des risques naturels d'inondation du Val de Decize - Nièvre (58)"
     },
     {
       "description": "Les établissements publics de coopération intercommunale (EPCI) sont des regroupements de communes ayant pour objet l'élaboration de « projets communs de développement au sein de périmètres de solidarité ». Ils sont soumis à des règles communes, homogènes et comparables à celles de collectivités locales. Les informations présentées ici concernent les EPCI à fiscalité propre : Communauté Urbaine (CU) ; Communauté d'Agglomération (CA) ; Communauté de Communes (CC) ; Syndicat d'Agglomération Nouvelle (SAN) ; Métropole (ME). Il existe par ailleurs des EPCI sans fiscalité propre : les Syndicats Intercommunaux à Vocation Unique (SIVU), les Syndicats Intercommunaux à Vocation Multiple (SIVOM), les Syndicats Mixtes fermés (SM fermés) et les Syndicats Mixtes ouverts (SM ouverts). liste de communes des EPCI à fiscalité propre téléchargeable sur le site de l'INSEE",
@@ -8480,6 +8570,25 @@
       "title": "Isocotes des hauteurs de crue de la Saône en Côte-d'Or"
     },
     {
+      "description": "Cette couche correspond à l'aléa inondation calculé par modélisation hydraulique pour les crues d'occurrence de 2 à 100 ans.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:67b7d25ee4eb3d3d69e26089",
+      "isNew": false,
+      "lastModified": "2019-04-04T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/zones-inondables-des-crues-de-la-saone-toutes-occurrences-pour-la-cote-dor-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Zones inondables des crues de la Saône, toutes occurrences, pour la Côte-d'Or"
+    },
+    {
       "description": "Les iso cotes représentent les niveaux d’eau de même altitude pour la crue de référence d’occurrence 100 ans.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -8950,6 +9059,25 @@
       "title": "Cantons du Doubs"
     },
     {
+      "description": "Carte des enjeux surfaciques. Ces données sont issues de l’étude hydraulique de la Vouge, Biètre et Cents Fonts réalisé par le bureau d’étude BRLI en 2017 sous maîtrise d’ouvrage de la DDT de la Côte-d’Or. Les enjeux sont des objets représentant des personnes, biens, activités, zones habitées, éléments de patrimoine culturel ou environnemental, ..., menacés par un aléa et susceptibles d'être affectés ou endommagés par celui-ci. Les données d'enjeux de cette couche représentent une photographie (figée et non exhaustive) des biens et des personnes exposés aux aléas au moment de l'élaboration de l'étude. Intégrée en mars 2018.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:67377669831ee9d824c40c8f",
+      "isNew": false,
+      "lastModified": "2018-03-13T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/vulnerabilite-des-zones-urbaines-lors-des-inondations-de-la-vouge-en-cote-dor",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Vulnérabilité des zones urbaines lors des inondations de la Vouge en Côte-d'Or"
+    },
+    {
       "description": "Carte des enjeux ponctuels. Ces données sont issues de l’étude hydraulique de la Vouge, Biètre et Cents Fonts réalisé par le bureau d’étude BRLI en 2017 sous maîtrise d’ouvrage de la DDT de la Côte-d’Or. Les enjeux sont des objets représentant des personnes, biens, activités, zones habitées, éléments de patrimoine culturel ou environnemental, ..., menacés par un aléa et susceptibles d'être affectés ou endommagés par celui-ci. Les données d'enjeux de cette couche représentent une photographie (figée et non exhaustive) des biens et des personnes exposés aux aléas au moment de l'élaboration de l'étude. Intégrée en mars 2018.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -9064,25 +9192,6 @@
       "title": "Circonscriptions législatives de Saône-et-Loire"
     },
     {
-      "description": "Le PPRT du site de Titanoble a été approuvé en date du 29 juin 2012.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:673774de831ee9d824c40b76",
-      "isNew": true,
-      "lastModified": "2017-10-31T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zone-reglementee-du-pprt-de-la-raffinerie-de-titanobel-en-cote-dor-surfacique",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zone réglementée du PPRT de la Raffinerie de Titanobel en Côte-d'Or (surfacique)"
-    },
-    {
       "description": "Pour les PPRT, le code de l'environnement définit une seule catégorie de zones pour des zones (L515-15 et suiv.) : les zones exposées aux risques. A la différence des PPR naturels, les PPRT ne comportent jamais de zones réglementées non directement exposées aux risques. En fonction du niveau d'aléa, chaque zone du PPRT fait l'objet d'un règlement opposable. Les règlements PPRT distinguent généralement deux types de zones : 1- les « zones d'interdiction de construire », dites « zones rouges », lorsque le niveau d'aléa est fort et que la règle générale est l'interdiction de construire ; 2- les « zones soumises à prescriptions », dites « zones bleues », lorsque le niveau d'aléa est moyen et que les projets sont soumis à des prescriptions adaptées au type d'enjeu. Les instructions du guide d'élaboration PPRT ajoutent une gradation à l'intérieur des « zones rouges » et des « zones bleues ». Le PPRT du site de Titanoble a été approuvé en date du 29 juin 2012.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -9100,25 +9209,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Zone réglementée du PPRT de la Raffinerie de Titanobel en Côte-d'Or (ponctuel)"
-    },
-    {
-      "description": "Pour les PPRT, le code de l'environnement définit une seule catégorie de zones pour des zones (L515-15 et suiv.) : les zones exposées aux risques. A la différence des PPR naturels, les PPRT ne comportent jamais de zones réglementées non directement exposées aux risques. En fonction du niveau d'aléa, chaque zone du PPRT fait l'objet d'un règlement opposable. Les règlements PPRT distinguent généralement deux types de zones : 1- les « zones d'interdiction de construire », dites « zones rouges », lorsque le niveau d'aléa est fort et que la règle générale est l'interdiction de construire ; 2- les « zones soumises à prescriptions », dites « zones bleues », lorsque le niveau d'aléa est moyen et que les projets sont soumis à des prescriptions adaptées au type d'enjeu. Les instructions du guide d'élaboration PPRT ajoutent une gradation à l'intérieur des « zones rouges » et des « zones bleues ». Le PPRT de Dijon céréales a été approuvé en date du 03 janvier 2011.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:673774de831ee9d824c40b75",
-      "isNew": false,
-      "lastModified": "2017-10-31T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zone-reglementee-du-pprt-de-la-raffinerie-de-dijon-cereales-en-cote-dor",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zone réglementée du PPRT de la Raffinerie de Dijon céréales en Côte-d'Or"
     },
     {
       "description": "Pour les PPRT, le code de l'environnement définit une seule catégorie de zones pour des zones (L515-15 et suiv.) : les zones exposées aux risques. A la différence des PPR naturels, les PPRT ne comportent jamais de zones réglementées non directement exposées aux risques. En fonction du niveau d'aléa, chaque zone du PPRT fait l'objet d'un règlement opposable. Les règlements PPRT distinguent généralement deux types de zones : 1- les « zones d'interdiction de construire », dites « zones rouges », lorsque le niveau d'aléa est fort et que la règle générale est l'interdiction de construire ; 2- les « zones soumises à prescriptions », dites « zones bleues », lorsque le niveau d'aléa est moyen et que les projets sont soumis à des prescriptions adaptées au type d'enjeu. Les instructions du guide d'élaboration PPRT ajoutent une gradation à l'intérieur des « zones rouges » et des « zones bleues ». Le PPRT de l'entrepôt pétrolier dijonnais a été approuvé en date du 19 juin 2013.",
@@ -9269,6 +9359,21 @@
       "title": "Aire de protection de biotope dans le département de la Nièvre (58)"
     },
     {
+      "description": "<p>La liste des communes classées en zones de revitalisation rurale (ZRR) au 1er juillet 2017 est parue au Journal Officiel dans un <a href=\"http://www.observatoire-des-territoires.gouv.fr/observatoire-des-territoires/sites/default/files/joe_20170329_0075_0047.pdf\">arrêté daté du 16/03/2017</a>. L’Observatoire des Territoires du CGET met à disposition ce nouveau classement sur son site internet et son application de cartographie interactive.</p><p><strong style=\"background-color: initial;\">Précisions sur les variables : </strong></p><p><strong style=\"background-color: initial;\"></strong><em><strong>ZRR 2017 : </strong></em>Renseigne si la commune est classée ou non classée en ZRR à partir du 01/07/2017. Les communes indiquées comme partiellement classées sont les communes des Hauts de la réunion pour lesquelles le classement est infra-communal. Sont également renseignées les communes de montagne qui ne sont plus classées en ZRR en 2017 mais qui, étant classées en 2014, continuent à bénéficier des effets du dispositif ZRR en application à l'article 7 de la loi n°2016-1888 du 28 décembre 2016 de modernisation, de développement et de protection des territoires de montagne.</p>",
+      "formats": [],
+      "frequency": null,
+      "id": "sports-gouv:communes-classees-en-zones-de-revitalisation-rurale-zrr",
+      "isNew": false,
+      "lastModified": "2017-07-13T12:18:56+00:00",
+      "pageURL": "https://data.sports.gouv.fr/explore/dataset/communes-classees-en-zones-de-revitalisation-rurale-zrr/",
+      "portalID": "sports-gouv",
+      "publisher": "Ministère des Sports",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Communes classées en Zones de Revitalisation Rurale (ZRR)"
+    },
+    {
       "description": "Table exprimant les relations entre les servitudes et les actes instituant ses servitudes. (tel acte de la table ACTE_SUP_070 institue telle servitude de la table SERVITUDE_070) Servitudes concernées actuellement : - PM1 Table suivant le standard CNIG SUP. Date de création : juillet 2016 Dernière mise à jour : juillet 2017 Source : services métiers de la DDT (SER/Risques pour les PM1)",
       "formats": [
         "MAPINFO TAB"
@@ -9394,42 +9499,61 @@
       "title": "Commune classée en zone de revitalisation rurale en Côte-d'Or"
     },
     {
-      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Pluvet a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
+      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Treclun a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:6737772a831ee9d824c40d0a",
+      "id": "data-gouv:6737764a831ee9d824c40c7b",
       "isNew": true,
       "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-pluvet-en-cote-dor",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-treclun-en-cote-dor-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage réglementaire du PPRN inondation de la Commune de Pluvet en Côte-d'Or"
+      "title": "Zonage réglementaire du PPRN inondation de la Commune de Treclun en Côte-d'Or"
     },
     {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de Treclun (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
+      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Pont a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377785831ee9d824c40d3e",
+      "id": "data-gouv:673775a0831ee9d824c40c0c",
       "isNew": false,
       "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-treclun-en-cote-dor-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-pont-en-cote-dor-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de la commune de Treclun en Côte-d'Or"
+      "title": "Zonage réglementaire du PPRN inondation de la Commune de Pont en Côte-d'Or"
+    },
+    {
+      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Pluvault a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:673776da831ee9d824c40ce0",
+      "isNew": false,
+      "lastModified": "2017-03-17T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-pluvault-en-cote-dor",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Zonage réglementaire du PPRN inondation de la Commune de Pluvault en Côte-d'Or"
     },
     {
       "description": "Zonage des aléas du Plan de prévention des risques naturels de Pont (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
@@ -9440,7 +9564,7 @@
       ],
       "frequency": "unknown",
       "id": "data-gouv:67377538831ee9d824c40baf",
-      "isNew": false,
+      "isNew": true,
       "lastModified": "2017-03-17T00:00:00+00:00",
       "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-pont-en-cote-dor-1",
       "portalID": "data-gouv-fr",
@@ -9451,61 +9575,61 @@
       "title": "Zonage des aléas du PPRN de la commune de Pont en Côte-d'Or"
     },
     {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de Izier (Arrêté préfectoral du 03/08/2015). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
+      "description": "Zonage des aléas du Plan de prévention des risques naturels de Pluvet (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377708831ee9d824c40cfa",
+      "id": "data-gouv:6737766b831ee9d824c40c95",
       "isNew": true,
       "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-izier-en-cote-dor-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-pluvet-en-cote-dor-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de la commune de Izier en Côte-d'Or"
+      "title": "Zonage des aléas du PPRN de la commune de Pluvet en Côte-d'Or"
     },
     {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de Couternon (Arrêté préfectoral du 03/08/2015). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
+      "description": "Zonage des aléas du Plan de prévention des risques naturels de Pluvault (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377537831ee9d824c40bae",
-      "isNew": true,
+      "id": "data-gouv:6737759e831ee9d824c40c08",
+      "isNew": false,
       "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-couternon-en-cote-dor",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-pluvault-en-cote-dor-2",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de la commune de Couternon en Côte-d'Or"
+      "title": "Zonage des aléas du PPRN de la commune de Pluvault en Côte-d'Or"
     },
     {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de Champdôtre (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
+      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Meursault a été approuvé par arrêté préfectoral en date du 30/12/2011. Cette couche représente le zonage réglementaire du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377562831ee9d824c40bdc",
-      "isNew": true,
-      "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-champdotre-en-cote-dor-1",
+      "id": "data-gouv:673776bd831ee9d824c40cd2",
+      "isNew": false,
+      "lastModified": "2017-03-16T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-meursault-en-cote-dor",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de la commune de Champdôtre en Côte-d'Or"
+      "title": "Zonage réglementaire du PPRN inondation de la Commune de Meursault en Côte-d'Or"
     },
     {
       "description": "Le Plan de prévention des risques naturels inondation de la Commune de Marsannay-la-Côte a été approuvé par arrêté préfectoral en date du 19/07/2010. Cette couche représente le zonage réglementaire du PPRN.",
@@ -9527,23 +9651,23 @@
       "title": "Zonage réglementaire du PPRN inondation de la Commune de Marsannay-la-Côte en Côte-d'Or"
     },
     {
-      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Genlis a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
+      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Fauverney a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:6737764d831ee9d824c40c85",
+      "id": "data-gouv:67377698831ee9d824c40cba",
       "isNew": true,
       "lastModified": "2017-03-16T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-genlis-en-cote-dor-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-fauverney-en-cote-dor-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage réglementaire du PPRN inondation de la Commune de Genlis en Côte-d'Or"
+      "title": "Zonage réglementaire du PPRN inondation de la Commune de Fauverney en Côte-d'Or"
     },
     {
       "description": "Zonage des aléas du Plan de prévention des risques naturels de Vénarey-lès-Laumes (Arrêté préfectoral du 31/12/2009). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
@@ -9755,6 +9879,44 @@
       "title": "Zonage des aléas du PPRN de Brazey-en-Plaine en Côte-d'Or"
     },
     {
+      "description": "Cette couche contient les périmètres d'exposition au risque du plan de prévention des risques naturels de Vénarey-lès-Laumes",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:673774fe831ee9d824c40b82",
+      "isNew": true,
+      "lastModified": "2017-03-16T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/perimetre-dexposition-au-risque-du-pprn-de-venarey-les-laumes-en-cote-dor-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Périmètre d'exposition au risque du PPRN de Vénarey-lès-Laumes en Côte-d'Or"
+    },
+    {
+      "description": "Cette couche contient les périmètres d'exposition au risque du plan de prévention des risques naturels de Perrigny-lès-Dijon",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:6737759d831ee9d824c40c04",
+      "isNew": false,
+      "lastModified": "2017-03-16T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/perimetre-dexposition-au-risque-du-pprn-de-perrigny-les-dijon-en-cote-dor-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Périmètre d'exposition au risque du PPRN de Perrigny-lès-Dijon en Côte-d'Or"
+    },
+    {
       "description": "Cette couche contient les périmètres d'exposition au risque du plan de prévention des risques naturels de Montbard",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -9888,63 +10050,6 @@
       "title": "Profils en travers du Plan de prévention des risques naturels (PPRN) de la commune de Marsannay-la-Côte en Côte-d'Or"
     },
     {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de la Saône - secteur 4 (Arrêté préfectoral du 30/12/2008). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:6737764f831ee9d824c40c88",
-      "isNew": true,
-      "lastModified": "2017-03-15T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-saone-secteur-4-en-cote-dor-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de la Saône - secteur 4 en Côte-d'Or"
-    },
-    {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de la Saône - secteur 1 (Arrêté préfectoral du 28/12/2006). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:6737755b831ee9d824c40bc9",
-      "isNew": true,
-      "lastModified": "2017-03-15T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-saone-secteur-1-en-cote-dor-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de la Saône - secteur 1 en Côte-d'Or"
-    },
-    {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de Ste-Colombe-sur-Seine (Arrêté préfectoral du 07/07/2002). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:6737775a831ee9d824c40d30",
-      "isNew": true,
-      "lastModified": "2017-03-15T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-ste-colombe-sur-seine-en-cote-dor-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de Ste-Colombe-sur-Seine en Côte-d'Or"
-    },
-    {
       "description": "Zonage des aléas du Plan de prévention des risques naturels de Perrigny-sur-l'Ognon (Arrêté préfectoral du 03/08/2010). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -10029,7 +10134,7 @@
       ],
       "frequency": "unknown",
       "id": "data-gouv:67377732831ee9d824c40d1c",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2017-03-13T00:00:00+00:00",
       "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-varanges-en-cote-dor-1",
       "portalID": "data-gouv-fr",
@@ -10298,21 +10403,21 @@
       "title": "Zonage des aléas du PPRN de Glanon en Côte-d'Or"
     },
     {
-      "description": "Cette couche correspond à la zone inondable calculée par modélisation hydraulique pour une crue d'occurrence 100 ans. Les modélisations des différentes crues ont été réalisées dans un objectif d'aide à la gestion des crises inondations. Ces modélisations ont abouti également à la réalisation de PPRN.",
+      "description": "Cette couche correspond à la zone inondable calculée par modélisation hydraulique pour une crue d'occurrence 50 ans. Les modélisations des différentes crues ont été réalisées dans un objectif d'aide à la gestion des crises inondations. Ces modélisations ont abouti également à la réalisation de PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)"
       ],
       "frequency": "severalTimesADay",
-      "id": "data-gouv:6737760b831ee9d824c40c50",
+      "id": "data-gouv:6737760c831ee9d824c40c52",
       "isNew": true,
       "lastModified": "2015-11-30T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zones-inondables-des-crues-de-louche-occurrence-100-ans-pour-la-cote-dor-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/zones-inondables-des-crues-de-louche-occurrence-50-ans-pour-la-cote-dor",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 2,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zones inondables des crues de l'ouche, occurrence 100 ans, pour la Côte-d'Or"
+      "title": "Zones inondables des crues de l'ouche, occurrence 50 ans, pour la Côte-d'Or"
     },
     {
       "description": "Pour les PPR naturels, le code de l'environnement définit deux catégories de zones (L562-1) : les zones exposées aux risques et les zones qui ne sont pas directement exposées aux risques mais sur lesquelles des mesures peuvent être prévues pour éviter d'aggraver le risque. En fonction du niveau d'aléa, chaque zone fait l'objet d'un règlement opposable. Les règlements distinguent généralement trois types de zones : 1- les « zones d'interdiction de construire », dites « zones rouges », lorsque le niveau d'aléa est fort et que la règle générale est l'interdiction de construire ; 2- les « zones soumises à prescriptions », dites « zones bleues », lorsque le niveau d'aléa est moyen et que les projets sont soumis à des prescriptions adaptées au type d'enjeu ; 3- les zones non directement exposées aux risques mais où des constructions, des ouvrages, des aménagements ou des exploitations agricoles, forestières, artisanales, commerciales ou industrielles pourraient aggraver des risques ou en provoquer de nouveaux, soumises à interdictions ou prescriptions (cf. article L562-1 du Code de l'environnement) . Cette dernière catégorie ne s'applique qu'aux PPR naturels.",
@@ -10421,7 +10526,7 @@
       "formats": [],
       "frequency": "Ponctuel",
       "id": "higher-education:fr-esr-postes_ouverts_concours_itrf",
-      "isNew": false,
+      "isNew": true,
       "lastModified": "2015-04-17T20:45:16+00:00",
       "pageURL": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-postes_ouverts_concours_itrf/",
       "portalID": "higher-education",
@@ -10432,7 +10537,7 @@
       "title": "Liste des emplois offerts aux concours externes et internes et aux examens professionnalisés réservés ITRF"
     }
   ],
-  "generatedAt": "2026-08-24T07:51:55Z",
+  "generatedAt": "2026-08-24T07:58:56Z",
   "portals": [
     {
       "catalogURL": "https://www.data.gouv.fr/api/1/datasets/",
@@ -10538,6 +10643,31 @@
       "kind": "data_fair",
       "publicURL": "https://data.ademe.fr/",
       "publisher": "ADEME"
+    },
+    {
+      "catalogURL": "https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets",
+      "categories": [
+        "economy",
+        "business",
+        "incomeTax",
+        "internationalTrade"
+      ],
+      "id": "economie-gouv",
+      "kind": "opendatasoft",
+      "publicURL": "https://data.economie.gouv.fr/",
+      "publisher": "Ministère de l’Économie et des Finances"
+    },
+    {
+      "catalogURL": "https://data.sports.gouv.fr/api/explore/v2.1/catalog/datasets",
+      "categories": [
+        "sport",
+        "population",
+        "publicServices"
+      ],
+      "id": "sports-gouv",
+      "kind": "opendatasoft",
+      "publicURL": "https://data.sports.gouv.fr/",
+      "publisher": "Ministère des Sports"
     }
   ],
   "producers": [
@@ -10914,75 +11044,307 @@
       "id": "collectivites-bfc",
       "name": "Départements, EPCI et communes de BFC",
       "scope": "BFC/départements/intercommunalités/communes"
+    },
+    {
+      "categories": [
+        "economy",
+        "employment",
+        "publicServices",
+        "territories"
+      ],
+      "id": "prefecture-sgar-bfc",
+      "name": "Préfecture de région et SGAR Bourgogne-Franche-Comté",
+      "scope": "BFC/départements/territoires contractualisés"
+    },
+    {
+      "categories": [
+        "localFinance",
+        "regionalBudget",
+        "publicServices"
+      ],
+      "id": "crc-bfc",
+      "name": "Chambre régionale des comptes Bourgogne-Franche-Comté",
+      "scope": "BFC/collectivités/organismes publics"
+    },
+    {
+      "categories": [
+        "business",
+        "innovation",
+        "economy"
+      ],
+      "id": "inpi",
+      "name": "INPI",
+      "scope": "France/régions/départements/communes"
+    },
+    {
+      "categories": [
+        "internationalTrade",
+        "economy",
+        "business"
+      ],
+      "id": "douanes",
+      "name": "Direction générale des douanes",
+      "scope": "France/régions/départements"
+    },
+    {
+      "categories": [
+        "business",
+        "credit",
+        "innovation"
+      ],
+      "id": "bpifrance",
+      "name": "Bpifrance",
+      "scope": "France/régions"
+    },
+    {
+      "categories": [
+        "business",
+        "economy",
+        "innovation",
+        "employment"
+      ],
+      "id": "aer-bfc",
+      "name": "Agence économique régionale Bourgogne-Franche-Comté",
+      "scope": "BFC/départements/filières"
+    },
+    {
+      "categories": [
+        "socialEconomy",
+        "employment",
+        "business"
+      ],
+      "id": "cress-bfc",
+      "name": "CRESS Bourgogne-Franche-Comté",
+      "scope": "BFC/départements"
+    },
+    {
+      "categories": [
+        "health",
+        "careAccess",
+        "inequality"
+      ],
+      "id": "ors-bfc",
+      "name": "Observatoire régional de la santé Bourgogne-Franche-Comté",
+      "scope": "BFC/départements/territoires de santé"
+    },
+    {
+      "categories": [
+        "airQuality",
+        "health",
+        "environment"
+      ],
+      "id": "atmo-bfc",
+      "name": "Atmo Bourgogne-Franche-Comté",
+      "scope": "BFC/départements/communes"
+    },
+    {
+      "categories": [
+        "transport",
+        "housing",
+        "landUse",
+        "climate"
+      ],
+      "id": "cerema",
+      "name": "Cerema",
+      "scope": "France/régions/départements/communes"
+    },
+    {
+      "categories": [
+        "housing",
+        "poverty",
+        "energy"
+      ],
+      "id": "anah",
+      "name": "Anah",
+      "scope": "France/régions/départements/communes"
+    },
+    {
+      "categories": [
+        "housing",
+        "territories",
+        "publicServices"
+      ],
+      "id": "anru",
+      "name": "ANRU",
+      "scope": "France/quartiers/communes"
+    },
+    {
+      "categories": [
+        "climate",
+        "environment",
+        "agriculture"
+      ],
+      "id": "meteo-france",
+      "name": "Météo-France",
+      "scope": "France/régions/départements/stations"
+    },
+    {
+      "categories": [
+        "biodiversity",
+        "water",
+        "environment"
+      ],
+      "id": "ofb",
+      "name": "Office français de la biodiversité",
+      "scope": "France/régions/départements"
+    },
+    {
+      "categories": [
+        "water",
+        "environment",
+        "publicServices"
+      ],
+      "id": "eaufrance",
+      "name": "Eaufrance, OFB et agences de l’eau",
+      "scope": "France/bassins/départements/communes"
+    },
+    {
+      "categories": [
+        "sport",
+        "training",
+        "population"
+      ],
+      "id": "injep-drajes",
+      "name": "INJEP et DRAJES Bourgogne-Franche-Comté",
+      "scope": "France/BFC/départements"
+    },
+    {
+      "categories": [
+        "culture",
+        "employment",
+        "publicServices"
+      ],
+      "id": "drac-bfc",
+      "name": "DRAC Bourgogne-Franche-Comté",
+      "scope": "BFC/départements/communes"
+    },
+    {
+      "categories": [
+        "safety",
+        "territories"
+      ],
+      "id": "ssmsi",
+      "name": "SSMSI - statistiques de sécurité intérieure",
+      "scope": "France/régions/départements/communes"
+    },
+    {
+      "categories": [
+        "justice",
+        "publicServices"
+      ],
+      "id": "justice",
+      "name": "Ministère de la Justice",
+      "scope": "France/cours/tribunaux/départements"
+    },
+    {
+      "categories": [
+        "safety",
+        "publicServices",
+        "publicWork"
+      ],
+      "id": "sdis-bfc",
+      "name": "Services départementaux d’incendie et de secours de BFC",
+      "scope": "huit départements BFC"
+    },
+    {
+      "categories": [
+        "agriculture",
+        "food",
+        "environment"
+      ],
+      "id": "agence-bio",
+      "name": "Agence Bio",
+      "scope": "France/régions/départements"
+    },
+    {
+      "categories": [
+        "business",
+        "economy"
+      ],
+      "id": "observatoire-entreprises",
+      "name": "Conseil national des greffiers et observatoires des entreprises",
+      "scope": "France/régions/départements"
     }
   ],
   "publicationRule": "Une détection signale un jeu public à qualifier. Seul un connecteur documenté et validé peut publier des observations.",
   "runs": [
     {
       "candidateCount": 499,
-      "checkedAt": "2026-08-24T07:51:33Z",
+      "checkedAt": "2026-08-24T07:58:35Z",
       "portalID": "data-gouv-fr",
       "status": "success"
     },
     {
-      "candidateCount": 58,
-      "checkedAt": "2026-08-24T07:51:44Z",
+      "candidateCount": 54,
+      "checkedAt": "2026-08-24T07:58:44Z",
       "portalID": "open-urssaf",
       "status": "success"
     },
     {
       "candidateCount": 15,
-      "checkedAt": "2026-08-24T07:51:45Z",
+      "checkedAt": "2026-08-24T07:58:45Z",
       "portalID": "dares",
       "status": "success"
     },
     {
       "candidateCount": 1,
-      "checkedAt": "2026-08-24T07:51:46Z",
+      "checkedAt": "2026-08-24T07:58:46Z",
       "portalID": "drees",
       "status": "success"
     },
     {
-      "candidateCount": 32,
-      "checkedAt": "2026-08-24T07:51:47Z",
+      "candidateCount": 28,
+      "checkedAt": "2026-08-24T07:58:47Z",
       "portalID": "education",
       "status": "success"
     },
     {
       "candidateCount": 18,
-      "checkedAt": "2026-08-24T07:51:48Z",
+      "checkedAt": "2026-08-24T07:58:48Z",
       "portalID": "higher-education",
       "status": "success"
     },
     {
       "candidateCount": 0,
-      "checkedAt": "2026-08-24T07:51:51Z",
+      "checkedAt": "2026-08-24T07:58:49Z",
       "portalID": "ameli",
       "status": "success"
     },
     {
       "candidateCount": 20,
-      "checkedAt": "2026-08-24T07:51:52Z",
+      "checkedAt": "2026-08-24T07:58:50Z",
       "portalID": "ofgl",
       "status": "success"
     },
     {
       "candidateCount": 56,
-      "checkedAt": "2026-08-24T07:51:53Z",
+      "checkedAt": "2026-08-24T07:58:51Z",
       "portalID": "ademe",
+      "status": "success"
+    },
+    {
+      "candidateCount": 0,
+      "checkedAt": "2026-08-24T07:58:52Z",
+      "portalID": "economie-gouv",
+      "status": "success"
+    },
+    {
+      "candidateCount": 15,
+      "checkedAt": "2026-08-24T07:58:53Z",
+      "portalID": "sports-gouv",
       "status": "success"
     }
   ],
   "schemaVersion": 1,
   "summary": {
-    "bfcExplicitCount": 429,
-    "discoveredDatasetCount": 605,
+    "bfcExplicitCount": 428,
+    "discoveredDatasetCount": 612,
     "integratedSeriesCount": 201,
-    "monitoredPortalCount": 9,
-    "newSincePreviousCount": 20,
-    "registeredProducerCount": 36,
-    "successfulPortalCount": 9,
-    "territorialPotentialCount": 176
+    "monitoredPortalCount": 11,
+    "newSincePreviousCount": 17,
+    "registeredProducerCount": 58,
+    "successfulPortalCount": 11,
+    "territorialPotentialCount": 184
   },
   "territory": "Bourgogne-Franche-Comté et ses huit départements"
 }
