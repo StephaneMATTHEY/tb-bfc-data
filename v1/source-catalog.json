@@ -90,7 +90,7 @@
       "formats": [],
       "frequency": null,
       "id": "education:fr-en-cites_scolaires",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2026-08-24T04:00:05.548000+00:00",
       "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-cites_scolaires/",
       "portalID": "education",
@@ -1388,7 +1388,7 @@
       "formats": [],
       "frequency": "Ponctuel",
       "id": "higher-education:fr-esr-cico-organismes-publics-agrees-ci-collaboration-de-recherche",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2026-06-18T16:22:17+00:00",
       "pageURL": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-cico-organismes-publics-agrees-ci-collaboration-de-recherche/",
       "portalID": "higher-education",
@@ -1491,7 +1491,7 @@
       "formats": [],
       "frequency": "annual",
       "id": "education:fr-en-cap_specialite_sexe_statut_departement",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2026-06-09T08:22:03.208000+00:00",
       "pageURL": "https://data.education.gouv.fr/explore/dataset/fr-en-cap_specialite_sexe_statut_departement/",
       "portalID": "education",
@@ -2430,6 +2430,43 @@
       "title": "Masses d'eau souterraines en Bourgogne-Franche-Comté (MESO)"
     },
     {
+      "description": "La directive européenne \"Habitats faune flore\" établit un cadre pour les actions communautaires de conservation d'espèces de faune et de flore sauvages ainsi que leur habitat. Cette directive répertorie plus de 200 types d'habitats naturels, 200 espèces animales et 500 espèces végétales présentant un intérêt communautaire et nécessitant une protection. Les zones spéciales de conservation (ZSC), actuellement plus de 20000 pour environ 12% du territoire européen, permettent une protection de ces habitats et espèces menacées.",
+      "formats": [
+        "HTML",
+        "ODS",
+        "SHP"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:69f6ba5475697315fe2c49b4",
+      "isNew": true,
+      "lastModified": "2026-05-03T03:00:36.149000+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/natura-2000-zones-speciales-de-conservation-zsc-directive-habitats-en-bourgogne-franche-comte-2",
+      "portalID": "data-gouv-fr",
+      "publisher": "DREAL Bourgogne-Franche-Comté",
+      "resourceCount": 3,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Natura 2000 - Zones Spéciales de Conservation (ZSC) - Directive Habitats en Bourgogne-Franche-Comté"
+    },
+    {
+      "description": "Ce fichier contient les périmètres des SLGRI de la région. Créées par la loi n° 2010-788 du 12 juillet 2010, les stratégies locales de gestion des risques d’inondation sont élaborées sur les territoires à risque important d’inondation (TRI). Elles s’inscrivent dans le cadre fixé par la stratégie nationale de gestion des risques d’inondation (SNGRI) et les plans de gestion des risques d’inondation (PGRI) élaborés à l’échelle des grands bassins hydrographiques. Les stratégies locales de gestion des risques d’inondation constituent la déclinaison des objectifs du plan de gestion des risques d'inondation (PGRI) pour les territoires à risque d'inondation important (TRI). Les stratégies locales sont élaborées conjointement par les parties intéressées sur les TRI, en conformité avec la stratégie nationale et en vue de concourir à sa réalisation.",
+      "formats": [
+        "ODS",
+        "SHP"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:69f6ba5175697315fe2c49b3",
+      "isNew": true,
+      "lastModified": "2026-05-03T03:00:33.321000+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/perimetres-des-strategies-locales-de-gestion-des-risques-inondation-slgri-en-bourgogne-franche-comt-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DREAL Bourgogne-Franche-Comté",
+      "resourceCount": 2,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Périmètres des Stratégies Locales de Gestion des Risques Inondation en Bourgogne-Franche-Comté"
+    },
+    {
       "description": "Données des périmètres des PLUi en région Bourgogne-Franche-Comté et leur état d'avancement. Ce sont les documents d’urbanisme qui, à l’échelle d’un groupement de communes (EPCI) ou d’une commune, établissent un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré.Le PLU doit permettre l’émergence d’un projet de territoire partagé prenant en compte à la fois les politiques nationales et territoriales d’aménagement et les spécificités d’un territoire(Art. L.121-1 du code de l’urbanisme). Il détermine donc les conditions d’un aménagement du territoire respectueux des principes du développement durable (en particulier par une gestion économe de l’espace) et répondant aux besoins de développement local.Quand le plan local d’urbanisme couvre l’intégralité du territoire communautaire, on parle alors de PLU intercommunal ou communautaire (PLUi). Les objectifs, le contenu, les modalités d’élaboration, de révision et de suivi du PLU(i) sont définis dans le cadre du code de l’urbanisme (Livre I – Titre II – Chapitre III).",
       "formats": [
         "ODS",
@@ -2455,7 +2492,7 @@
       ],
       "frequency": "unknown",
       "id": "data-gouv:69f6ba4575697315fe2c49af",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2026-05-03T03:00:21.604000+00:00",
       "pageURL": "https://www.data.gouv.fr/datasets/programme-dappui-petite-ville-de-demain-en-region-bourgogne-franche-comte-1",
       "portalID": "data-gouv-fr",
@@ -2499,24 +2536,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Réserves Naturelles Nationales (RNN) en Bourgogne-Franche-Comté"
-    },
-    {
-      "description": "Dans le cadre des SDAGE, la délimitation des zones stratégiques ou nappes stratégiques au sein des masses d'eau souterraines, à préserver pour la satisfaction des besoins actuels et futurs en eau potable en Bourgogne-Franche-Comté. Il faut distinguer 2 échelles d’études distinctes : • la masse d’eau souterraine (MESO) stratégique ; • ses éventuelles zones de sauvegarde pour le futur (ZSF). La délimitation des ressources stratégiques et de leurs zones de sauvegarde a pour objectif de garantir la capacité à répondre aux besoins futurs en mobilisant des outils adaptés sur ces zones pour limiter les pressions en fonction de leur(s) vulnérabilité(s). Les zones de sauvegarde sont des zones délimitées sur le bassin d’alimentation des ressources stratégiques, pour pouvoir protéger ces ressources. Les zones de sauvegarde ont pour objectif de maintenir une qualité de l’eau compatible avec une production d’eau potable ainsi qu’un équilibre quantitatif entre les prélèvements et la recharge naturelle, en mettant en œuvre sur ces secteurs des actions spécifiques et en encadrant certaines activités. En fonction des situations et des enjeux, les zones de sauvegarde peuvent être : • des terrains en surface nécessaires à la recharge en eau actuelle et future de la masse d’eau (comme des aires d’alimentation de captage…), • des terrains en surface permettant l’exploitation (prélèvements) actuelle et future de cette masse d’eau pour l’AEP (périmètres de protection…), • des portions de masse d’ea",
-      "formats": [
-        "ODS",
-        "SHP"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:69f6ba3e75697315fe2c49ac",
-      "isNew": true,
-      "lastModified": "2026-05-03T03:00:14.072000+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/ressources-strategiques-pour-lalimentation-en-eau-potable-aep",
-      "portalID": "data-gouv-fr",
-      "publisher": "DREAL Bourgogne-Franche-Comté",
-      "resourceCount": 2,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zone de sauvegarde (ZS) et ressources stratégiques associées (RS) en Bourgogne-Franche-Comté"
     },
     {
       "description": "La compétence Gemapi recouvre 4 champs d’action obligatoires : l’aménagement des bassins versants (hors problématique liées aux eaux pluviales urbaines); l’entretien et l’aménagement des cours d’eau; la défense contre les inondations, surtout par une action d’entretien des cours d’eau; la protection et la restauration écologique des écosystèmes aquatiques. Ce dernier point est primordial pour maintenir la bonne qualité des écosystèmes. Il comprend également des opérations de restauration de la continuité écologique et la gestion des zones humides principalesLa compétence Gemapi a été transférée au Parc le 01/01/2016 sur un territoire couvrant 116 communes et appartenant à 9 communautés de communes. Ce territoire couvre une surface de 1 930 km² et est parcouru par plus de 1 600 km de cours d’eau.",
@@ -3103,24 +3122,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Paysages remarquables de Bourgogne-Franche-Comté"
-    },
-    {
-      "description": "Jeux de données reprenant l'ensemble des 6 Territoires à Risque important d'Inondation (TRI) réalisés en région Bourgogne-Franche-Comté.Données TRI produites par les services de l'Etat (DDTs ou DREAL) à partir de données locales collectées par des bureaux d'études mandatés.",
-      "formats": [
-        "ODS",
-        "SHP"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:69f417d657a19a11f6eff6f8",
-      "isNew": true,
-      "lastModified": "2026-05-01T03:02:46.459000+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/perimetres-des-territoires-a-risque-important-dinondation-tri-en-region-bourgogne-franche-comte-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DREAL Bourgogne-Franche-Comté",
-      "resourceCount": 2,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Périmètres des Territoires à Risque important d'Inondation (TRI) en région Bourgogne-Franche-Comté"
     },
     {
       "description": "Données relatives aux territoires TEPcv (Territoire à Energie Positive pour la croissance verte) lauréats Ces données sont à jour d'août 2017 et couvrent la région Bourgogne Franche-Comté.",
@@ -3872,21 +3873,6 @@
       "title": "liste acv com2025 20250704"
     },
     {
-      "description": "<p>Données annuelles sur les revenus des travailleurs indépendants depuis 2004, par département et par type de travailleur indépendant.</p><p><u>Source</u> : Urssaf, données arrêtées fin décembre 2025<br><br><u>Précisions méthodologiques</u> :</p><ul><li>Ces données n’intègrent pas les exploitants agricoles, lesquels sont suivis par la Caisse centrale de la Mutualité sociale agricole (CCMSA). Par ailleurs, elles concernent l’ensemble des travailleurs indépendants relevant de la protection sociale des indépendants, ce qui exclut les indépendants qui ne sont pas des travailleurs non-salariés au sens de la protection sociale : dirigeants de certaines sociétés (SA, SAS/SASU), mandataires sociaux ou gérants minoritaires de SARL, et qui sont considérés comme assimilés salariés (rattachés au régime général par l’article L311-3 du CSS).</li><li>Pour l’exercice professionnel de son activité économique, le travailleur indépendant (TI) peut opter pour le statut dit « classique » ou celui d’auto-entrepreneur (AE). Ce choix conditionne le mode de déclaration et de calcul de cotisations. A l’intérieur des deux statuts, plusieurs catégories sont identifiées, au sens de la sécurité sociale : les artisans, les commerçants, les professions libérales.</li><li>Le revenu des AE est calculé à partir du chiffre d'affaires déclaré. Le passage du chiffre d’affaires au revenu s’obtient en appliquant au chiffre d’affaires annuel un abattement forfaitaire défini en fonction du type d’activité (34% pour ",
-      "formats": [],
-      "frequency": "Annuelle",
-      "id": "open-urssaf:les-revenus-des-travailleurs-independants-par-departement",
-      "isNew": false,
-      "lastModified": "2026-04-17T05:30:16+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/les-revenus-des-travailleurs-independants-par-departement/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Les revenus des travailleurs indépendants, par département"
-    },
-    {
       "description": "<p>Données annuelles sur les revenus des travailleurs indépendants classiques (non auto-entrepreneurs) depuis 2018, par département.</p><p><u>Source</u> : Urssaf<br><br><u>Précisions méthodologiques</u> :</p><ul><li>Ces données n’intègrent pas les exploitants agricoles, lesquels sont suivis par la Caisse centrale de la Mutualité sociale agricole (CCMSA). </li><li>Elles portent sur les travailleurs indépendants dits \"classiques\", donc hors auto-entrepreneurs.</li><li>Elles concernent les travailleurs indépendants (TI) relevant de la protection sociale des indépendants, ce qui exclut les indépendants qui ne sont pas des travailleurs non-salariés au sens de la protection sociale : dirigeants de certaines sociétés (SA, SAS/SASU), mandataires sociaux ou gérants minoritaires de SARL, et qui sont considérés comme assimilés salariés (rattachés au régime général par l’article L311-3 du CSS).</li><li>Les TI taxés d'office ne sont pas ici pris en compte, tant au niveau du nombre de TI que du montant des revenus.</li><li>Dans ce jeu, les revenus de l'année N sont arrêtées en décembre N+1.</li></ul><p><u>Pour en savoir plus</u> : <a href=\"https://www.urssaf.org/accueil/statistiques/nos-etudes-et-analyses/travailleurs-independants/nationale/2023/revenus-TI-juin2023.html\" target=\"_blank\">Stat'Ur n°363</a><br></p><p><span><span class=\"ui-provider gs b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><b><u>Avertissement (01/12/2023)</u></b> :<span style=\"f",
       "formats": [],
       "frequency": "Annuelle",
@@ -4274,6 +4260,21 @@
       "title": "Nombre de travailleurs indépendants, par département x secteur"
     },
     {
+      "description": "<p>Nombre annuel de travailleurs indépendants au 31/12 entre 2004 et 2024 par département, par type de travailleur et par groupe professionnel.</p><p><u>Source</u> : Urssaf</p><p><u>Précisions méthodologiques</u> :</p><ul><li>Ces données comptabilisent des comptes de cotisants et non des individus. Elles n’intègrent pas les exploitants agricoles, lesquels sont suivis par la Caisse centrale de la Mutualité sociale agricole (CCMSA). Par ailleurs, elles concernent l’ensemble des travailleurs indépendants relevant de la protection sociale des indépendants, ce qui exclut les indépendants qui ne sont pas des travailleurs non-salariés au sens de la protection sociale : dirigeants de certaines sociétés (SA, SAS/SASU), mandataires sociaux ou gérants minoritaires de SARL, et qui sont considérés comme assimilés salariés (rattachés au régime général par l’article L311-3 du CSS).<br></li><li>Pour l’exercice professionnel de son activité économique, le travailleur indépendant (TI) peut opter pour le statut dit « classique » ou celui d’auto-entrepreneur (AE). Ce choix conditionne le mode de déclaration et de calcul de cotisations. A l’intérieur des deux statuts, plusieurs catégories sont identifiées, au sens de la sécurité sociale : les artisans, les commerçants, les professions libérales.</li><li>Est considéré comme <b>administrativement actif</b> un TI ayant été immatriculé avant ou pendant l'année étudiée, qu’il ait déclaré ou pas un revenu ou un chiffre d’affaires positif, et encore ins",
+      "formats": [],
+      "frequency": "Annuelle",
+      "id": "open-urssaf:travailleurs-independants-par-departement",
+      "isNew": true,
+      "lastModified": "2025-10-28T07:45:08+00:00",
+      "pageURL": "https://open.urssaf.fr/explore/dataset/travailleurs-independants-par-departement/",
+      "portalID": "open-urssaf",
+      "publisher": "Urssaf Caisse nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Nombre de travailleurs indépendants, par département"
+    },
+    {
       "description": "<p>Séries trimestrielles des déclarations préalables à l'embauche (DPAE) au niveau régional, par secteur d'activité au niveau agrégé en 38 postes de la NAF. <span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">►</span><u style=\"font-weight: bolder; font-family: inherit; font-size: 0.833rem;\"><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u><span style=\"font-weight: bolder; font-family: inherit; font-size: 0.833rem;\"> : fin de trim. + ~80 jours et + ~110 jours.</span></p> <p><b style=\"color: rgb(233, 81, 96);\">______________________</b></p><p><b style=\"color: rgb(233, 81, 96); font-family: inherit; font-size: 0.875rem;\">AVERTISSEMENT - 19/11/2025 : SUSPENSION DE LA MISE A JOUR DES JEUX DE DONNEES SUR LES DECLARATIONS D'EMBAUCHE</b></p><p style=\"color:rgb(233,81,96);\">De récentes analyses montrent que des modifications intervenues fin mars 2025 sur le formulaire dématérialisé de la déclaration préalable à l’embauche (DPAE) ont conduit depuis à des erreurs déclaratives sur le type de contrat renseigné par les entreprises déclarantes. Ces erreurs, dont l’ampleur reste à évaluer, sont de nature à altérer les séries par type de contrat (CDI/CDD) ainsi que le champ des déclarations d’embauche de plus d’un mois habituellement suivi dans ce Baromètre.<br>Ainsi, en l’attente d’investigations complémentaires et de mesures correctives permettant de garantir la fiabilité des données, la pu",
       "formats": [],
       "frequency": "Deux fois par trimestre",
@@ -4302,6 +4303,21 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "territorial_potential",
       "title": "Déclarations préalables à l'embauche, par département x grand secteur"
+    },
+    {
+      "description": "<p></p><p>Série mensuelle des déclarations préalables à l'embauche (DPAE) de plus d'un mois au niveau régional. <span>►</span><b><u><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u> : fin de mois + ~50 jours.</b></p><p style=\"font-family: sans-serif;\"><span style=\"font-weight: bolder; color: rgb(233, 81, 96);\">______________________</span></p><p style=\"font-family: sans-serif;\"><span style=\"font-weight: bolder; color: rgb(233, 81, 96); font-family: inherit; font-size: 0.875rem;\">AVERTISSEMENT - 19/11/2025 : SUSPENSION DE LA MISE A JOUR DES JEUX DE DONNEES SUR LES DECLARATIONS D'EMBAUCHE</span></p><p style=\"font-family: sans-serif; color: rgb(233, 81, 96);\">De récentes analyses montrent que des modifications intervenues fin mars 2025 sur le formulaire dématérialisé de la déclaration préalable à l’embauche (DPAE) ont conduit depuis à des erreurs déclaratives sur le type de contrat renseigné par les entreprises déclarantes. Ces erreurs, dont l’ampleur reste à évaluer, sont de nature à altérer les séries par type de contrat (CDI/CDD) ainsi que le champ des déclarations d’embauche de plus d’un mois habituellement suivi dans ce Baromètre.<br>Ainsi, en l’attente d’investigations complémentaires et de mesures correctives permettant de garantir la fiabilité des données, la publication des séries de déclarations d’embauches est suspendue. En outre, il convient de considérer avec beaucoup de prude",
+      "formats": [],
+      "frequency": "Mensuelle",
+      "id": "open-urssaf:dpae-mensuelles-par-region",
+      "isNew": true,
+      "lastModified": "2025-10-22T05:30:14+00:00",
+      "pageURL": "https://open.urssaf.fr/explore/dataset/dpae-mensuelles-par-region/",
+      "portalID": "open-urssaf",
+      "publisher": "Urssaf Caisse nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Déclarations préalables à l'embauche mensuelles de plus d'un mois, par région"
     },
     {
       "description": "Ce jeu de données répond aux spécifications du schéma \"Part des véhicules à faibles émissions dans le renouvellement d'un parc\" disponible sur le site [schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-vehicules-faibles-emissions-renouvellement-parc)",
@@ -4366,19 +4382,19 @@
       "title": "Nombre d'établissements employeurs, effectifs salariés et masse salariale du secteur privé, par département x secteur NA17i et par an (depuis 1998)"
     },
     {
-      "description": "<p>Nombre d'établissements employeurs, effectifs salariés moyens annuels et masse salariale annuelle, au niveau régional, par secteur d'activité au niveau agrégé en 27 postes de la NAF avec distinction des intérimaires. <span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">►</span><b style=\"font-family: inherit; font-size: 0.833rem;\"><u><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u> : fin de trim. + ~250 jours.</b></p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;'><span style=\"font-family: inherit;\"><u>Champ</u> : établissements employeurs du secteur privé, régime général, hors agriculture, hors Mayotte <br></span></p><u style=\"font-family: inherit;\">Source</u> : Urssaf<p></p><p></p><p><u style=\"font-family: inherit;\">Profondeur</u>: Depuis 1998</p><p><span><span class=\"ui-provider gs b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><b><u>Avertissement (15/09/2023)</u></b> :<span style=\"font-weight: bolder;\"></span> A compter de cette publication, les apprentis sont inclus dans le dénombrement des effectifs salariés. Ils étaient auparavant exclus.</span></span></p><p><u>Méthodologie</u></p><p><span style='font-size:7.5pt;font-family:\"Times\",serif; mso-fareast-font-family:Times;mso-bidi-font-family:\"Times New Roman\"; letter-spacing:-.2pt;mso-ansi-language:FR;mso-fareast-langua",
+      "description": "<p>Nombre d'établissements employeurs, effectifs salariés moyens annuels et masse salariale annuelle du secteur privé hors intérimaires, par EPCI. <span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">►</span><b style=\"font-family: inherit; font-size: 0.833rem;\"><u><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u> : fin de trim. + ~250 jours.</b></p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;'><span style=\"font-family: inherit;\"><u>Champ</u> : établissements employeurs du secteur privé, régime général, hors agriculture, hors Mayotte, hors intérimaires<br></span></p><u style=\"font-family: inherit;\">Source</u> : Urssaf<p></p><p><u style=\"font-family: inherit;\">Profondeur</u>: Depuis 1998</p><p><span><span class=\"ui-provider gs b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><b><u>Avertissement (15/09/2023)</u></b> :<span style=\"font-weight: bolder;\"></span> A compter de cette publication, les apprentis sont inclus dans le dénombrement des effectifs salariés. Ils étaient auparavant exclus.</span></span></p><p><u>Méthodologie</u></p><p>- Le nombre d’établissements est égal à la moyenne des dénombrements trimestriels de ces entités. Ceux-ci recensent les entités ayant déclaré une masse salariale au cours du trimestre.<br></p><p>- L'effectif salarié moyen annuel est égal à la moyen",
       "formats": [],
       "frequency": "Annuelle",
-      "id": "open-urssaf:nombre-etab-effectifs-salaries-et-masse-salariale-secteur-prive-regions-x-na27",
-      "isNew": false,
-      "lastModified": "2025-09-17T22:01:08+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/nombre-etab-effectifs-salaries-et-masse-salariale-secteur-prive-regions-x-na27/",
+      "id": "open-urssaf:nombre-etab-effectifs-salaries-et-masse-salariale-secteur-prive-epci",
+      "isNew": true,
+      "lastModified": "2025-09-17T22:01:20+00:00",
+      "pageURL": "https://open.urssaf.fr/explore/dataset/nombre-etab-effectifs-salaries-et-masse-salariale-secteur-prive-epci/",
       "portalID": "open-urssaf",
       "publisher": "Urssaf Caisse nationale",
       "resourceCount": 1,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "territorial_potential",
-      "title": "Nombre d'établissements employeurs, effectifs salariés et masse salariale du secteur privé, par région x secteur NA27i et par an (depuis 1998)"
+      "title": "Nombre d'établissements employeurs, effectifs salariés et masse salariale du secteur privé hors intérimaires, par EPCI et par an (depuis 1998)"
     },
     {
       "description": "<p></p><p>Données sur les particuliers employeurs en 2024 issues des dispositifs Cesu, Pajemploi et DNS.</p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;'><img class=\"\" src=\"https://open.urssaf.fr/assets/theme_image/Symbole_SR.png\" style=\"width: 46.4px; height: 42.4876px;\"/><b></b><b>Les séries du nombre de particuliers employeurs et celles du volume horaire et de la masse salariale déclarés par les particuliers employeurs sont reconnues d'intérêt général par l'Autorité de la statistique publique (<a href=\"https://www.autorite-statistique-publique.fr/event/avis-sur-le-caractere-de-statistiques-publiques-a-visee-dinformation-generale-de-series-statistiques-produites-par-lurssaf-caisse-nationale/\" target=\"_blank\">Avis du 22/12/2021</a>).</b></p><span><span><u></u></span></span><u></u><u>Source</u> : Acoss-Urssaf, CnCesu, Centre Pajemploi<p></p><p><span><span><u>Précisions méthodologiques</u> :</span></span><span><span><span><span></span></span></span></span></p><p></p><p>- Les données sont ventilées par catégorie d'emploi (type d'emploi x dispositif déclaratif) :<br>. CESU_HGED (Hors garde d'enfant - CESU)<br>. DNS_HGED (Hors garde d'enfant - DNS)<br>. PAJE_GED (Garde d'enfant à domicile - PAJE)<br>. PAJE_AM (Assistantes maternelles - PAJE)</p><p>- Elles sont par ailleurs déclinées par département.</p><span style=\"font-weight: bolder;\"></span><span style=\"font-weight: bolder;\">DATAVIZ</span> : <a href=\"https://open.u",
@@ -4961,21 +4977,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "territorial_potential",
       "title": "Licences annuelles (2024) par département"
-    },
-    {
-      "description": "<p></p><p>Données sur les particuliers employeurs en 2023 issues des dispositifs Cesu, Pajemploi et DNS.</p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;'><img class=\"\" src=\"https://open.urssaf.fr/assets/theme_image/Symbole_SR.png\" style=\"width: 46.4px; height: 42.4876px;\"/><b></b><b>Les séries du nombre de particuliers employeurs et celles du volume horaire et de la masse salariale déclarés par les particuliers employeurs sont reconnues d'intérêt général par l'Autorité de la statistique publique (<a href=\"https://www.autorite-statistique-publique.fr/event/avis-sur-le-caractere-de-statistiques-publiques-a-visee-dinformation-generale-de-series-statistiques-produites-par-lurssaf-caisse-nationale/\" target=\"_blank\">Avis du 22/12/2021</a>).</b></p><span><span><u></u></span></span><u></u><u>Source</u> : Acoss-Urssaf, CnCesu, Centre Pajemploi<p></p><p><span><span><u>Précisions méthodologiques</u> :</span></span><span><span><span><span></span></span></span></span></p><p></p><p>- Les données sont ventilées par catégorie d'emploi (type d'emploi x dispositif déclaratif) :<br>. CESU_HGED (Hors garde d'enfant - CESU)<br>. DNS_HGED (Hors garde d'enfant - DNS)<br>. PAJE_GED (Garde d'enfant à domicile - PAJE)<br>. PAJE_AM (Assistantes maternelles - PAJE)</p><p>- Elles sont par ailleurs déclinées par département.</p><span style=\"font-weight: bolder;\"></span><span style=\"font-weight: bolder;\">DATAVIZ</span> : <a href=\"https://open.u",
-      "formats": [],
-      "frequency": "Annuelle",
-      "id": "open-urssaf:particuliers-employeurs-en-2023",
-      "isNew": false,
-      "lastModified": "2024-12-16T11:00:35+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/particuliers-employeurs-en-2023/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Particuliers employeurs en 2023"
     },
     {
       "description": "<p>Données sur les salariés des particuliers employeurs en 2023 issues des dispositifs Cesu et Pajemploi.</p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 12.495px;'><u>Source</u> : Acoss-Urssaf, CnCesu, Centre Pajemploi</p><p>Les données sont ventilées par catégorie d'emploi (type d'emploi x dispositif déclaratif) :<br>- CESU_HGED (Hors garde d'enfant - CESU)<br>- PAJE_GED (Garde d'enfant à domicile - PAJE)<br>- PAJE_AM (Assistantes maternelles - PAJE)</p><p>Elles sont par ailleurs déclinées par département.</p><p><span style=\"font-weight: bolder;\">DATAVIZ</span> : <a href=\"https://open.urssaf.fr/pages/particuliers-employeurs-et-leurs-employes/\">les chiffres en image</a></p><p><a href=\"https://www.urssaf.org/accueil/statistiques/notre-methodologie/les-particuliers-employeurs.html\" target=\"_blank\">Pour approfondir notre méthodologie</a></p><p></p>",
@@ -5869,6 +5870,25 @@
       "title": "Plan de prévention des risques naturels en Côte-d'Or"
     },
     {
+      "description": "Le standard de données COVADIS sur les plans de prévention des risques technologiques (PPRT) comporte toutes les spécifications techniques et organisationnelles de stockage au format numérique des données géographiques représentées dans les plans de prévention des risques (PPR). Les risques technologiques sont au nombre de quatre : le risque nucléaire, le risque industriel, le risque de transport de matières dangereuses et le risque de rupture de barrage. Les plans de prévention des risques (PPR) ont été institués par la loi du 2 février 1995 relative au renforcement de la protection de l'environnement. Les PPRT contiennent trois catégories d'information : • La cartographie réglementaire se traduit par une délimitation géographique du territoire concerné par le risque. Cette délimitation définit des zones dans lesquelles s'appliquent des règlements spécifiques. Ces règlements ont valeur de servitude et imposent des prescriptions variant en fonction du niveau d'aléa auquel la zone est exposée. Les zones sont représentées sur un plan de zonage qui couvre entièrement le périmètre d'étude. • Les aléas à l'origine du risque figurent dans des documents d'aléas qui peuvent être insérés dans le rapport de présentation ou annexés au PPR. Ces documents servent à cartographier les différents niveaux d'intensité de chaque aléa pris en compte dans le plan de prévention des risques. • Les enjeux identifiés lors de l'élaboration du PPR peuvent également être annexés au document approuvé sou",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:67377463831ee9d824c40b1e",
+      "isNew": true,
+      "lastModified": "2024-11-15T16:18:43.238000+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/plan-de-prevention-des-risques-technologiques-du-site-de-titanobel-en-cote-dor",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Plan de prévention des risques technologiques du site de Titanobel en Côte-d'Or"
+    },
+    {
       "description": "Ce plan de prévention des risques naturels (PPRN) concerne la commune de Marsannay-la-Côte et a été approuvé par arrêté préfectoral du 19/07/2010. Les différentes couches présentes dans ce lot de données sont les suivantes : - périmètre d'exposition au risque du PPRN, - profils en travers et cotes de référence du PPRN, - zonage des aléas du PPRN, - Zonage réglementaire du PPRN. Pour plus de renseignement, se reporter aux fiches de détail de chaque couche.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -5905,6 +5925,25 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Atlas mouvements de terrains du département de la Côte-d'or"
+    },
+    {
+      "description": "Cette couche est un export de l'outil GéoIF. C'est une couche de travail réalisée dans le cadre de l'établissement des inventaires de frayères au sens de l’article L.432-3 du Code de l’environnement. L'outil GéoIF permet de délimiter des parties de cours d'eau qui seront proposées à la concertation puis à la consultation réglementaire en vue de l'établissement et de l'approbation de l'inventaire départemental pris par arrêté préfectoral. Deux types de parties de cours d’eau peuvent être délimités. Les parties de cours d’eau « classique » délimitées à partir du réseau hydrographique BD Carthage®. Les parties de cours d’eau « hors réseau » hydrographique BD Carthage®. Les attributs \"affluents\" et \"sous affluent\" ajoutent un niveau de détail permettant de pallier à la non exhaustivité du référentiel hydrographique utilisé. \"Affluent\" signifie la prise en compte des affluents de premiers niveaux attenant à la partie de cours d'eau délimitée. \"sous affluent\" signifie la prise en compte des bassins versants attenant à la partie de cours d'eau délimitée.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:67377d67cc1af51cc2c2538a",
+      "isNew": true,
+      "lastModified": "2024-11-15T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/parties-de-cours-deau-delimitees-pour-letablissement-de-linventaire-frayeres-du-departement-de-la-nievre-58",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Nièvre",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Parties de cours d'eau délimitées pour l'établissement de l'inventaire frayères du département de la Nièvre (58)"
     },
     {
       "description": "Cette base de données Excel permet de présenter exhaustivement l'accessibilité des Musées de France en région Bourgogne Franche-Comté en 2024. Pour ce faire, des critères d'accessibilité PMR permettent de classer en trois catégories les musées : accessible, accessible partiellement ou inaccessible. Pour illustrer ces données, une carte Qgis a été jointe. Ces données représentent une base de travail importante sur laquelle repose une recherche de mémoire de première année de master. L'ensemble de ces données forment une première étape pour participer à l'avancée de la recherche sur l'accessibilité de l'archéologie auprès du public en situation de polyhandicap.",
@@ -6138,21 +6177,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "territorial_potential",
       "title": "Particuliers employeurs en 2022"
-    },
-    {
-      "description": "<p>Données sur les salariés des particuliers employeurs en 2022 issues des dispositifs Cesu et Pajemploi.</p><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 12.495px;'><u>Source</u> : Acoss-Urssaf, CnCesu, Centre Pajemploi</p><p>Les données sont ventilées par catégorie d'emploi (type d'emploi x dispositif déclaratif) :<br>- CESU_HGED (Hors garde d'enfant - CESU)<br>- PAJE_GED (Garde d'enfant à domicile - PAJE)<br>- PAJE_AM (Assistantes maternelles - PAJE)</p><p>Elles sont par ailleurs déclinées par département.</p><p><span style=\"font-weight: bolder;\">DATAVIZ</span> : <a href=\"https://open.urssaf.fr/pages/particuliers-employeurs-et-leurs-employes/\">les chiffres en image</a></p><p><a href=\"https://www.urssaf.org/accueil/statistiques/notre-methodologie/les-particuliers-employeurs.html\" target=\"_blank\">Pour approfondir notre méthodologie</a></p><p></p>",
-      "formats": [],
-      "frequency": "Annuelle",
-      "id": "open-urssaf:salaries-des-particuliers-employeurs-en-2022",
-      "isNew": false,
-      "lastModified": "2024-01-23T11:00:11+00:00",
-      "pageURL": "https://open.urssaf.fr/explore/dataset/salaries-des-particuliers-employeurs-en-2022/",
-      "portalID": "open-urssaf",
-      "publisher": "Urssaf Caisse nationale",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Salariés des particuliers employeurs en 2022"
     },
     {
       "description": "Créées en 1977, les opérations programmées d'amélioration de l'habitat (OPAH) constituent depuis trente ans l'outil principal par lequel est réalisé la réhabilitation des centres urbains et des bourgs ruraux. D'autres outils ont été créés pour répondre à des spécificités territoriales, techniques et sociales : déclinaison des OPAH (rurale, urbaine, copropriétés dégradés), Programmes d'Intérêt Général (PIG) et Programmes Sociaux Thématiques (PST). Une opération programmée d'amélioration de l'habitat a pour objectif de réhabiliter le patrimoine bâti et d'améliorer le confort des logements par le biais de subventions, ainsi que de requalifier dans son ensemble un quartier, une ville, ou un secteur rural. Elles tendent à améliorer l'offre de logements, en particulier locatif et ainsi à maintenir ou à développer les services de voisinage dans le respect du PLH. L'OPAH répond avant tout à un projet local, porté par la collectivité territoriale concernée, que l'État soutient au titre des enjeux de solidarité nationale et de lutte contre l'exclusion par le logement, dont il est porteur. Il existe principalement quatre types d'OPAH : - L'OPAH de droit commun dont l'objet est de revaloriser des quartiers et leur habitat ; - L'OPAH de renouvellement urbain qui a pour ambition de traiter les « zones urbaines et sociales les plus difficiles en créant des dispositifs faisant appel à des interventions foncières ou immobilières et à des outils coercitifs de droit public (traitement de l'insa",
@@ -6393,25 +6417,6 @@
       "title": "Encaissements annuels des Urssaf"
     },
     {
-      "description": "Les plans de prévention des risques (PPR) ont été institués par la loi du 2 février 1995 relative au renforcement de la protection de l'environnement. Ils constituent l'instrument essentiel de l'État en matière de prévention des risques. Leur objectif est le contrôle du développement dans les zones exposées à un risque majeur. Les PPR sont approuvés par les préfets et généralement réalisés par les directions départementales des territoires (DDT). Ces plans réglementent l'occupation du sol ou son usage par des interdictions de construire ou des prescriptions sur les bâtiments existants ou futurs (dispositions constructives, travaux de réduction de la vulnérabilité, restrictions d'usage ou de pratiques agricoles...). Ces plans peuvent être en cours d'élaboration (prescrit), appliqués par anticipation ou approuvés. Le dossier de PPR contient une note de présentation, un plan de zonage réglementaire et un règlement. Peuvent être joints d'autres documents graphiques utiles à la compréhension de la démarche (aléas, enjeux...). Chaque PPR est repéré par un polygone qui correspond à l'ensemble de communes concernées du périmètre de prescription lorsqu'il est à l'état prescrit ; et l'enveloppe des zones réglementées lorsqu'il est à l'état approuvé. Cette table géographique permet de cartographier les PPRN existant sur le département. Chaque document de PPRN existant dans la table géographique N_DOCUMENT_PPRN est lié à l'aide de son code GASPAR de format « ddd[PREF|DDT|DDTM|DREAL]AAAAN",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "punctual",
-      "id": "data-gouv:67377dd6cc1af51cc2c253d7",
-      "isNew": true,
-      "lastModified": "2023-06-06T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/liste-des-plans-de-prevention-des-risques-naturels-pprn-dans-le-departement-de-la-nievre-58-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Nièvre",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Liste des plans de prévention des risques naturels - PPRN - dans le département de la Nièvre (58)"
-    },
-    {
       "description": "<p>Données annuelles sur le montant total des primes exceptionnelles (Pepa et Covid), le nombre d’établissements concernés et le nombre de salariés bénéficiaires, au niveau départements, par secteur d'activité au niveau agrégé en 17 postes de la NAF<span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">. ►</span><u style=\"font-size: 0.833rem; font-weight: bolder; font-family: inherit;\"><a href=\"https://open.urssaf.fr/explore/dataset/planning-de-mise-a-jour/table/?sort=date_de_mise_a_jour\" target=\"_blank\">MISE A JOUR</a></u><span style=\"font-size: 0.833rem; font-weight: bolder; font-family: inherit;\"> : fin d'année + ~160 jours.</span></p><p><span style=\"font-size: 0.833rem; font-weight: bolder; font-family: inherit;\"></span><u>Source</u><span> : DSN (Déclarations Sociales Nominatives)</span></p><p><span></span><span><span><u>Champ</u> </span><span>:</span><span> Secteur privé, champ des estimations trimestrielles d'emploi (ETE).<br/></span></span></p><p><u>Profondeur</u> : depuis 2019.</p><span></span><span><span><u>Précisions méthodologiques</u> :<br/></span></span><br/><p><span><span><span><span>- </span></span></span></span>On entend par prime exceptionnelle la prime exceptionnelle de pouvoir d'achat instaurée le 24 décembre 2018 dans le cadre des mesures d’urgence économiques et sociales (prime dite \"Pepa\") ou la prime mis en oeuvre dans le cadre de la crise sanitaire Covid-19 (prime dite \"Covid\").</p> <p class=\"MsoNormal\">- Les établissements versant une prime ex",
       "formats": [],
       "frequency": "Annuelle",
@@ -6498,10 +6503,10 @@
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377d8acc1af51cc2c253a0",
-      "isNew": false,
+      "id": "data-gouv:67377dd7cc1af51cc2c253dc",
+      "isNew": true,
       "lastModified": "2023-03-21T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/massif-au-titre-de-la-loi-dite-loi-montagne-dans-la-nievre-58-et-departements-voisins",
+      "pageURL": "https://www.data.gouv.fr/datasets/massif-au-titre-de-la-loi-dite-loi-montagne-dans-la-nievre-58-et-departements-voisins-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Nièvre",
       "resourceCount": 6,
@@ -6698,6 +6703,21 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Élus de l'EPFL des Collectivités de Côte-d'Or (Établissement Public Foncier Local)"
+    },
+    {
+      "description": "<p>Données par département et système déclaratif de l’indemnisation exceptionnelle de l'activité partielle des salariés des particuliers employeurs.</p><p>Dans le cadre de la crise sanitaire Covid-19, les pouvoirs publics ont mis en place, pour les mois de mars à août 2020 (septembre en Guyane et à Mayotte), une mesure d’indemnisation exceptionnelle pour soutenir les salariés des particuliers employeurs. Les salariés ont pu bénéficier pour les heures prévues et non réalisées d'une indemnisation correspondant à au moins 80% du salaire net des heures non effectuées, les employeurs étant remboursés par l'Urssaf à hauteur de 80% de ce salaire net.</p><p>Le dispositif a été reconduit en novembre 2020 pour certains salariés à domicile, avec une indemnisation versée au salarié toujours supérieure ou égale à 80% du salaire net des heures non effectuées et un remboursement à l'employeur égal à 65% de ce salaire. Il a ensuite été réactivé en avril 2021 et a pris fin le 31 octobre 2021.<br></p><p>Les données fournissent :<br>- le nombre d'employeurs ayant versé une indemnisation,<br>- le nombre de salariés indemnisés,<br>- le nombre d'heures indemnisées,<br>- le salaire net (\"théorique\") associé aux heures indemnisées,<br>- le montant de l'indemnisation versée aux salariés estimé sur la base d'une indemnité égale à 80% du salaire net des heures indemnisées (hors éventuel complément de l'employeur),<br>- le montant remboursé par l'Urssaf aux employeurs.<br></p><p><span style=\"font-family",
+      "formats": [],
+      "frequency": "Ponctuelle",
+      "id": "open-urssaf:mesures-exceptionnelles-covid-19-indemnisation-activite-partielle-emploi-domicil",
+      "isNew": true,
+      "lastModified": "2022-08-30T10:00:00+00:00",
+      "pageURL": "https://open.urssaf.fr/explore/dataset/mesures-exceptionnelles-covid-19-indemnisation-activite-partielle-emploi-domicil/",
+      "portalID": "open-urssaf",
+      "publisher": "Urssaf Caisse nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Mesures exceptionnelles Covid-19 : indemnisation de l'activité partielle des salariés des particuliers employeurs"
     },
     {
       "description": "Ce recueil sera mis régulièrement à jour et téléchargeable sur le site de la Région Bourgogne-Franche-Comté et de l’AER BFC. Vous trouverez dans ce guide les principales mesures destinées à vous soutenir pendant la crise sanitaire que traverse notre territoire. L’Etat et la Région Bourgogne-Franche-Comté, aux côtés des partenaires institutionnels et économiques sont mobilisés pour vous accompagner au mieux face aux difficultés que vous rencontrez.Face à cette crise d’ampleur sans précédent, la Région débloque plus de 63 millions d’euros sur l’ensemble de ses compétences. L’Etat a fait le choix de protéger massivement le tissu productif français en faisant passer le montant total du plan de soutien à notre économie en trésorerie et en dépenses publiques à 110 milliards d’euros. Retrouvez l'ensemble des autres publications sur : https://www.bourgognefranchecomte.fr/publications",
@@ -7563,6 +7583,21 @@
       "title": "Classement sonore des infrastructures ferroviaires du Jura"
     },
     {
+      "description": "Données sur les particuliers employeurs en 2019 issues des dispositifs Cesu, Pajemploi et DNS.<p></p><p>Année 2019.</p><p><u>Source</u> : Acoss-Urssaf, CnCesu, Centre Pajemploi</p><p>Les données sont ventilées par catégorie d'emploi (type d'emploi x dispositif déclaratif) :<br>- CESU_HGED (Hors garde d'enfant - CESU)<br>- DNS_HGED (Hors garde d'enfant - DNS)<br>- PAJE_GED (Garde d'enfant à domicile - PAJE)<br>- PAJE_AM (Assistantes maternelles - PAJE)</p><p>Elles sont par ailleurs déclinées par département.</p><p><span style=\"font-weight: bolder;\">DATAVIZ</span> : <a href=\"https://open.urssaf.fr/pages/particuliers-employeurs-et-leurs-employes/\">les chiffres en image</a></p><p></p>",
+      "formats": [],
+      "frequency": "Annuelle",
+      "id": "open-urssaf:particuliers-employeurs-en-2019",
+      "isNew": true,
+      "lastModified": "2020-12-29T23:01:30+00:00",
+      "pageURL": "https://open.urssaf.fr/explore/dataset/particuliers-employeurs-en-2019/",
+      "portalID": "open-urssaf",
+      "publisher": "Urssaf Caisse nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Particuliers employeurs en 2019"
+    },
+    {
       "description": "Véloroutes voies vertes inscrites au schéma régional de développement du tourisme et des loisirs (SRDTL)",
       "formats": [
         "SHP"
@@ -7612,6 +7647,21 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Centres de Formation d'Apprentis (CFA) en Bourgogne-Franche-Comté"
+    },
+    {
+      "description": "<p>Données par département et grand secteur d'activité relatives aux reports de cotisations des travailleurs indépendants dans le cadre des mesures Urssaf exceptionnelles liées à la crise du Covid-19 <span>(échéances du 20 mars et des 5 et 20 des mois d'avril, mai, juin, juillet et août</span><span style=\"font-family: inherit;\">)</span><span style=\"font-family: inherit;\">. </span></p><p>Afin de tenir compte de l’impact de l’épidémie de coronavirus sur l’activité économique, le réseau des Urssaf a déclenché des mesures exceptionnelles pour accompagner les entreprises présentant de sérieuses difficultés de trésorerie. Pour les travailleurs indépendants, les échéances comprises entre le 20 mars et le 20 août n'ont pas été prélevées. Les montants de cotisations afférents ont été reportés pour un lissage sur de les échéances ultérieures.</p><p>Les reports des travailleurs indépendants sont calculés sur la base des revenus prévisionnels eux-mêmes basés sur les revenus 2018, puis 2019 dès que ceux-ci sont connus. Les échéanciers établis pour la reprise du recouvrement des cotisations en septembre 2020 intègrent quant à eux un abattement de 50% afin de tenir de la baisse d'activité liée à la crise du Covid-19. Cet abattement n'est ici pas pris en compte.</p>Les données sont déclinées par catégorie de travailleur indépendant, par département et par grands secteurs d'activité.<p></p><p><u>Source</u> : Acoss-Urssaf, situation au 31/08/2020</p><p></p><p><span style=\"font-weight: bolder;\"",
+      "formats": [],
+      "frequency": "Ponctuelle",
+      "id": "open-urssaf:mesures-exceptionnelles-covid-19-reports-ti-par-departement-x-grand-secteur",
+      "isNew": true,
+      "lastModified": "2020-11-09T08:05:34+00:00",
+      "pageURL": "https://open.urssaf.fr/explore/dataset/mesures-exceptionnelles-covid-19-reports-ti-par-departement-x-grand-secteur/",
+      "portalID": "open-urssaf",
+      "publisher": "Urssaf Caisse nationale",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Mesures exceptionnelles Covid-19 : reports de cotisations Urssaf (TI), par département x grand secteur"
     },
     {
       "description": "Gamme tarifaire en vigueur des réseaux de transports répertoriés sur le site Mobigo en Bourgogne-Franche-Comté",
@@ -7817,6 +7867,25 @@
       "title": "Ouvrages de protection oeuvrant contre les inondations dans l’emprise du TRI Nevers - Nièvre (58)"
     },
     {
+      "description": "Les plans de prévention des risques (PPR) ont été institués par la loi du 2 février 1995 relative au renforcement de la protection de l'environnement. Ils constituent l'instrument essentiel de l'État en matière de prévention des risques. Leur objectif est le contrôle du développement dans les zones exposées à un risque majeur. Les PPR sont approuvés par les préfets et généralement réalisés par les directions départementales des territoires (DDT). Ces plans réglementent l'occupation du sol ou son usage par des interdictions de construire ou des prescriptions sur les bâtiments existants ou futurs (dispositions constructives, travaux de réduction de la vulnérabilité, restrictions d'usage ou de pratiques agricoles...). Ces plans peuvent être en cours d'élaboration (prescrit), appliqués par anticipation ou approuvés. Le dossier de PPR contient une note de présentation, un plan de zonage réglementaire et un règlement. Peuvent être joints d'autres documents graphiques utiles à la compréhension de la démarche (aléas, enjeux...). Chaque PPR est repéré par un polygone qui correspond à l'ensemble de communes concernées du périmètre de prescription lorsqu'il est à l'état prescrit ; et l'enveloppe des zones réglementées lorsqu'il est à l'état approuvé. Cette table géographique permet de cartographier les PPRT existant sur le département. Chaque document de PPRT existant dans la table géographique N_DOCUMENT_PPRT est lié à l'aide de son code GASPAR de format « ddd[PREF|DDT|DDTM|DREAL]AAAAN",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "punctual",
+      "id": "data-gouv:67377d67cc1af51cc2c25388",
+      "isNew": true,
+      "lastModified": "2020-08-18T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/liste-des-plans-de-prevention-des-risques-tecnologiques-pprt-dans-le-departement-de-la-nievre-58",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Nièvre",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Liste des plans de prévention des risques Tecnologiques - PPRT - dans le département de la Nièvre (58)"
+    },
+    {
       "description": "Série de données géographiques produites par le SIG Directive inondation du territoire à risque important d’inondation (TRI) de … et cartographiées aux fins de rapportage pour la directive européenne sur les inondations. La Directive européenne 2007/60/CE du 23 octobre 2007 relative à l'évaluation et à la gestion des risques d'inondation (JOUE L 288, 06-11-2007, p.27) influence la stratégie de prévention des inondations en Europe. Elle impose la production de plan de gestion des risques d’inondations qui vise à réduire les conséquences négatives des inondations sur la santé humaine, l’environnement, le patrimoine culturel et l’activité économique. Les objectifs et exigences de réalisation sont donnés par la loi du 12 juillet 2010 portant engagement national pour l’environnement (LENE) et le décret du 2 mars 2011. Dans ce cadre, l'objectif premier de la cartographie des surfaces inondables et des risques d'inondation pour les TRI est de contribuer, en homogénéisant et en objectivant la connaissance de l'exposition des enjeux aux inondations, à l’élaboration des plans de gestion des risques d’inondation (PGRI). Ce jeu de données sert à produire les cartes de surfaces inondables et la carte de risques d’inondation qui représentent respectivement les aléas d’inondation et les enjeux exposés à une échelle appropriée. Leur objectif est d’apporter des éléments quantitatifs permettant d’évaluer plus finement la vulnérabilité d’un territoire pour les trois niveaux de probabilité d’ino",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -7995,73 +8064,54 @@
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:67377e20cc1af51cc2c25415",
-      "isNew": false,
-      "lastModified": "2020-08-12T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/perimetre-du-plan-de-prevention-des-risques-naturels-dinondation-ppri-du-val-de-decize-nievre-58",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Nièvre",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Périmètre du plan de prévention des risques naturels d'inondation - PPRi - du Val de Decize - Nièvre (58)"
-    },
-    {
-      "description": "De manière générale, les enjeux sont les personnes, biens, activités, éléments de patrimoine culturel ou environnemental, menacés par un aléa et susceptibles d'être affectés ou endommagés par celui-ci. La sensibilité d'un enjeu à un aléa est nommée « vulnérabilité ». Cette classe d'objet regroupe tous les enjeux qui ont été pris en compte dans l'étude du PPR. Un enjeu est un objet daté dont la prise en compte est fonction de l'objet du PPR et de sa vulnérabilité aux aléas étudiés. Un enjeu de PPR peut donc être pris en compte (ou pas) selon le ou les types d'aléa traités. Ces éléments constituent le socle de connaissance de l'occupation du sol nécessaire à l'élaboration du PPR, dans la zone d'étude ou à proximité de celle-ci, à la date de l'analyse des enjeux. Les données d'enjeux représentent une photographie (figée et non exhaustive) des biens et des personnes exposés aux aléas au moment de l'élaboration du plan de prévention des risques. Ces données ne sont pas mises à jour après l'approbation du PPR. En pratique elles ne sont plus utilisées : les enjeux sont recalculés en tant que de besoin avec des sources de données à jour.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:67377d6acc1af51cc2c25397",
-      "isNew": false,
-      "lastModified": "2020-08-12T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/enjeu-surfacique-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-decize-nievre-58",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Nièvre",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Enjeu surfacique du plan de prévention des risques naturels d'inondation du Val de Decize - Nièvre (58)"
-    },
-    {
-      "description": "De manière générale, les enjeux sont les personnes, biens, activités, éléments de patrimoine culturel ou environnemental, menacés par un aléa et susceptibles d'être affectés ou endommagés par celui-ci. La sensibilité d'un enjeu à un aléa est nommée « vulnérabilité ». Cette classe d'objet regroupe tous les enjeux qui ont été pris en compte dans l'étude du PPR. Un enjeu est un objet daté dont la prise en compte est fonction de l'objet du PPR et de sa vulnérabilité aux aléas étudiés. Un enjeu de PPR peut donc être pris en compte (ou pas) selon le ou les types d'aléa traités. Ces éléments constituent le socle de connaissance de l'occupation du sol nécessaire à l'élaboration du PPR, dans la zone d'étude ou à proximité de celle-ci, à la date de l'analyse des enjeux. Les données d'enjeux représentent une photographie (figée et non exhaustive) des biens et des personnes exposés aux aléas au moment de l'élaboration du plan de prévention des risques. Ces données ne sont pas mises à jour après l'approbation du PPR. En pratique elles ne sont plus utilisées : les enjeux sont recalculés en tant que de besoin avec des sources de données à jour.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:67377db5cc1af51cc2c253c3",
-      "isNew": false,
-      "lastModified": "2020-08-12T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/enjeu-ponctuel-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-decize-nievre-58",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Nièvre",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Enjeu ponctuel du plan de prévention des risques naturels d'inondation du Val de Decize - Nièvre (58)"
-    },
-    {
-      "description": "De manière générale, les enjeux sont les personnes, biens, activités, éléments de patrimoine culturel ou environnemental, menacés par un aléa et susceptibles d'être affectés ou endommagés par celui-ci. La sensibilité d'un enjeu à un aléa est nommée « vulnérabilité ». Cette classe d'objet regroupe tous les enjeux qui ont été pris en compte dans l'étude du PPR. Un enjeu est un objet daté dont la prise en compte est fonction de l'objet du PPR et de sa vulnérabilité aux aléas étudiés. Un enjeu de PPR peut donc être pris en compte (ou pas) selon le ou les types d'aléa traités. Ces éléments constituent le socle de connaissance de l'occupation du sol nécessaire à l'élaboration du PPR, dans la zone d'étude ou à proximité de celle-ci, à la date de l'analyse des enjeux. Les données d'enjeux représentent une photographie (figée et non exhaustive) des biens et des personnes exposés aux aléas au moment de l'élaboration du plan de prévention des risques. Ces données ne sont pas mises à jour après l'approbation du PPR. En pratique elles ne sont plus utilisées : les enjeux sont recalculés en tant que de besoin avec des sources de données à jour.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:67377d8fcc1af51cc2c253af",
+      "id": "data-gouv:67377d8dcc1af51cc2c253a8",
       "isNew": true,
-      "lastModified": "2020-08-12T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/enjeu-lineaire-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-decize-nievre-58",
+      "lastModified": "2020-08-11T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/perimetre-du-plan-de-prevention-des-risques-naturels-dinondation-ppri-du-val-de-nevers-nievre-58-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Nièvre",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Enjeu linéaire du plan de prévention des risques naturels d'inondation du Val de Decize - Nièvre (58)"
+      "title": "Périmètre du plan de prévention des risques naturels d'inondation - PPRi - du Val de Nevers - Nièvre (58)"
+    },
+    {
+      "description": "De manière générale, les enjeux sont les personnes, biens, activités, éléments de patrimoine culturel ou environnemental, menacés par un aléa et susceptibles d'être affectés ou endommagés par celui-ci. La sensibilité d'un enjeu à un aléa est nommée « vulnérabilité ». Cette classe d'objet regroupe tous les enjeux qui ont été pris en compte dans l'étude du PPR. Un enjeu est un objet daté dont la prise en compte est fonction de l'objet du PPR et de sa vulnérabilité aux aléas étudiés. Un enjeu de PPR peut donc être pris en compte (ou pas) selon le ou les types d'aléa traités. Ces éléments constituent le socle de connaissance de l'occupation du sol nécessaire à l'élaboration du PPR, dans la zone d'étude ou à proximité de celle-ci, à la date de l'analyse des enjeux. Les données d'enjeux représentent une photographie (figée et non exhaustive) des biens et des personnes exposés aux aléas au moment de l'élaboration du plan de prévention des risques. Ces données ne sont pas mises à jour après l'approbation du PPR. En pratique elles ne sont plus utilisées : les enjeux sont recalculés en tant que de besoin avec des sources de données à jour.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:67377db0cc1af51cc2c253b6",
+      "isNew": true,
+      "lastModified": "2020-08-11T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/enjeu-surfacique-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-nevers-nievre-58",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Nièvre",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Enjeu surfacique du plan de prévention des risques naturels d'inondation du Val de Nevers - Nièvre (58)"
+    },
+    {
+      "description": "De manière générale, les enjeux sont les personnes, biens, activités, éléments de patrimoine culturel ou environnemental, menacés par un aléa et susceptibles d'être affectés ou endommagés par celui-ci. La sensibilité d'un enjeu à un aléa est nommée « vulnérabilité ». Cette classe d'objet regroupe tous les enjeux qui ont été pris en compte dans l'étude du PPR. Un enjeu est un objet daté dont la prise en compte est fonction de l'objet du PPR et de sa vulnérabilité aux aléas étudiés. Un enjeu de PPR peut donc être pris en compte (ou pas) selon le ou les types d'aléa traités. Ces éléments constituent le socle de connaissance de l'occupation du sol nécessaire à l'élaboration du PPR, dans la zone d'étude ou à proximité de celle-ci, à la date de l'analyse des enjeux. Les données d'enjeux représentent une photographie (figée et non exhaustive) des biens et des personnes exposés aux aléas au moment de l'élaboration du plan de prévention des risques. Ces données ne sont pas mises à jour après l'approbation du PPR. En pratique elles ne sont plus utilisées : les enjeux sont recalculés en tant que de besoin avec des sources de données à jour.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "punctual",
+      "id": "data-gouv:67377d68cc1af51cc2c25390",
+      "isNew": true,
+      "lastModified": "2020-08-11T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/enjeu-lineaire-du-plan-de-prevention-des-risques-naturels-dinondation-du-val-de-nevers-nievre-58",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Nièvre",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Enjeu linéaire du plan de prévention des risques naturels d'inondation du Val de Nevers - Nièvre (58)"
     },
     {
       "description": "Les établissements publics de coopération intercommunale (EPCI) sont des regroupements de communes ayant pour objet l'élaboration de « projets communs de développement au sein de périmètres de solidarité ». Ils sont soumis à des règles communes, homogènes et comparables à celles de collectivités locales. Les informations présentées ici concernent les EPCI à fiscalité propre : Communauté Urbaine (CU) ; Communauté d'Agglomération (CA) ; Communauté de Communes (CC) ; Syndicat d'Agglomération Nouvelle (SAN) ; Métropole (ME). Il existe par ailleurs des EPCI sans fiscalité propre : les Syndicats Intercommunaux à Vocation Unique (SIVU), les Syndicats Intercommunaux à Vocation Multiple (SIVOM), les Syndicats Mixtes fermés (SM fermés) et les Syndicats Mixtes ouverts (SM ouverts). liste de communes des EPCI à fiscalité propre téléchargeable sur le site de l'INSEE",
@@ -9192,25 +9242,6 @@
       "title": "Circonscriptions législatives de Saône-et-Loire"
     },
     {
-      "description": "Pour les PPRT, le code de l'environnement définit une seule catégorie de zones pour des zones (L515-15 et suiv.) : les zones exposées aux risques. A la différence des PPR naturels, les PPRT ne comportent jamais de zones réglementées non directement exposées aux risques. En fonction du niveau d'aléa, chaque zone du PPRT fait l'objet d'un règlement opposable. Les règlements PPRT distinguent généralement deux types de zones : 1- les « zones d'interdiction de construire », dites « zones rouges », lorsque le niveau d'aléa est fort et que la règle générale est l'interdiction de construire ; 2- les « zones soumises à prescriptions », dites « zones bleues », lorsque le niveau d'aléa est moyen et que les projets sont soumis à des prescriptions adaptées au type d'enjeu. Les instructions du guide d'élaboration PPRT ajoutent une gradation à l'intérieur des « zones rouges » et des « zones bleues ». Le PPRT du site de Titanoble a été approuvé en date du 29 juin 2012.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:673774dd831ee9d824c40b73",
-      "isNew": true,
-      "lastModified": "2017-10-31T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zone-reglementee-du-pprt-de-la-raffinerie-de-titanobel-en-cote-dor-ponctuel",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zone réglementée du PPRT de la Raffinerie de Titanobel en Côte-d'Or (ponctuel)"
-    },
-    {
       "description": "Pour les PPRT, le code de l'environnement définit une seule catégorie de zones pour des zones (L515-15 et suiv.) : les zones exposées aux risques. A la différence des PPR naturels, les PPRT ne comportent jamais de zones réglementées non directement exposées aux risques. En fonction du niveau d'aléa, chaque zone du PPRT fait l'objet d'un règlement opposable. Les règlements PPRT distinguent généralement deux types de zones : 1- les « zones d'interdiction de construire », dites « zones rouges », lorsque le niveau d'aléa est fort et que la règle générale est l'interdiction de construire ; 2- les « zones soumises à prescriptions », dites « zones bleues », lorsque le niveau d'aléa est moyen et que les projets sont soumis à des prescriptions adaptées au type d'enjeu. Les instructions du guide d'élaboration PPRT ajoutent une gradation à l'intérieur des « zones rouges » et des « zones bleues ». Le PPRT de l'entrepôt pétrolier dijonnais a été approuvé en date du 19 juin 2013.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -9228,6 +9259,25 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Zone réglementée du PPRT de l'entrepôt pétrolier dijonnais en Côte-d'Or"
+    },
+    {
+      "description": "L'origine du risque caractérise l'entité du monde réel qui, par sa présence, représente un risque potentiel. Cette origine peut être caractérisée par un nom et, dans certains cas, un objet géographique localisant l'entité réelle à l'origine du risque. La localisation de l'entité et la connaissance du phénomène dangereux servent à définir les bassins de risques, les zones exposées aux risques qui fondent le PPR. Dans les PPRT, elle représente l'enceinte de la ou des installations classées pour la protection de l'environnement (ICPE) à l'origine du risque analysé et traité par le PPR. Dans la méthodologie PPRT, elle est qualifiée de zone grise. Le PPRT du site de Titanoble a été approuvé en date du 29 juin 2012.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:673774dc831ee9d824c40b6f",
+      "isNew": true,
+      "lastModified": "2017-10-31T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/entite-surfacique-a-lorigine-du-risque-du-pprt-de-titanobel-en-cote-dor",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Entité surfacique à l'origine du risque du PPRT de Titanobel en Côte-d'Or"
     },
     {
       "description": "<p>Ce jeu de données présente la localisation des implantations des établissements d'enseignement supérieur publics : universités, université de technologie, INP, grands établissements, écoles d'ingénieur.</p>",
@@ -9427,21 +9477,6 @@
       "title": "Données accidentologie Saône-et-Loire 2016"
     },
     {
-      "description": "<p>Ce jeu de données présente la liste exhaustive des incubateurs publics soutenus par le ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche, des plateformes technologiques (PFT), des centres de ressources technologiques (CRT), des centres de développement technologique (CDT), des sociétés d'accélération du transfert de technologies (SATT), des instituts de recherche technologique (IRT), des pôles étudiants pour l'innovation, le transfert et l'entrepreneuriat (PEPITE) et des instituts Carnot en activité au 1er janvier 2014.</p><p>Pour les SATT et les IRT, outre les sièges adminstratifs, les implantations secondaires sont répertoriées.</p>",
-      "formats": [],
-      "frequency": "En continu",
-      "id": "higher-education:fr-esr-structures-de-transfert-et-de-valorisation",
-      "isNew": false,
-      "lastModified": "2017-06-01T15:11:00+00:00",
-      "pageURL": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-structures-de-transfert-et-de-valorisation/",
-      "portalID": "higher-education",
-      "publisher": "MESR-SIES",
-      "resourceCount": 1,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "territorial_potential",
-      "title": "Structures de transfert et de valorisation"
-    },
-    {
       "description": "Un contrat de rivière repose sur une forte mobilisation des élus locaux, des riverains et des usagers sur un territoire cohérent autour d'un projet commun pour réhabiliter et valoriser leur patrimoine aquatique. Des objectifs collectifs sont définis. Ils sont ensuite traduits dans un programme d'aménagement et de gestion tirant parti des potentialités écologiques du cours d'eau. Institué par la circulaire du ministre de l'Environnement du 5 février 1981, le contrat de rivière s'est progressivement enrichi et adapté.",
       "formats": [
         "INCONNU",
@@ -9499,80 +9534,42 @@
       "title": "Commune classée en zone de revitalisation rurale en Côte-d'Or"
     },
     {
-      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Treclun a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
+      "description": "Zonage des aléas du Plan de prévention des risques naturels de Trouhans (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:6737764a831ee9d824c40c7b",
+      "id": "data-gouv:673777af831ee9d824c40d5f",
       "isNew": true,
       "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-treclun-en-cote-dor-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-trouhans-en-cote-dor-2",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage réglementaire du PPRN inondation de la Commune de Treclun en Côte-d'Or"
+      "title": "Zonage des aléas du PPRN de la commune de Trouhans en Côte-d'Or"
     },
     {
-      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Pont a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
+      "description": "Zonage des aléas du Plan de prévention des risques naturels de Treclun (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:673775a0831ee9d824c40c0c",
-      "isNew": false,
-      "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-pont-en-cote-dor-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zonage réglementaire du PPRN inondation de la Commune de Pont en Côte-d'Or"
-    },
-    {
-      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Pluvault a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:673776da831ee9d824c40ce0",
-      "isNew": false,
-      "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-pluvault-en-cote-dor",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zonage réglementaire du PPRN inondation de la Commune de Pluvault en Côte-d'Or"
-    },
-    {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de Pont (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:67377538831ee9d824c40baf",
+      "id": "data-gouv:67377785831ee9d824c40d3e",
       "isNew": true,
       "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-pont-en-cote-dor-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-treclun-en-cote-dor-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de la commune de Pont en Côte-d'Or"
+      "title": "Zonage des aléas du PPRN de la commune de Treclun en Côte-d'Or"
     },
     {
       "description": "Zonage des aléas du Plan de prévention des risques naturels de Pluvet (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
@@ -9583,7 +9580,7 @@
       ],
       "frequency": "unknown",
       "id": "data-gouv:6737766b831ee9d824c40c95",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2017-03-17T00:00:00+00:00",
       "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-pluvet-en-cote-dor-1",
       "portalID": "data-gouv-fr",
@@ -9594,42 +9591,61 @@
       "title": "Zonage des aléas du PPRN de la commune de Pluvet en Côte-d'Or"
     },
     {
-      "description": "Zonage des aléas du Plan de prévention des risques naturels de Pluvault (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
+      "description": "Zonage des aléas du Plan de prévention des risques naturels de Longvic (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:6737759e831ee9d824c40c08",
-      "isNew": false,
+      "id": "data-gouv:6737757c831ee9d824c40be2",
+      "isNew": true,
       "lastModified": "2017-03-17T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-pluvault-en-cote-dor-2",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-longvic-en-cote-dor-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage des aléas du PPRN de la commune de Pluvault en Côte-d'Or"
+      "title": "Zonage des aléas du PPRN de la commune de Longvic en Côte-d'Or"
     },
     {
-      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Meursault a été approuvé par arrêté préfectoral en date du 30/12/2011. Cette couche représente le zonage réglementaire du PPRN.",
+      "description": "Zonage des aléas du Plan de prévention des risques naturels de Couternon (Arrêté préfectoral du 03/08/2015). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:673776bd831ee9d824c40cd2",
-      "isNew": false,
-      "lastModified": "2017-03-16T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-meursault-en-cote-dor",
+      "id": "data-gouv:67377537831ee9d824c40bae",
+      "isNew": true,
+      "lastModified": "2017-03-17T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-la-commune-de-couternon-en-cote-dor",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zonage réglementaire du PPRN inondation de la Commune de Meursault en Côte-d'Or"
+      "title": "Zonage des aléas du PPRN de la commune de Couternon en Côte-d'Or"
+    },
+    {
+      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Montbard a été approuvé par arrêté préfectoral en date du 31/12/2009. Cette couche représente le zonage réglementaire du PPRN.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:673774da831ee9d824c40b69",
+      "isNew": true,
+      "lastModified": "2017-03-16T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-montbard-en-cote-dor-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Zonage réglementaire du PPRN inondation de la Commune de Montbard en Côte-d'Or"
     },
     {
       "description": "Le Plan de prévention des risques naturels inondation de la Commune de Marsannay-la-Côte a été approuvé par arrêté préfectoral en date du 19/07/2010. Cette couche représente le zonage réglementaire du PPRN.",
@@ -9659,7 +9675,7 @@
       ],
       "frequency": "unknown",
       "id": "data-gouv:67377698831ee9d824c40cba",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2017-03-16T00:00:00+00:00",
       "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-fauverney-en-cote-dor-1",
       "portalID": "data-gouv-fr",
@@ -9668,6 +9684,25 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Zonage réglementaire du PPRN inondation de la Commune de Fauverney en Côte-d'Or"
+    },
+    {
+      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Crimolois a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:67377693831ee9d824c40cad",
+      "isNew": true,
+      "lastModified": "2017-03-16T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-crimolois-en-cote-dor-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Zonage réglementaire du PPRN inondation de la Commune de Crimolois en Côte-d'Or"
     },
     {
       "description": "Zonage des aléas du Plan de prévention des risques naturels de Vénarey-lès-Laumes (Arrêté préfectoral du 31/12/2009). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
@@ -9879,42 +9914,23 @@
       "title": "Zonage des aléas du PPRN de Brazey-en-Plaine en Côte-d'Or"
     },
     {
-      "description": "Cette couche contient les périmètres d'exposition au risque du plan de prévention des risques naturels de Vénarey-lès-Laumes",
+      "description": "Cette couche contient les périmètres d'exposition au risque du plan de prévention des risques naturels de Semur-en-Auxois",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
         "WFS",
         "WMS"
       ],
       "frequency": "unknown",
-      "id": "data-gouv:673774fe831ee9d824c40b82",
+      "id": "data-gouv:6737762a831ee9d824c40c67",
       "isNew": true,
       "lastModified": "2017-03-16T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/perimetre-dexposition-au-risque-du-pprn-de-venarey-les-laumes-en-cote-dor-1",
+      "pageURL": "https://www.data.gouv.fr/datasets/perimetre-dexposition-au-risque-du-pprn-de-semur-en-auxois-en-cote-dor-1",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 6,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Périmètre d'exposition au risque du PPRN de Vénarey-lès-Laumes en Côte-d'Or"
-    },
-    {
-      "description": "Cette couche contient les périmètres d'exposition au risque du plan de prévention des risques naturels de Perrigny-lès-Dijon",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:6737759d831ee9d824c40c04",
-      "isNew": false,
-      "lastModified": "2017-03-16T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/perimetre-dexposition-au-risque-du-pprn-de-perrigny-les-dijon-en-cote-dor-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Périmètre d'exposition au risque du PPRN de Perrigny-lès-Dijon en Côte-d'Or"
+      "title": "Périmètre d'exposition au risque du PPRN de Semur-en-Auxois en Côte-d'Or"
     },
     {
       "description": "Cette couche contient les périmètres d'exposition au risque du plan de prévention des risques naturels de Montbard",
@@ -10050,6 +10066,44 @@
       "title": "Profils en travers du Plan de prévention des risques naturels (PPRN) de la commune de Marsannay-la-Côte en Côte-d'Or"
     },
     {
+      "description": "Le Plan de prévention des risques naturels inondation de la Saône - secteur 1 a été approuvé par arrêté préfectoral en date du 28/12/2006. Cette couche représente le zonage réglementaire du PPRN.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:6737759d831ee9d824c40c03",
+      "isNew": true,
+      "lastModified": "2017-03-15T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-saone-secteur-1-en-cote-dor-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Zonage réglementaire du PPRN inondation de la Saône - secteur 1 en Côte-d'Or"
+    },
+    {
+      "description": "Zonage des aléas du Plan de prévention des risques naturels de Ste-Colombe-sur-Seine (Arrêté préfectoral du 07/07/2002). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
+      "formats": [
+        "ESRI SHAPEFILE (SHP)",
+        "WFS",
+        "WMS"
+      ],
+      "frequency": "unknown",
+      "id": "data-gouv:6737775a831ee9d824c40d30",
+      "isNew": true,
+      "lastModified": "2017-03-15T00:00:00+00:00",
+      "pageURL": "https://www.data.gouv.fr/datasets/zonage-des-aleas-du-pprn-de-ste-colombe-sur-seine-en-cote-dor-1",
+      "portalID": "data-gouv-fr",
+      "publisher": "DDT Côte-d'Or",
+      "resourceCount": 6,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "bfc_explicit",
+      "title": "Zonage des aléas du PPRN de Ste-Colombe-sur-Seine en Côte-d'Or"
+    },
+    {
       "description": "Zonage des aléas du Plan de prévention des risques naturels de Perrigny-sur-l'Ognon (Arrêté préfectoral du 03/08/2010). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -10105,44 +10159,6 @@
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
       "title": "Périmètre d'exposition au risque du PPRN de Glanon en Côte-d'Or"
-    },
-    {
-      "description": "Cette couche contient les périmètres d'exposition au risque du plan de prévention des risques naturels de Châtillon-sur-Seine",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:67377757831ee9d824c40d29",
-      "isNew": true,
-      "lastModified": "2017-03-15T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/perimetre-dexposition-au-risque-du-pprn-de-chatillon-sur-seine-en-cote-dor-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Périmètre d'exposition au risque du PPRN de Châtillon-sur-Seine en Côte-d'Or"
-    },
-    {
-      "description": "Le Plan de prévention des risques naturels inondation de la Commune de Varanges a été approuvé par arrêté préfectoral en date du 24/06/2014. Cette couche représente le zonage réglementaire du PPRN.",
-      "formats": [
-        "ESRI SHAPEFILE (SHP)",
-        "WFS",
-        "WMS"
-      ],
-      "frequency": "unknown",
-      "id": "data-gouv:67377732831ee9d824c40d1c",
-      "isNew": false,
-      "lastModified": "2017-03-13T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zonage-reglementaire-du-pprn-inondation-de-la-commune-de-varanges-en-cote-dor-1",
-      "portalID": "data-gouv-fr",
-      "publisher": "DDT Côte-d'Or",
-      "resourceCount": 6,
-      "reviewStatus": "detected_to_qualify",
-      "territorialRelevance": "bfc_explicit",
-      "title": "Zonage réglementaire du PPRN inondation de la Commune de Varanges en Côte-d'Or"
     },
     {
       "description": "Zonage des aléas du Plan de prévention des risques naturels de Varanges (Arrêté préfectoral du 24/06/2014). Cette couche représente l'ensemble des aléas inondations. Il n'y a qu'une seule couche qui a permis la réalisation de toutes les cartes d'aléas du PPRN.",
@@ -10293,6 +10309,21 @@
       "title": "Cours d'eau à gestion domaniale en Saône-et-Loire"
     },
     {
+      "description": "<p>[Archive] Les données brutes sont fournies par l’INPI et sont issues d’une extraction de sa base interne de 2015 enrichie de la base Patstat pour certains brevets européens. Il s’agit de la base des publications de demandes de brevets et de délivrances de brevets en France à l’INPI (voie nationale), et des demandes de brevets européens de l’Office européen des brevets (OEB) qui entrent en phase nationale française. La base de données brevets de l’INPI est disponible dans son intégralité à des fins de réutilisation dans le cadre d’une licence (https://www.inpi.fr/fr/services-et-prestations/bases-en-acces-libre)</p><p>Les données par brevet présentent des dates de procédures, des adresses françaises des déposants et inventeurs, la nature des déposants et des codes de la Classification internationale des brevets (CIB) et des nomenclatures technologiques liées. Afin de protéger les données personnelles, les noms et adresses d’inventeurs et de déposants (personne physique) ne figurent pas dans ce jeu de donnée.</p><p>Chaque brevet est géo-localisés à différents niveaux selon l'adresse des déposants et des inventeurs : pays, régions, départements, unités urbaines, communes.</p><p>Ces données sont mobilisées dans l'<a href=\"http://publication.enseignementsup-recherche.gouv.fr/atlas-brevets/index.php/Accueil/fr\" target=\"_blank\">Atlas des brevets</a></p><p>L’objectif de cet atlas est de contribuer à la compréhension<strong style=\"background-color: initial;\"> de l’activité de recher",
+      "formats": [],
+      "frequency": "Annuelle",
+      "id": "higher-education:fr-esr-brevets-france-inpi-oeb",
+      "isNew": true,
+      "lastModified": "2017-02-01T11:21:35+00:00",
+      "pageURL": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-brevets-france-inpi-oeb/",
+      "portalID": "higher-education",
+      "publisher": "MESR-SIES",
+      "resourceCount": 1,
+      "reviewStatus": "detected_to_qualify",
+      "territorialRelevance": "territorial_potential",
+      "title": "Les brevets français à l'INPI et l'OEB"
+    },
+    {
       "description": "La côte viticole se présente en 2 grands ensembles; la côte chalonnaise et la côte mâconnaise. Deux types d'érosion sont généralement distingués : l'érosion diffuse qui se caractérise sur une grande surface et qui entraîne peu de risques, et l'érosion concentrée qui se produit dans des zones avec une topographie favorisant la concentration et donc plus importante en risques. Les zones cartographiées ont une valeur indicative, ainsi une habitation non recouverte par l'atlas peut être touchée par un écoulement.",
       "formats": [
         "ESRI SHAPEFILE (SHP)",
@@ -10403,21 +10434,21 @@
       "title": "Zonage des aléas du PPRN de Glanon en Côte-d'Or"
     },
     {
-      "description": "Cette couche correspond à la zone inondable calculée par modélisation hydraulique pour une crue d'occurrence 50 ans. Les modélisations des différentes crues ont été réalisées dans un objectif d'aide à la gestion des crises inondations. Ces modélisations ont abouti également à la réalisation de PPRN.",
+      "description": "Cette couche correspond à la zone inondable calculée par modélisation hydraulique pour une crue d'occurrence 2 ans. Les modélisations des différentes crues ont été réalisées dans un objectif d'aide à la gestion des crises inondations. Ces modélisations ont abouti également à la réalisation de PPRN.",
       "formats": [
         "ESRI SHAPEFILE (SHP)"
       ],
       "frequency": "severalTimesADay",
-      "id": "data-gouv:6737760c831ee9d824c40c52",
+      "id": "data-gouv:6737760a831ee9d824c40c4f",
       "isNew": true,
       "lastModified": "2015-11-30T00:00:00+00:00",
-      "pageURL": "https://www.data.gouv.fr/datasets/zones-inondables-des-crues-de-louche-occurrence-50-ans-pour-la-cote-dor",
+      "pageURL": "https://www.data.gouv.fr/datasets/zones-inondables-des-crues-de-louche-occurrence-2-ans-pour-la-cote-dor",
       "portalID": "data-gouv-fr",
       "publisher": "DDT Côte-d'Or",
       "resourceCount": 2,
       "reviewStatus": "detected_to_qualify",
       "territorialRelevance": "bfc_explicit",
-      "title": "Zones inondables des crues de l'ouche, occurrence 50 ans, pour la Côte-d'Or"
+      "title": "Zones inondables des crues de l'ouche, occurrence 2 ans, pour la Côte-d'Or"
     },
     {
       "description": "Pour les PPR naturels, le code de l'environnement définit deux catégories de zones (L562-1) : les zones exposées aux risques et les zones qui ne sont pas directement exposées aux risques mais sur lesquelles des mesures peuvent être prévues pour éviter d'aggraver le risque. En fonction du niveau d'aléa, chaque zone fait l'objet d'un règlement opposable. Les règlements distinguent généralement trois types de zones : 1- les « zones d'interdiction de construire », dites « zones rouges », lorsque le niveau d'aléa est fort et que la règle générale est l'interdiction de construire ; 2- les « zones soumises à prescriptions », dites « zones bleues », lorsque le niveau d'aléa est moyen et que les projets sont soumis à des prescriptions adaptées au type d'enjeu ; 3- les zones non directement exposées aux risques mais où des constructions, des ouvrages, des aménagements ou des exploitations agricoles, forestières, artisanales, commerciales ou industrielles pourraient aggraver des risques ou en provoquer de nouveaux, soumises à interdictions ou prescriptions (cf. article L562-1 du Code de l'environnement) . Cette dernière catégorie ne s'applique qu'aux PPR naturels.",
@@ -10526,7 +10557,7 @@
       "formats": [],
       "frequency": "Ponctuel",
       "id": "higher-education:fr-esr-postes_ouverts_concours_itrf",
-      "isNew": true,
+      "isNew": false,
       "lastModified": "2015-04-17T20:45:16+00:00",
       "pageURL": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-postes_ouverts_concours_itrf/",
       "portalID": "higher-education",
@@ -10537,7 +10568,7 @@
       "title": "Liste des emplois offerts aux concours externes et internes et aux examens professionnalisés réservés ITRF"
     }
   ],
-  "generatedAt": "2026-08-24T07:58:56Z",
+  "generatedAt": "2026-08-24T10:25:41Z",
   "portals": [
     {
       "catalogURL": "https://www.data.gouv.fr/api/1/datasets/",
@@ -10768,6 +10799,69 @@
       "id": "dgfip",
       "name": "DGFiP",
       "scope": "France/régions/départements/communes"
+    },
+    {
+      "categories": [
+        "poverty",
+        "inequality",
+        "income"
+      ],
+      "evidenceTier": "official-international",
+      "id": "world-bank-pip",
+      "name": "Banque mondiale · Poverty and Inequality Platform",
+      "scope": "Monde/pays"
+    },
+    {
+      "categories": [
+        "poverty",
+        "inequality",
+        "income"
+      ],
+      "evidenceTier": "official-international",
+      "id": "eurostat-eu-silc",
+      "name": "Eurostat · EU-SILC",
+      "scope": "Union européenne/pays/régions disponibles"
+    },
+    {
+      "categories": [
+        "poverty",
+        "inequality",
+        "income"
+      ],
+      "evidenceTier": "official-international",
+      "id": "oecd-income-distribution",
+      "name": "OCDE · Income Distribution Database",
+      "scope": "OCDE/pays"
+    },
+    {
+      "categories": [
+        "inequality",
+        "income"
+      ],
+      "evidenceTier": "research-estimate",
+      "id": "wid-world",
+      "name": "World Inequality Database",
+      "scope": "Monde/pays"
+    },
+    {
+      "categories": [
+        "inequality",
+        "income"
+      ],
+      "evidenceTier": "private-estimate",
+      "id": "ubs-global-wealth",
+      "name": "UBS Global Wealth Report",
+      "scope": "Monde/pays"
+    },
+    {
+      "categories": [
+        "inequality",
+        "income"
+      ],
+      "evidenceTier": "private-estimate",
+      "id": "forbes-billionaires",
+      "name": "Forbes World’s Billionaires",
+      "scope": "Monde/pays"
     },
     {
       "categories": [
@@ -11270,67 +11364,67 @@
   "runs": [
     {
       "candidateCount": 499,
-      "checkedAt": "2026-08-24T07:58:35Z",
+      "checkedAt": "2026-08-24T10:25:17Z",
       "portalID": "data-gouv-fr",
       "status": "success"
     },
     {
-      "candidateCount": 54,
-      "checkedAt": "2026-08-24T07:58:44Z",
+      "candidateCount": 56,
+      "checkedAt": "2026-08-24T10:25:25Z",
       "portalID": "open-urssaf",
       "status": "success"
     },
     {
       "candidateCount": 15,
-      "checkedAt": "2026-08-24T07:58:45Z",
+      "checkedAt": "2026-08-24T10:25:27Z",
       "portalID": "dares",
       "status": "success"
     },
     {
       "candidateCount": 1,
-      "checkedAt": "2026-08-24T07:58:46Z",
+      "checkedAt": "2026-08-24T10:25:28Z",
       "portalID": "drees",
       "status": "success"
     },
     {
       "candidateCount": 28,
-      "checkedAt": "2026-08-24T07:58:47Z",
+      "checkedAt": "2026-08-24T10:25:29Z",
       "portalID": "education",
       "status": "success"
     },
     {
       "candidateCount": 18,
-      "checkedAt": "2026-08-24T07:58:48Z",
+      "checkedAt": "2026-08-24T10:25:30Z",
       "portalID": "higher-education",
       "status": "success"
     },
     {
       "candidateCount": 0,
-      "checkedAt": "2026-08-24T07:58:49Z",
+      "checkedAt": "2026-08-24T10:25:36Z",
       "portalID": "ameli",
       "status": "success"
     },
     {
       "candidateCount": 20,
-      "checkedAt": "2026-08-24T07:58:50Z",
+      "checkedAt": "2026-08-24T10:25:37Z",
       "portalID": "ofgl",
       "status": "success"
     },
     {
       "candidateCount": 56,
-      "checkedAt": "2026-08-24T07:58:51Z",
+      "checkedAt": "2026-08-24T10:25:38Z",
       "portalID": "ademe",
       "status": "success"
     },
     {
       "candidateCount": 0,
-      "checkedAt": "2026-08-24T07:58:52Z",
+      "checkedAt": "2026-08-24T10:25:39Z",
       "portalID": "economie-gouv",
       "status": "success"
     },
     {
       "candidateCount": 15,
-      "checkedAt": "2026-08-24T07:58:53Z",
+      "checkedAt": "2026-08-24T10:25:40Z",
       "portalID": "sports-gouv",
       "status": "success"
     }
@@ -11338,13 +11432,13 @@
   "schemaVersion": 1,
   "summary": {
     "bfcExplicitCount": 428,
-    "discoveredDatasetCount": 612,
-    "integratedSeriesCount": 201,
+    "discoveredDatasetCount": 614,
+    "integratedSeriesCount": 235,
     "monitoredPortalCount": 11,
-    "newSincePreviousCount": 17,
-    "registeredProducerCount": 58,
+    "newSincePreviousCount": 27,
+    "registeredProducerCount": 64,
     "successfulPortalCount": 11,
-    "territorialPotentialCount": 184
+    "territorialPotentialCount": 186
   },
   "territory": "Bourgogne-Franche-Comté et ses huit départements"
 }
